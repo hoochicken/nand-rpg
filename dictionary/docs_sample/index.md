@@ -15,7 +15,7 @@ verteilung, vorschla
 * greifen => körper
 * atemi => bein
 * waffen => arm 
-* atemi => kopf
+* umklammerung => kopf
 
 
 ## Grundsätze
