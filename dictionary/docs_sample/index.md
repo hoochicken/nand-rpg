@@ -8,8 +8,14 @@ Dr. Robert Suna (Kata, Die Leichtigkeit des Seins)
 
 Sutemi waza, Definition
 
+duo serie, angriffe
 
+verteilung, vorschla
 
+* greifen => körper
+* atemi => bein
+* waffen => arm 
+* atemi => kopf
 
 
 ## Grundsätze
