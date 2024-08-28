@@ -3,6 +3,7 @@
 <br>MkDocs Material<br>Boilerplate - Starter Kit
 </h1>
 
+
 * Documentation: https://github.com/peaceiris/mkdocs-material-boilerplate
 
 ![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
@@ -35,7 +36,7 @@ git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
 cd mkdocs-material-boilerplate
 pipenv sync --dev
 pipenv shell
-inv serve --config-file mkdocs-sample.yml
+inv serve --config-file mkdocs.yml
 ```
 
 
