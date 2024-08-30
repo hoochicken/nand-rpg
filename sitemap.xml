@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/kata-allgemein/</loc>
-         <lastmod>2024-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://127.0.0.1:8000/techniques/01-koerper/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +32,11 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/theory/stoffsammlung/</loc>
+         <lastmod>2024-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/theory/technik-ablaeufe/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
