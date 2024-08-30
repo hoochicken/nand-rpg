@@ -8,9 +8,9 @@ Dr. Robert Suna (Kata, Die Leichtigkeit des Seins)
 
 Die Definition von Suna (s.o.) deckt bereits sehr gut ab, was eine Kata darstellt. Im Folgenden werde ich die gegebene Definition erläutern und kommentieren.
 
-Eine Kata wird bezeichnet als "Übungsform". Dies bedeutet, dass der Kata-Ausübende diese Kata wiederholt und widerholt und - in der Regel - dabei die angewandten Techniken verfeinert.
+Eine Kata wird bezeichnet als "Übungsform". Dies bedeutet, dass der Kata-Ausübende diese Kata wiederholt und wiederholt und - in der Regel - dabei die angewandten Techniken verfeinert.
 
-Diese Übungsform ermögliche es, laut Suna, "bestimmte Prinzipien durch die Trainierenden explizit zu erfahren". Die Kata ist also eine gezielte Zusammestellung von Techniken, die miteinander enen Sinn ergeben. Weil sie zum Beispiel ein bestimmtes Prinzip fokussiert betrachen. Eine Kata ist damit kein blosses Aufeinandertreffen zufällig zusammengewürfelter Techniken.
+Diese Übungsform ermögliche es, laut Suna, "bestimmte Prinzipien durch die Trainierenden explizit zu erfahren". Die Kata ist also eine gezielte Zusammestellung von Techniken, die miteinander einen Sinn ergeben. Weil sie zum Beispiel ein bestimmtes Prinzip fokussiert betrachen. Eine Kata ist damit kein blosses Aufeinandertreffen zufällig zusammengewürfelter Techniken.
 
 Ein oder mehrere Prinzipien werden vertieft. Dem Kataausübenden wird damit ermöglicht, sich wieder und immer wieder mit demselben Komplex auseinanderzusetzen und zu vertiefen.
 
@@ -18,7 +18,7 @@ Weiter könnte eine Kata "zur Demonstration dieser Prinzipien herangezogen werde
 
 ## Kata als Team-Work im Jujutsu
 
-Katas im Jujutsu oder Jiu-Jitsu sind speziell. Warum? Weil man bei einer klasseschen Kata an die Solo-Kata im Karate denkt.
+Katas im Jujutsu oder Jiu-Jitsu sind speziell. Warum? Weil man bei einer klassischen Kata an die Solo-Kata im Karate denkt.
 
 Im Karate wird eine Kata von *einer* Person gelaufen; diese führt alle Techniken aus. Im Internet gibt es wunderbare Beispiele zu Karate-Katas, die nun weltweit verfügbar sind.
 
@@ -45,7 +45,7 @@ In einer Kata zeigt man die Wirksamkeit einer Jujutsu-Technik, dass man eine Tec
 
 ## Persönlich Gedanken zur Kata im Jujutsu
 
-**Kata finden**: In meinem Verein kenne ich niemanden, der eine Jujutsu-Kata kennt geschweige denn ausführen kann. Meine erste Anlaufstelle war Robert Suna, dessen Kata ich einmal in einer (btw wunderbaren) Dan-Prüfung erlegen durfte. Nachliessend habe ich evrschiedene Katas im Internet recherchiert. Zuzsammengefasst: Gar nicht so einfach, den Ablauf einer (klassischen oder modernen) Kata zu finden.
+**Kata finden**: In meinem Verein kenne ich niemanden, der eine Jujutsu-Kata kennt geschweige denn ausführen kann. Meine erste Anlaufstelle war Robert Suna, dessen Kata ich einmal in einer (btw wunderbaren) Dan-Prüfung erleben durfte. Nachliessend habe ich evrschiedene Katas im Internet recherchiert. Zuzsammengefasst: Gar nicht so einfach, den Ablauf einer (klassischen oder modernen) Kata zu finden.
 
 **Kata trainieren**: Zur Übung einer Jujutsu-Kata benötigt man eigentlich immer (mindestens) einen Partner. Dies bedeutet, dass man eine Trainingsraum und eine Trainingszeit vereinbaren muss. Das stellt einen auch vor Herausforderungen. Zumal Kata-Ausübende sich zumeist auf einen höheren Dan vorbereiten; und die sind innerhalb eines Vereins manchmal nicht zu finden.
 
