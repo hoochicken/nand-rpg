@@ -46,7 +46,5 @@ verteilung, vorschla
 |              | Schwitzkasten von der Seite (Angriff rechts)                 | Krokodilsrolle               |
 |              | Schwitzkasten von vorn (Angriff links)                       | Triangelwurf                 |
 |              | Würge von hinten mit dem Unterarm                            | Gerädelte Beinhalsschere     |
-| ------------ | ---------------------------------------------                | ------------                 |
-|              | Zusatz                                                       | Triangelsprung               |
 
 Quelle der Duo-Angriffe: <a href="https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
