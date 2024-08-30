@@ -52,6 +52,7 @@ In einer Kata zeigt man die Wirksamkeit einer Jujutsu-Technik, dass man eine Tec
 **Platzierung im Prüfungsprogramm**: Die erste Kata oder freie Selbstdarstellung wird im 4. Dan verlangt. Es gibt keine früher angesetzte Vorbereitung zu einer Kata. Dies bewirkt, dass der Prüfling vor einer unbekannten, ggf. furchteinflössenden Aufgabe steht. Ggf. führt dies zum Aufgeben des Prüflings schon vor der Prüfung.
 
 **Kata befördern - Ideen**:
+
 * Kata finden - offizielle Videos und Lehrvideos zu Kata, zugänglich auf youtube
 * Kata trainieren - Lehrgänge zu Kata regelmässig anbieten, z. B. auf Baden rockt immer eine Einheit o. Ä.
 * Platzierung im Prüfungsprogramm - früher im Prüfungsprügramm ansiedeln, "kleine"; bspw. bei grün eine 3-Technik-Kata, bei blau eine 5-Technik-Kata
