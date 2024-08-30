@@ -1,6 +1,6 @@
 # Kata im Jujutsu
 
-> Eine Kata ist eine Übungsform, die es ermöglicht, bestimmte Prinzipien durch die Trainierenden explizit zu erfahren. Außerdem dient sie dazu, die motorischen Fähigkeiten zu erweitern und Bewegungsabläufe zu automatisieren. Sie kann auch zur Demonstration dieser Prinzipien herangezogen werden um Anreize für die Bewältigung von Situationen zu geben.
+> Eine Kata ist eine Übungsform, die es ermöglicht, bestimmte Prinzipien durch die Trainierenden explizit zu erfahren. Ausserdem dient sie dazu, die motorischen Fähigkeiten zu erweitern und Bewegungsabläufe zu automatisieren. Sie kann auch zur Demonstration dieser Prinzipien herangezogen werden um Anreize für die Bewältigung von Situationen zu geben.
 
 Dr. Robert Suna (Kata, Die Leichtigkeit des Seins)
 
