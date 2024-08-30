@@ -48,3 +48,5 @@ verteilung, vorschla
 |         | Würge von hinten mit dem Unterarm                            | Gerädelte Beinhalsschere     |
 | ------------ | ---------------------------------------------                | ------------                 |
 |         | Zusatz                                                       | Triangelsprung               |
+
+Quelle: <https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
