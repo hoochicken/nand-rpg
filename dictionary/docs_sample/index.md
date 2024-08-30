@@ -34,19 +34,19 @@ verteilung, vorschla
 |              | Halbkreisfusstritt vorwärts zur Körpermitte                  | Schweinerolle                |
 | ------------ | ---------------------------------------------                | ------------                 |
 | 4            | **Messer- oder Stockangriffe**                               | **Arm**                      |
-|         | Messerstich von oben aussen (Nr. 1) in Dolchhaltung          | Vorwärts-Armstreckhebelrolle |
-|         | Messertich geradlinig zur Körpermitte (Nr. 5)                | Seitenriss                   |
-|         | Messerstich von oben innen (Nr. 2) in Dolchhaltung           | Beineinhänger-Eckenwurf      |
-|         | Stockschlag  von oben (Nr. 6)                                | Fingergehebelter Eckenwurf   |
-|         | Stockschlag von oben aussen (Nr. 1)                          | Aussendrehwurf               |
+|              | Messerstich von oben aussen (Nr. 1) in Dolchhaltung          | Vorwärts-Armstreckhebelrolle |
+|              | Messertich geradlinig zur Körpermitte (Nr. 5)                | Seitenriss                   |
+|              | Messerstich von oben innen (Nr. 2) in Dolchhaltung           | Beineinhänger-Eckenwurf      |
+|              | Stockschlag  von oben (Nr. 6)                                | Fingergehebelter Eckenwurf   |
+|              | Stockschlag von oben aussen (Nr. 1)                          | Aussendrehwurf               |
 | ------------ | ---------------------------------------------                | ------------                 |
 | 2            | **Umklammerungsangriffe**                                    | **Kopf**                     |
-|         | Umklammerung von vorn unter den Armen                        | Reisballenwurf               |
-|         | Umklammerung von vorn über den Armen                         | Doppelreverswürg-Sutemi      |
-|         | Schwitzkasten von der Seite (Angriff rechts)                 | Krokodilsrolle               |
-|         | Schwitzkasten von vorn (Angriff links)                       | Triangelwurf                 |
-|         | Würge von hinten mit dem Unterarm                            | Gerädelte Beinhalsschere     |
+|              | Umklammerung von vorn unter den Armen                        | Reisballenwurf               |
+|              | Umklammerung von vorn über den Armen                         | Doppelreverswürg-Sutemi      |
+|              | Schwitzkasten von der Seite (Angriff rechts)                 | Krokodilsrolle               |
+|              | Schwitzkasten von vorn (Angriff links)                       | Triangelwurf                 |
+|              | Würge von hinten mit dem Unterarm                            | Gerädelte Beinhalsschere     |
 | ------------ | ---------------------------------------------                | ------------                 |
-|         | Zusatz                                                       | Triangelsprung               |
+|              | Zusatz                                                       | Triangelsprung               |
 
-Quelle: <https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
+Quelle der Duo-Angriffe: <a href="https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
