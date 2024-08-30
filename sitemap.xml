@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://127.0.0.1:8000/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kata-allgemein/</loc>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/techniques/01-koerper/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/techniques/02-bein/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/techniques/03-arm/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/techniques/04-kopf/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/theory/kata-definition/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/theory/stoffsammlung/</loc>
-         <lastmod>2024-08-28</lastmod>
+         <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
