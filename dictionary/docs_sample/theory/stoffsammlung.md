@@ -18,7 +18,7 @@
 | Seitenriss                                          | Yoko wakare              | Körper      | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | Eckenwurf                                           | Sumi gaeshi              | Körper      | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | ------------------------------------                | -------------            | ----------- | -------------- | ---         | ---  | ---    |
-| Beinrollwurf am Bein                                | Wurfjp                   | Bein        | Absicht        | nach hinten | Inhalt | Raum | Ablauf |
+| Beinrollwurf am Bein                                |                          | Bein        | Absicht        | nach hinten | Inhalt | Raum | Ablauf |
 | Schweinerolle, eingehängte und gerollte Innensichel | Ko-uchi-gake guruma      | Bein        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
 | Rolle zum Bein                                      |                          | Bein        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
 | Scherenwurf aus Bodenlage                           | Kani basami              | Bein        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
@@ -34,7 +34,7 @@
 | ------------------------------------                | -------------            | ----------- | -------------- | ---         | ---  | ---    |
 | Reisballenwurf am Kopf                              | Atami no tawara gaeshi   | Kopf        | Absicht        | nach hinten | Inhalt | Raum | Ablauf |
 | Beinhalsschere von vorn                             | Hizi-maki-komi           | Kopf        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
-| Krokorolle                                          | Wurfjp                   | Kopf        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
+| Krokorolle                                          |                          | Kopf        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | Beinhalsschere im Rad                               | Guruma no hizi-maki-komi | Kopf        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | Triangelsprung                                      | Sankaku-jime             | Kopf        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
 | Seitenriss mit Würger                               | Yoko-guruma              | Kopf        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
