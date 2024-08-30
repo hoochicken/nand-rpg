@@ -60,8 +60,8 @@ nav:
   - "Home": "index.md"
   - "Theorie":
     - "Definition von Kata": "theory/kata-definition.md"
-    - "Technik-Abläufe allgemein": "theory/technik-ablaeufe.md"
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"
+    - "Technik-Ablaeufe allgemein": "theory/technik-ablaeufe.md"
   - "Techniken":
     - "Körper": "techniques/01-koerper.md"
     - "Bein": "techniques/02-bein.md"
