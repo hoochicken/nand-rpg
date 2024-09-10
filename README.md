@@ -4,6 +4,8 @@
 
 ~~~shell
 # in pycharm
+git add .
+git commit -m "change description"
 cd dictionary
 mkdocs gh-deploy -d dictionary 
 ~~~

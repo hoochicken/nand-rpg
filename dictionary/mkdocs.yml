@@ -58,12 +58,14 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Theorie":
+  - "Techniken":
+    - "08 Stockabwehr": "techniques/stockabwehr.md"
+  - "Kata-Theorie":
     - "Definition von Kata": "theory/kata-definition.md"
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"
     - "Technik-Ablaeufe allgemein": "theory/technik-ablaeufe.md"
-  - "Techniken":
-    - "Körper": "techniques/01-koerper.md"
-    - "Bein": "techniques/02-bein.md"
-    - "Arm": "techniques/03-arm.md"
-    - "Kopf": "techniques/04-kopf.md"
+  - "Kata":
+    - "Körper": "kata-techniques/01-koerper.md"
+    - "Bein": "kata-techniques/02-bein.md"
+    - "Arm": "kata-techniques/03-arm.md"
+    - "Kopf": "kata-techniques/04-kopf.md"
