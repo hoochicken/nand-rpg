@@ -8,6 +8,9 @@
 | Halbkreisfusstritt vorwärts zur Körpermitte | Schweinerolle               |
 
 ## Beinzug-Schulterrad-Sutemi nach Fauststoss zum Kopf
+
+
+
 ## Beinrollwurf nach Fauststoss zur Körpermitte
 ## kleine Innensichel gefallen nach Handaussenkantenschlag zum Hals
 ## Beinrollwurf nach Fusstritt vorwärts zur Körpermitte
