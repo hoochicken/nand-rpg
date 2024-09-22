@@ -59,7 +59,9 @@ extra:
 nav:
   - "Home": "index.md"
   - "Techniken":
-    - "08 Stockabwehr": "techniques/stockabwehr.md"
+    - "02 Übergang Stand Boden Atemi": "techniques/02-uebergang-stand-boden.md"
+    - "04 Atemi": "techniques/04-atemi.md"
+    - "08 Stockabwehr": "techniques/08-stock.md"
   - "Kata-Theorie":
     - "Definition von Kata": "theory/kata-definition.md"
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"

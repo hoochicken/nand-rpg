@@ -8,8 +8,10 @@ git add .
 git commit -m "change description"
 git push
 cd dictionary
-mkdocs gh-deploy -d dictionary 
+mkdocs gh-deploy -d dictionary
+ python -m mkdocs gh-deploy -d dictionary
 ~~~
+
 <https://hoochicken.github.io/dan-iv/index>
 
 ~~~shell
