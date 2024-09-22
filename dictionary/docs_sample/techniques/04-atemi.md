@@ -113,7 +113,7 @@
 * Empi ushiro links zum Gesicht
 * Kopf packen und P. nach unten falten
 
-### Techniksammlung
+## Techniksammlung
 
 * Tigerpfote zur Kehle
 * Hammerfaust in Bodenlage
