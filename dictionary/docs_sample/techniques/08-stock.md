@@ -9,7 +9,6 @@
 ### Weiterleiten + Würge
 
 * Block + weiterleiten über Kopf
-    * + weiterleiten über Kopf
     * Handgelenk greifen mit links
     * Rückhand zum Kopf
     * Stock auf Schulter ablegen, zzu sich ziehen

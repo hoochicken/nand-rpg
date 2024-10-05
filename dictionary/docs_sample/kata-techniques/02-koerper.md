@@ -1,5 +1,6 @@
 # Selbstfallwürfe am Körper / Gi des Gegners
 
+Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich ist, um den Gegner effektiv zu werfen.
 
 | Duo-Serie #1 - Festhalteangriffe                             | Körper       |
 |--------------------------------------------------------------|--------------|

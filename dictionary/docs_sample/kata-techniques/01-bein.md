@@ -1,4 +1,7 @@
 # Selbstfallwürfe am Bein des Gegners
+
+Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
+
 | Duo-Serie #3 - Beschreibung                 | Bein                        |
 |---------------------------------------------|-----------------------------|
 | Fauststoss zum Kopf                         | Beinzug-Schulterrad-Sutemi  |

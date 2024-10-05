@@ -1,5 +1,7 @@
 # Selbstfallwürfe am Arm des Gegners
 
+Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
+
 | Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                          |
 |-----------------------------------------------------|------------------------------|
 | Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle |
