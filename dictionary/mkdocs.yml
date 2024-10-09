@@ -72,12 +72,12 @@ nav:
     - "12 Freie SV": "techniques/12-freie-sv.md"
     - "13 Kata": "techniques/13-anwendungsformen-kata.md"
   - "Kata-Theorie":
-    - "Definition von Kata": "theory/kata-definition.md"
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"
     - "Technik-Ablaeufe allgemein": "theory/technik-ablaeufe.md"
   - "Kata":
-    - "Theorie": "kata-techniques/00-1-kata-definition.md"
-    - "Theorie": "kata-techniques/00-2-diese-kata.md"
+    - "Definition": "kata-techniques/00-1-kata-definition.md"
+    - "Zu dieser Kata": "kata-techniques/00-2-diese-kata.md"
+    - "Klein sein": "kata-techniques/00-3-klein-sein.md"
     - "Bein": "kata-techniques/01-bein.md"
     - "Körper": "kata-techniques/02-koerper.md"
     - "Arm": "kata-techniques/03-arm.md"
