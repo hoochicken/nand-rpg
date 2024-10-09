@@ -1,2 +1,2 @@
-# Weiterführungs-Techniken
+# Freie Selbstverteidigung
 

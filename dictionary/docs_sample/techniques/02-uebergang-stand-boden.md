@@ -6,6 +6,15 @@
 
 ## Guillotine
 
+**Punch gerade rechts**
+
+* ausweichen + Punch zur Rippe
+* Schwinger links zum Gesicht
+* Schulter des P. rollend nach unten bringen
+* dann 180 drehen und P. von vorne seitlich
+* nach unten ziehen in Vierfüsslerstand
+* Guillotine + Finish
+
 ## Schweinerolle
 
 **Maegeri rechts + Punch rechts**
@@ -18,13 +27,14 @@
 
 ## Krokorolle (Anaconda-Selbstfaller)
 
-**Punch rechts**
+**Punch gerade rechts**
 
 * ausweichen + Punch zur Rippe
 * Schwinger links zum Gesicht
 * Schulter des P. rollend nach unten bringen
 * dann 180 drehen und P. von vorne seitlich
 * zum Anaconda
+* Zug nach unten in den VIerfüsslerstand
 * Selbstfaller durch seitl. Rolle nach unten
 * Submissen durch Winkel am Boden
 
