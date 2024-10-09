@@ -76,6 +76,8 @@ nav:
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"
     - "Technik-Ablaeufe allgemein": "theory/technik-ablaeufe.md"
   - "Kata":
+    - "Theorie": "kata-techniques/00-1-kata-definition.md"
+    - "Theorie": "kata-techniques/00-2-diese-kata.md"
     - "Bein": "kata-techniques/01-bein.md"
     - "Körper": "kata-techniques/02-koerper.md"
     - "Arm": "kata-techniques/03-arm.md"
