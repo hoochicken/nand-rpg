@@ -8,136 +8,228 @@
 
 ## Armhebel im Stand (4)
 
-### Titel
+### Waki-gatame
 
-**Angriff**
+**Würgen von der Seite, auf der rechten Seite**
 
-* Punkt 1
-* Punkt 2
+* Kontrolle: Griff mit links zur würgenden, gleichseitigen Hand
+* Schritt nach vorne = Griss / Würge lösen
+* Griff mit rechts zum Handgelenk +  Drehung nach rechts, dabei
+* Zug nach aussen, Drehung nach links, rechtes Bein vorne
+* Wahi-gatame
 
-### Titel
+*Common Misconceptions: Der Waki-gatame wird oft falsch und daher ineffektiv ausgeführt.
+Daher erscheint es hier sinnvoll zu erklären, was waki gatame bedeutet.
+waki bezeichnet die Achsel; gatame die Streckung.
 
-**Angriff**
+Der Waki-gatame wird ist demzufolge ein Armsteckhebel, welcher mit der Achsel / Triceps / Latissimus ausgeführt wird.
 
-* Punkt 1
-* Punkt 2
+Der Waki-gatame wird mit der eigenen Achsel ausgeführt und NICHT an der Achsel des Uke.
 
-### Titel
+Korrekt ausgeführt ist der Waki-gatame einer der stärksten Hebel im gesamten Hebelarsenal des Jujutsu.*
 
-**Angriff**
+### Armstreckriegel von aussen
 
-* Punkt 1
-* Punkt 2
+**gerader Punch rechts**
 
-### Titel
+* ausweichen + Punch zur Rippe
+* Schwinger links zum Gesicht
+* Schulter des P. rollend nach unten bringen
+* von oben greifen mit links
+* Armstreckriegel von aussen
+* einklappen, an rechts übergeben
+* hinter Partner herumgreifen, mit links gleichseitiges Handgelenk greifen
+* aufrollen und Harai-goshi
+* 180°-Drehung
 
-**Angriff**
+### Armbeugehebel, eingegriffen
 
-* Punkt 1
-* Punkt 2
+**Revers greifen mit rechts**
+
+* Armbeugehebel eingreifen mit rechts
+
+### Shiho-nage
+
+**Gegenseitigs Greifen des Handgelenks**
+
+* Kontrolle: mit links Handgelenk greifen
+* nach rechts drehen, dabei Arm auf linke Schulter = Armstreckhebel
+* Shiho-nage
+
+### Armstreckhebel über der Schulter
+
+**Gleichseitiges Greifen des Handgelenks**
+
+* Kontrolle: mit rechts Handgelenk greifen
+* Finger aufdehnen, Handsperrhebel
+* Armstreckhebel über Schulter
+* Gasgeben über ASH
+* Schulterwurf
+* 180°-Drehung
 
 ## Armhebel am Boden (4)
 
-### Titel
+### Armstreckhebel
 
-**Angriff**
+**Schwinger rechts**
 
-* Punkt 1
-* Punkt 2
+* Ausweichen nach links + Block
+* Schock zum Hals mit re
+* Koshi-guruma
+* 180°-Drehung
 
-### Titel
+### Triangle Choke plus Arm bar
 
-**Angriff**
+**Schläge aus der Guard innen**
 
-* Punkt 1
-* Punkt 2
+* Hüfte hoch
+* Partner nach unten bringen, einfangen
+* Triangle + Armbar
 
-### Titel
+### Waki-gatama in Bodenlage
 
-**Angriff**
+**Gegenseitig greifen**
 
-* Punkt 1
-* Punkt 2
+* Z-Hebel
+* Waki-gatama (im Stand)
+* Rolle vorwärts
+* weiterrollen auf Bauch
+* Waki-gatame in Bodenlage
 
-### Titel
+### Armstreckhebel mit Oberschenkel
 
-**Angriff**
+**Griff ins Revers**
 
-* Punkt 1
-* Punkt 2
+* Griff mit beiden Händen an Ärmel
+* durch plötzliches Strecken der Arme den Griff lösen
+* Schulterwurf (normal oder revers)
+* Armstreckhebel
+* 180°-Drehung durch
+  * Kick in Bauch rechts
+  * rechter Rist hinter Nacken
+  * weiterdrehen in Kniestand
+  * Armstreckhebel
+
+### Armstreckhebel am Oberschenkel
+
+**Schwinger rechts**
+
+* Schulterwurf
+* eindrehen
+* Te-sho ins Gesicht, Block
+* 180°-Drehung durch Rolle
+* mit links über Arm schreiten, abknien
+* Armstreckhebel an Oberschenkel
 
 ## Handgelenkhebel (4)
 
-### Titel
+### Z-Hebel / Kote-mawashi
 
-**Angriff**
+**Gegenseitiges Greifen des Handgelenks rechts**
 
-* Punkt 1
-* Punkt 2
+* Kontrolle: mit links auf Hand des Partners
+* Arm nach oben
+* Z-Hebel zu Boden
 
-### Titel
+### Kipphandhebel
 
-**Angriff**
+**Würgen von vorne**
 
-* Punkt 1
-* Punkt 2
+* Kontrolle: Griff links zum gleichseitigen Handgelenk
+* nach links raus + Griff lösen
+* Kipphandhebel mit Empi
 
-### Titel
+### Handsperrhebel
 
-**Angriff**
+**Griff ins Revers rechts**
 
-* Punkt 1
-* Punkt 2
+* Waki-gatame
+* Welle + umgreifen
+* links Hand greif in Handfläche = Handsperrhebel
 
-### Titel
+### Handgelenkshebel
 
-**Angriff**
+**Schwinger**
 
-* Punkt 1
-* Punkt 2
+* Hane-goshi
+* auf Schulter drehen
+* Handgelenkshebel
 
-## FIngerhebel (3)
+### Umgekehrter Z-Hebel
 
-### Titel
+**Rückhandschlag rechts**
 
-**Angriff**
+* ausweichen nach aussen
+* Block
+* nach links drehen
+* Kote-hineri
+* umgekehrter Z-Hebel = Kuzure Kote-mawashi
+* eindrehen zu Schilterwurf, dabei Handfläche des Partners auf Brust setzen
+* Schulterwurf (aus Hebel beim Wurf rausgehen)
+* Schlag zum Gesicht
 
-* Punkt 1
-* Punkt 2
+## Fingerhebel (3)
 
-### Titel
+### Fingerhebel mit Eckenwurf
 
-**Angriff**
+**Rückhandschlag**
 
-* Punkt 1
-* Punkt 2
+* nach aussen
+* Block + Empi zur Rippe
+* Waki-gatame
+* Fingerhebel + Eckenwurf
+* Kontrolle am Boden
 
-### Titel
+### Kleinfingerhebel
 
-**Angriff**
+**Rückhandschlag rechts**
 
-* Punkt 1
-* Punkt 2
+* ausweichen nach aussen
+* Block
+* nach links drehen
+* Kote-hineri
+* Kleinfingerhebel
+
+### Daumenhebel
+
+**Griff ins Revers**
+
+* Kontrolle mit links
+* leicht raus
+* Daumenhebel mit rechts
 
 ## Beinhebel (3)
 
-### Titel
+### Heelhook
 
-**Angriff**
+**Mawashi-geri**
 
-* Punkt 1
-* Punkt 2
+* nach links drehend ausweichen
+* Bein fangen
+* grosse Innensichel
+* Hebel ansetzen und eng setzen
 
-### Titel
+### Fussgelenkshebel
 
-**Angriff**
+**Backmount, Fussgelenke überkreuzt, Versuch würgen**
 
-* Punkt 1
-* Punkt 2
+* Würge abwehren
+* Fussgelenkshebel
 
-### Titel
+### Truck
 
-**Angriff**
+**Mae-geri**
 
-* Punkt 1
-* Punkt 2
+* nach aussen ausweichen + Block
+* Bein zu Bogen bringen
+* Truck-Selbstfaller ... geht das?
+
+### Kniestreckhebel
+
+**Umklammerung von hinten über Armen**
+
+* Schock
+* leicht ausweichen nach aussen rechts
+* nach links drehen
+* äusseres Bein des Partners greifen
+* Wurf und Hebel
