@@ -82,16 +82,16 @@ Die folgende Tabelle stellt dieses Verhältnis dar:
 Die Tabelle wird wie folgt gelesen:
 
 * Ausgangpunkt:
-  * du wiegst ca. 60 kg
-  * dein Partner wiegst ca. 70 kg
+    * du wiegst ca. 60 kg
+    * dein Partner wiegst ca. 70 kg
 * Dein Gewichtsquotient (60 kg)
-  * gustu Zeile 59.9, Spalte 71.3
-  * => Gewichtsquotient zum Partner 0.840
-  * 0.795 < 1 => körperlich unterlegen
+    * gustu Zeile 59.9, Spalte 71.3
+    * => Gewichtsquotient zum Partner 0.840
+    * 0.795 < 1 => körperlich unterlegen
 * Gewichtsquotient Des Partners (71.3 kg)
-  * gustu Zeile 71.3, Spalte 59.9
-  * => Gewichtsquotient zum Partner 1.190
-  * 1.190 > 1 => körperlich überlegen
+    * gustu Zeile 71.3, Spalte 59.9
+    * => Gewichtsquotient zum Partner 1.190
+    * 1.190 > 1 => körperlich überlegen
 
 **Was wäre, wenn du der andere wärst**: Wie schwer wäre Dein Partner, wenn Du der andere (hier: der Überlegene) wärst?
 
@@ -101,8 +101,8 @@ Die Tabelle wird wie folgt gelesen:
 * Suche in deiner Gewichtszeile die ungeführen Wert 1.190, das wäre 1.210
 * Die Überschrift der Tabellenspalte bei 1.210 gibt das Gewicht das gedachten Partners an, wenn DU der andere wärst, also 49.5 kg
 * **Fazit wenn dein**
-  * wenn dein Partner an Dir Techniken anwendet, würde dich das für dich so anfühlen, als würdet du mit einem 50 kg schweren Partner trainieren
-  * => absolut easy
+    * wenn dein Partner an Dir Techniken anwendet, würde dich das für dich so anfühlen, als würdet du mit einem 50 kg schweren Partner trainieren
+    * => absolut easy
 
 **Was wäre, wenn du der andere wärst**: Wie schwer wärst du für deinen Partner, wenn der andere Du (hier: der Unterlegene) wäre?
 
@@ -112,8 +112,8 @@ Die Tabelle wird wie folgt gelesen:
 * Suche in deiner Gewichtszeile die ungeführen Wert 0.840, das wäre 0.852
 * Die Überschrift der Tabellenspalte bei 0.852 gibt das Gewicht das gedachten Partners an, wenn DU der andere wärst, also 83.7 kg
 * **Fazit wenn dein**
-  * wenn dein Partner du wäre, würde sich dies für ihn so anfühlen, als würdest Du 83.7 kg wiegen
-  * => ziemlich mühsam für den Partner
+    * wenn dein Partner du wäre, würde sich dies für ihn so anfühlen, als würdest Du 83.7 kg wiegen
+    * => ziemlich mühsam für den Partner
 
 ## Fazit
 
