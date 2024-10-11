@@ -44,9 +44,14 @@ plugins:
 
 # Customization
 extra_javascript:
-  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJ2ax.js?config=TeX-MML-AM_CHTML"
+  - "/assets/js/body-quotient-calculator.js"
 extra_css:
   - "assets/css/custom.css"
+markdown_extensions:
+  - markdown_include.include:
+      base_path: docs_sample
+
 extra:
   manifest: "manifest.json"
   social:
@@ -58,6 +63,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+  - "Der Rechner": "calculator.md"
   - "Techniken":
     - "02 Übergang Stand Boden Atemi": "techniques/02-uebergang-stand-boden.md"
     - "04 Atemi": "techniques/04-atemi.md"

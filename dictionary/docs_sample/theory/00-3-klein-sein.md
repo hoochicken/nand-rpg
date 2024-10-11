@@ -41,7 +41,9 @@ Der Einfachheit halber werden hier 3 Körperverhältnisse zwischen Tori und Uke 
 * Tori ist körperlich schwerer und grösser als Uke => der Tori hat es leicht
 * Uke ist körperlich schwerer und grösser als Tori => der Tori hat es schwer
 
-### Rechner für körperliche Über- und Unterlegenheit
+## Rechner für körperliche Über- und Unterlegenheit
+
+{!assets/calculator.md!}
 
 ## Gewicht der körperlichen Über- oder Unterlegenheit
 
