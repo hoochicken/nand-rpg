@@ -1,8 +1,14 @@
+So funktioniert es:
+
+* Gib dein Gewicht und deine Grösse ein
+* Gib Gewicht und Grösse deines Partners ein
+* Klicke auf "Berechnen"
+
 <table class="table table-striped partner1">
 <thead>
   <th></th>
-  <th>Partner 1</th>
-  <th>Partner 2</th>
+  <th>Partner 1 (Du)</th>
+  <th>Partner 2 (dein Partner)</th>
 </thead>
 <tbody>
   <tr>
