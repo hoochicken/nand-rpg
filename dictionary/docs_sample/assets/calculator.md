@@ -7,7 +7,7 @@ So funktioniert es:
 <table class="table table-striped partner1">
 <thead>
   <th></th>
-  <th>Partner 1 (Du)</th>
+  <th>Partner 1 (du)</th>
   <th>Partner 2 (der andere)</th>
 </thead>
 <tbody>
