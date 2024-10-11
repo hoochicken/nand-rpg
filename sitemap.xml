@@ -5,6 +5,14 @@
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/calculator/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/assets/calculator/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kata-techniques/01-bein/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
