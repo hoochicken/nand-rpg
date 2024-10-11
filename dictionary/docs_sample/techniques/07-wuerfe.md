@@ -1,49 +1,54 @@
 # Wurf-Techniken
 
+* insgesamt 6 Würfe
 * min. 2 Selbstfaller
 * max. 3 Würfe aus Kyu
 
-## Technik
+## Beinrollwurf
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
-## Technik
+## Ausheber von hinten
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
-## Technik
+## Gerädelter Scherenwurf
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
-## Technik
+## Abgeknieter Schulterwurf mit Arm-Push-Unterstützung
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
-## Technik
+## Harai-goshi
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
-## Technik
+## Abtaucher
 
 **Angriff**
 
 * Punkt 1
 * Punkt 2
 
+## Irimi-nage
 
+**Angriff**
 
+* Punkt 1
+* Punkt 2

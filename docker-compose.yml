@@ -2,12 +2,12 @@ version: "3.3"
 
 services:
 
-  nandworker:
+  dictionary:
     image: php:8.1-apache
-    container_name: nandworker_c
+    container_name: dictionaryc
     volumes:
-      - .:/var/www/html
+      - ./dictionary/site:/var/www/html
     environment:
-      - "APACHE_DOCUMENT_ROOT=var/www/html"
+      - "APACHE_DOCUMENT_ROOT=var/www/html/dictionary/site"
     ports:
       - 9099:80
