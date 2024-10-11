@@ -31,6 +31,14 @@ Oft gehörte Sprüche (meist aus dem Munde von Menschen, die ihrer Lebtag noch n
 * viele Techniken, die gezeigt werden, sind für ein ungleiches Körperverhältnis so nicht ausführbar
 * Hohn und Spott durch Trainings"partner" (Hier vielen "Dank" an die beiden lieben Herren, welche mich auf einem Lehrgang ausgelacht haben. Ihr habt den schwarzen Gürtel weder in Höflichkeit noch Respekt.)
 
+## Warum Sutemi Waza?
+
+Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser, schwerer und - aufgrund des Geschlecht - stärker.
+
+Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht -  beziehungsweise anders.
+
+Die Trainer, die mich betreuen, sind meistens Männer, d. h. grössere, starke und schwerere Menschen. Ich möchte hier ein Beispiel nennen.
+
 ## Was wäre, wenn ...
 
 Die folgende Tabelle verdeutlicht Körperverhältnisse. Sie versucht die Frage zu beantworten, wie dein Partner beschaffen sein müsste, bezüglich eines bestimmen Körperverhätnisses.
@@ -45,7 +53,7 @@ Der Einfachheit halber werden hier 3 Körperverhältnisse zwischen Tori und Uke 
 
 {!assets/calculator.md!}
 
-## Gewicht der körperlichen Über- oder Unterlegenheit
+## Tabellarische Bestimmung körperlicher Über- oder Unterlegenheit
 
 ### Tabelle - mit wem trainere ich
 
@@ -138,13 +146,3 @@ Die Grösse ist in 5er-Schritten berechtet. Davon leitet sich die Gewichtsschrit
 | 190         | 79.4                    |
 | 195         | 83.7                    |
 | 200         | 88.0                    |
-
-## Warum Sutemi Waza?
-
-Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser, schwerer und - aufgrund des Geschlecht - stärker.
-
-Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht -  beziehungsweise anders.
-
-Die Trainer, die mich betreuen, sind meistens Männer, d. h. grössere, starke und schwerere Menschen. Ich möchte hier ein Beispiel nennen.
-
-

@@ -8,7 +8,7 @@ So funktioniert es:
 <thead>
   <th></th>
   <th>Partner 1 (Du)</th>
-  <th>Partner 2 (dein Partner)</th>
+  <th>Partner 2 (der andere)</th>
 </thead>
 <tbody>
   <tr>
