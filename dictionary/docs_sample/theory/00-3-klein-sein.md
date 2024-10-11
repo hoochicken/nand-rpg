@@ -31,25 +31,22 @@ Oft gehörte Sprüche (meist aus dem Munde von Menschen, die ihrer Lebtag noch n
 * viele Techniken, die gezeigt werden, sind für ein ungleiches Körperverhältnis so nicht ausführbar
 * Hohn und Spott durch Trainings"partner" (Hier vielen "Dank" an die beiden lieben Herren, welche mich auf einem Lehrgang ausgelacht haben. Ihr habt den schwarzen Gürtel weder in Höflichkeit noch Respekt.)
 
-## Warum Sutemi Waza?
-
-Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser, schwerer und - aufgrund des Geschlecht - stärker.
-
-Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht -  beziehungsweise anders.
-
-Die Trainer, die mich betreuen, sind meistens Männer, d. h. grössere, starke und schwerere Menschen. Ich möchte hier ein Beispiel nennen.
-
 ## Was wäre, wenn ...
 
-Die folgende Tabelle verdeutlicht Körperverhältnisse. Sie versucht die Frage zu beantworten, wie dein Partner beschaffen sein müsste, bezüglich eines bestimmen Körperverhätnisses.
+Die folgenden Ausführungen und Berechnungen versucht zu verdeutlichen, dass körperliche Unterschiede - wie Grösse und Gewicht - massive Auswirkungen auf die Techniken haben können.
 
-Der Einfachheit halber werden hier 3 Körperverhältnisse zwischen Tori und Uke angenommen:
+* Grösseren Partnern fällt meist nur auf, dass der kleinere Partner die Techniken selten richtig macht udn die nicht funktionieren.
+* Kleinere Partner verzeifeln an unmöglichen Grössen und Gewichtsverhältnissen bzw. müssen jede Technik neu für sich erfinden.
+
+Insgesamt gibt es 3 Körperverhältnisse zwischen Tori und Uke:
 
 * Uke und Tori sind körperlich gleichwertig, gleich schwer, gleich gross
 * Tori ist körperlich schwerer und grösser als Uke => der Tori hat es leicht
 * Uke ist körperlich schwerer und grösser als Tori => der Tori hat es schwer
 
 ## Rechner für körperliche Über- und Unterlegenheit
+
+Mit diesem Rechner kannst du bestimmen, wie schwer und gross dein Partner für die wäre, wenn man dieselben körperlichen Verhältnisse anlegt, die zwischen dir und deinem Partner bestehen, nur anders herum.
 
 {!assets/calculator.md!}
 
