@@ -20,4 +20,8 @@ python get-pip.py
 python.exe -m pip install --upgrade pip
 pip --version
 pip install mkdocs
+# markdown_extensions:
+#   - markdown_include.include
+# markdown_include.include
+pip install markdown-include
 ~~~
