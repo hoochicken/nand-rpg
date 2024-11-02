@@ -2,13 +2,13 @@
 
 Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich ist, um den Gegner effektiv zu werfen.
 
-| Duo-Serie #1 - Festhalteangriffe                             | Körper       |
-|--------------------------------------------------------------|--------------|
-| 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf     |
-| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf    |
-| Würge von vorn mit beiden Händen                             | Abtaucher    |
-| Würge von der Seite mit beiden Händen                        | Radschere    |
-| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug   |
+| Duo-Serie #1 - Festhalteangriffe                             | Körper       | Reaktion                  |
+|--------------------------------------------------------------|--------------|---------------------------|
+| 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf     | Flucht                    |
+| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf    | Kontrolle (Kreuzposition) |
+| Würge von vorn mit beiden Händen                             | Abtaucher    | Transport                 |
+| Würge von der Seite mit beiden Händen                        | Radschere    | Submission                |
+| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug   | Submission                |
 
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst
 
@@ -35,6 +35,8 @@ Verteidiger
     * Mount
     * 2 Schläge zum Gesucht
     * Armstreckhebel
+
+<iframe src="/images/videos/kata-02-koerper-01.mp4" allowfullscreen></iframe>
 
 ## Eckenwurf nach einhändiger Griff ins Revers (diagonal)
 
@@ -69,7 +71,9 @@ Verteidiger
     * Rolle über links über Partner
     * Armstreckhebel
 
-## Abtaucher nach Würge von vorn mit beiden Händen
+<iframe src="/images/videos/kata-02-koerper-02.mp4" allowfullscreen></iframe>
+
+## Ausheber Schulterrad nach Würge von vorn mit beiden Händen
 
 Angreifer
 
@@ -96,7 +100,9 @@ Verteidiger
 * Reaktion (Submission)
     * Mawashi-Kneekick zur kurzen Rippe
     * in halbe Mount ziehen
-    * linkes Bein an Hals, Triangel-WÜrge
+    * linkes Bein an Hals, Triangel-Würge
+
+<iframe src="/images/videos/kata-02-koerper-03.mp4" allowfullscreen></iframe>
 
 ## Radschere nach Würge von der Seite mit beiden Händen
 
@@ -122,6 +128,8 @@ Verteidiger
     * durch Drehung nach links Angreifer auf Bauch drehen
     * Wadenpresse
 
+<iframe src="/images/videos/kata-02-koerper-04.mp4" allowfullscreen></iframe>
+
 ## Talfallzug-Variante nach Griff in die Jacke (Schulterbereich) einhändig von der Seite
 
 Angreifer
@@ -140,3 +148,5 @@ Verteidiger
     * Umarmung wirft Partner nach hinten
 * Reaktion (Submission)
     * Leg-lock / Wadenpresse von aussen
+
+<iframe src="/images/videos/kata-02-koerper-05.mp4" allowfullscreen></iframe>

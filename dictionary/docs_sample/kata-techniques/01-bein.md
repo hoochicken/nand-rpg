@@ -2,84 +2,52 @@
 
 Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
 
-| Duo-Serie #3 - Beschreibung                 | Bein                        |
-|---------------------------------------------|-----------------------------|
-| Fauststoss zum Kopf                         | Beinzug-Schulterrad-Sutemi  |
-| Fauststoss zur Körpermitte                  | Rollwurf                    |
-| Handaussenkantenschlag zum Hals             | kleine Innensichel gefallen |
-| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf                |
-| Halbkreisfusstritt vorwärts zur Körpermitte | Schweinerolle               |
+| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion              |
+|---------------------------------------------|---------------------------|-----------------------|
+| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                |
+| Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol) |
+| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)             |
+| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission            |
+| Halbkreisfusstritt vorwärts zur Körpermitte | Schweinerolle             | Submission            |
 
-## Beinzug-Schulterrad-Sutemi nach Fauststoss rechts zum Kopf
-
-Angreifer
-
-* Fauststoss rechts zum Kopf
-* dabei Schritt nach vorne rechts
-
-Verteidiger
-
-* Verteidigung
-    * nach links ausweichen
-    * gegenseitige Hand zum Block / Kontrolle
-    * beide Hände greifen Unterarm / Handgelenk des Angreifers
-* Irritation des Angreifers
-    * Armstreckhebel über Oberarm links
-    * Drehung nach links
-* Wurfsetup (Schulterrad)
-    * Nacken unter Achsel des Angreifers
-    * rechts Hand zum gegenseitigen Oberschenkel des Angreifers
-    * mit rechts Bein einstellen
-* Wurf (Beinzug-Schulterrad-Sutemi)
-    * Ausheben des Angreifers
-    * Rolle nach vorne und über den Angreifen (Nacken bleibt auf Oberlörper des Angreifers)
-* Reaktion
-    * Kreuzposition zur Kontrolle
-    * Kimura zur Submission
-
-## Rollwurf nach Fauststoss zur Körpermitte
+## Beinroll-Kick
 
 Angreifer
 
-* Fauststoss rechts zur Körpermitte
-* dabei Schritt nach vorne rechts
+* Fauststoss zum Kopf
 
 Verteidiger
 
-* Verteidigung
-    * nach links ausweichen
-* Wurfsetup (Rolle an Bein)
-    * Rollansatz über rechts
-    * Schulter hinter dem gegenseitigen Bein des Angreifers absetzen
-    * eigener Körper verbleibt gestreckt und möglichst grade
-    * Hüfte so hoch als möglich über Boden
-* Wurf (Beinzug-Schulterrad-Sutemi)
-    * Rolle über rechts
-    * rechts Bein zum Bauch des Partners
-    * Wurf nach hinten
-* Reaktion Flucht
+* Beinroll-Kick
+* Flucht
 
-## kleine Innensichel gefallen nach Handaussenkantenschlag zum Hals
+<iframe src="/images/videos/kata-01-beine-01.mp4" allowfullscreen></iframe>
+
+# Abtaucher
 
 Angreifer
 
-* Handaussenkantenschlag rechts zum Hals
-* dabei Schritt nach vorne rechts
+* Fauststoss zum Kopf
 
 Verteidiger
 
-* Verteidigung
-    * nach rechts ausweichen
-    * passiver Block mit links
-* Irritation des Angreifers
-    * offene Hand zum Kinn mit rechts
-* Wurfsetup (Innensichel)
-    * mit rechtem Bein tief zwischen Beine des Angrefiers stehen
-* Wurf (Innensichel)
-    * Einhaken des rechten Beins am gegenseitigen Bein des Angreifers
-    * auf Knien aufkommen
-* Reaktion Kontrolle und Submission (Wadenpresse)
-    * Leg lock, d. h. Bein des Partners pinchen, linker Arm unter Wade, Presse
+* Beinroll-Kick
+* Kontrolle (Sidecontrol)
+
+<iframe src="/images/videos/kata-01-beine-02.mp4" allowfullscreen></iframe>
+
+## Verwrungener Beinrollwurf
+
+Angreifer
+
+* Handaussenkantenschlag zum Hals
+
+Verteidiger
+
+* Verwrungener Beinrollwurf
+* Transport (Kavalier)
+
+<iframe src="/images/videos/kata-01-beine-03.mp4" allowfullscreen></iframe>
 
 ## Beinrollwurf nach Fusstritt vorwärts zur Körpermitte
 
@@ -112,6 +80,8 @@ Verteidiger
     * linkes Ben des Angreifers nach rechts in die rechts Kniekehle des Partners Falten
     * Wadenpresse
 
+<iframe src="/images/videos/kata-01-beine-04.mp4" allowfullscreen></iframe>
+
 ## Schweinerolle nach Halbkreisfusstritt vorwärts zur Körpermitte
 
 Schweinerolle alias "eingehängte gerollte Innensichel"
@@ -142,3 +112,83 @@ Verteidiger
     * Back controll, d. h. Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
     Beine des Angreifers
     * Rear naked choke, d. h. mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
+
+<iframe src="/images/videos/kata-01-beine-04.mp4" allowfullscreen></iframe>
+
+
+## Beinzug-Schulterrad-Sutemi nach Fauststoss rechts zum Kopf
+
+Angreifer
+
+* Fauststoss rechts zum Kopf
+* dabei Schritt nach vorne rechts
+
+Verteidiger
+
+* Verteidigung
+  * nach links ausweichen
+  * gegenseitige Hand zum Block / Kontrolle
+  * beide Hände greifen Unterarm / Handgelenk des Angreifers
+* Irritation des Angreifers
+  * Armstreckhebel über Oberarm links
+  * Drehung nach links
+* Wurfsetup (Schulterrad)
+  * Nacken unter Achsel des Angreifers
+  * rechts Hand zum gegenseitigen Oberschenkel des Angreifers
+  * mit rechts Bein einstellen
+* Wurf (Beinzug-Schulterrad-Sutemi)
+  * Ausheben des Angreifers
+  * Rolle nach vorne und über den Angreifen (Nacken bleibt auf Oberlörper des Angreifers)
+* Reaktion
+  * Kreuzposition zur Kontrolle
+  * Kimura zur Submission
+
+## Rollwurf nach Fauststoss zur Körpermitte
+
+Angreifer
+
+* Fauststoss rechts zur Körpermitte
+* dabei Schritt nach vorne rechts
+
+Verteidiger
+
+* Verteidigung
+  * nach links ausweichen
+* Wurfsetup (Rolle an Bein)
+  * Rollansatz über rechts
+  * Schulter hinter dem gegenseitigen Bein des Angreifers absetzen
+  * eigener Körper verbleibt gestreckt und möglichst grade
+  * Hüfte so hoch als möglich über Boden
+* Wurf (Beinzug-Schulterrad-Sutemi)
+  * Rolle über rechts
+  * rechts Bein zum Bauch des Partners
+  * Wurf nach hinten
+* Reaktion Flucht
+
+## Innensichel
+
+
+Angreifer
+
+* Handaussenkantenschlag rechts zum Hals
+* dabei Schritt nach vorne rechts
+
+Verteidiger
+
+* Verteidigung
+  * nach rechts ausweichen
+  * passiver Block mit links
+* Irritation des Angreifers
+  * offene Hand zum Kinn mit rechts
+* Wurfsetup (Innensichel)
+  * mit rechtem Bein tief zwischen Beine des Angrefiers stehen
+* Wurf (Innensichel)
+  * Einhaken des rechten Beins am gegenseitigen Bein des Angreifers
+  * auf Knien aufkommen
+* Reaktion Kontrolle und Submission (Wadenpresse)
+  * Leg lock, d. h. Bein des Partners pinchen, linker Arm unter Wade, Presse
+
+
+
+
+
