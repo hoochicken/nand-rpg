@@ -14,23 +14,23 @@ Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah a
 
 ## Reisballenwurf nach Umklammerung von vorn unter den Armen
 
-<iframe src="/images/videos/kata-04-kopf-01.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-04-kopf-01.mp4" allowfullscreen></iframe>
 
 ## Doppelreverswürg-Sutemi nach Umklammerung von vorn über den Armen
 
-<iframe src="/images/videos/kata-04-kopf-02.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-04-kopf-02.mp4" allowfullscreen></iframe>
 
 ## Krokodilsrolle nach Schwitzkasten von der Seite (Angriff rechts)
 
-<iframe src="/images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
 
 ## Triangelwurf nach Schwitzkasten von vorn (Angriff links)
 
-<iframe src="/images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
 
 ## Gerädelte Beinhalsschere nach Würge von hinten mit dem Unterarm
 
-<iframe src="/images/videos/kata-04-kopf-05.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-04-kopf-05.mp4" allowfullscreen></iframe>
 
 ## Triangelsprung nach Zusatz
 

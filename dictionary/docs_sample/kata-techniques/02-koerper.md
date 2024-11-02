@@ -36,7 +36,7 @@ Verteidiger
     * 2 Schläge zum Gesucht
     * Armstreckhebel
 
-<iframe src="/images/videos/kata-02-koerper-01.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-02-koerper-01.mp4" allowfullscreen></iframe>
 
 ## Eckenwurf nach einhändiger Griff ins Revers (diagonal)
 
@@ -71,7 +71,7 @@ Verteidiger
     * Rolle über links über Partner
     * Armstreckhebel
 
-<iframe src="/images/videos/kata-02-koerper-02.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-02-koerper-02.mp4" allowfullscreen></iframe>
 
 ## Ausheber Schulterrad nach Würge von vorn mit beiden Händen
 
@@ -102,7 +102,7 @@ Verteidiger
     * in halbe Mount ziehen
     * linkes Bein an Hals, Triangel-Würge
 
-<iframe src="/images/videos/kata-02-koerper-03.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-02-koerper-03.mp4" allowfullscreen></iframe>
 
 ## Radschere nach Würge von der Seite mit beiden Händen
 
@@ -128,7 +128,7 @@ Verteidiger
     * durch Drehung nach links Angreifer auf Bauch drehen
     * Wadenpresse
 
-<iframe src="/images/videos/kata-02-koerper-04.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-02-koerper-04.mp4" allowfullscreen></iframe>
 
 ## Talfallzug-Variante nach Griff in die Jacke (Schulterbereich) einhändig von der Seite
 
@@ -149,4 +149,4 @@ Verteidiger
 * Reaktion (Submission)
     * Leg-lock / Wadenpresse von aussen
 
-<iframe src="/images/videos/kata-02-koerper-05.mp4" allowfullscreen></iframe>
+<iframe src="../images/videos/kata-02-koerper-05.mp4" allowfullscreen></iframe>
