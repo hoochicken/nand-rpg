@@ -105,10 +105,10 @@ Korrekt ausgeführt ist der Waki-gatame einer der stärksten Hebel im gesamten H
 * Schulterwurf (normal oder revers)
 * Armstreckhebel
 * 180°-Drehung durch
-  * Kick in Bauch rechts
-  * rechter Rist hinter Nacken
-  * weiterdrehen in Kniestand
-  * Armstreckhebel
+    * Kick in Bauch rechts
+    * rechter Rist hinter Nacken
+    * weiterdrehen in Kniestand
+    * Armstreckhebel
 
 ### Armstreckhebel am Oberschenkel
 

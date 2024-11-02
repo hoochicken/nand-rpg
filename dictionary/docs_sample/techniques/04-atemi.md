@@ -22,9 +22,9 @@
 * Drehung nach rechts, rechts Hand dabei zum Arm + **linker Haken** zum Gesicht
 * Schulter drehend beschweren
 * mit Armen "eingreifen"
-  * links unter Körper an Hals vorbei
-  * rechts über Kopf, dabei Unterarm im Nacken
-  * S-Grip
+    * links unter Körper an Hals vorbei
+    * rechts über Kopf, dabei Unterarm im Nacken
+    * S-Grip
 * Schleuderwurf am Nacken zu Boden
 
 ## Hand - Te sho zum Gesicht

@@ -2,9 +2,9 @@
 
 * 5 Ausführungen
 * Prüfer sagt ans aus folögender Auswahl
-  * Winkel 1 - 5
-  * Winkel 1 und 2 in Dolchhaltung
-  * Bedrohung mit Masser aus Nahdistanz
+    * Winkel 1 - 5
+    * Winkel 1 und 2 in Dolchhaltung
+    * Bedrohung mit Masser aus Nahdistanz
 
 ## Standardhaltung
 
