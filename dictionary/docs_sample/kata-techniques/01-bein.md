@@ -21,10 +21,10 @@ Verteidiger
 * Beinroll-Kick
 * Flucht
 
-<iframe src="https://github.com/hoochicken/dan-iv/raw/refs/heads/main/dictionary/docs_sample/images/video/kata-01-beine-01.mp4" allowfullscreen></iframe>
+<iframe src="https://hoochicken.github.io/dan-iv/index/images/video/kata-01-beine-01.mp4" allowfullscreen></iframe>
 
 <video controls="true" allowfullscreen="true">
-  <source src="https://github.com/hoochicken/dan-iv/raw/refs/heads/main/dictionary/docs_sample/images/video/kata-01-beine-01.mp4" type="video/mp4">
+  <source src="https://hoochicken.github.io/dan-iv/index/images/video/kata-01-beine-01.mp4" type="video/mp4">
 </video>
 
 # Abtaucher
