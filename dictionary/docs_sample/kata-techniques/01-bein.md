@@ -8,7 +8,7 @@ Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Ang
 | Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol) |
 | Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)             |
 | Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission            |
-| Halbkreisfusstritt vorwärts zur Körpermitte | Schweinerolle             | Submission            |
+| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken             | Submission            |
 
 ## Beinroll-Kick
 
@@ -81,23 +81,23 @@ Angreifer
 Verteidiger
 
 * Verteidigung
-  * nach rechts ausweichen
-  * passiver Block mit links
+    * nach rechts ausweichen
+    * passiver Block mit links
 * Irritation des Angreifers
-  * offene Hand zum Kinn mit rechts
+* offene Hand zum Kinn mit rechts
 * Wurfsetup (Verwrungener Beinrollwurf)
-  * Drehung nach links durch Einsprinegn
-      * rechtes Bein dabein zum rechten Bein des Angreifers
-      * linkes Bein zwischen die Beine des Angreifers, Kontakt zum rechten Oberscheinkel
-  * linke Hand greift hinter dem Kopf vorbei zur linken Schulter des Angreifers
+    * Drehung nach links durch Einsprinegn
+        * rechtes Bein dabein zum rechten Bein des Angreifers
+        * linkes Bein zwischen die Beine des Angreifers, Kontakt zum rechten Oberscheinkel
+    * linke Hand greift hinter dem Kopf vorbei zur linken Schulter des Angreifers
 * Wurf (Verwrungener Beinrollwurf)
-  * Zug: Oberkörper nach vorne bringen, dabei Zug mit links
-  * Druck: mit linkem Bein an Innenschenkel
-  * Oberkörper abknicken, rechte Hand greift von innen zum rechten Bein des Angreifers
-  * Rolle über Schulter zu Boden
+    * Zug: Oberkörper nach vorne bringen, dabei Zug mit links
+    * Druck: mit linkem Bein an Innenschenkel
+    * Oberkörper abknicken, rechte Hand greift von innen zum rechten Bein des Angreifers
+    * Rolle über Schulter zu Boden
 * Reaktion Transport (Kavalier)
-  * seitlich vom Angreifer aufkommen
-  * rechte Hand des ANgreifers kontrollieren zum Handgelenksbeugehebel (Kavaliersgriff)
+    * seitlich vom Angreifer aufkommen
+    * rechte Hand des ANgreifers kontrollieren zum Handgelenksbeugehebel (Kavaliersgriff)
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-03/video.mp4" type="video/mp4">
@@ -138,9 +138,9 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-04/video.mp4" type="video/mp4">
 </video>
 
-## Schweinerolle nach Halbkreisfusstritt vorwärts zur Körpermitte
+## Gerollte Innensichel nach Halbkreisfusstritt vorwärts zur Körpermitte
 
-Schweinerolle alias "eingehängte gerollte Innensichel"
+Gerollte Innensichel alias "eingehängte gerollte Innensichel"
 
 Angreifer
 
@@ -159,14 +159,14 @@ Verteidiger
     * rechtes Bein ist bereits zwischen den Standbeinen des Partners
     * mit rechtem Arm den gegenseitigen Arm des Partners an sich vorbei bringen
     * dadurch befindet sich der Oberkörper hinter dem des Angreifers
-* Wurf (Schweinerolle)
+* Wurf (Gerollte Innensichel)
     * Rolle über rechts 45° abweichend nach links aussen hinter den Angreifer
     * Angreifer dabei mitnehmen
 * Reaktion Kontrolle und Würge-Submission
     * Bein-Haken im Angreifer-Bein beibehalten
     * weiterdrehen
     * Back controll, d. h. Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
-    Beine des Angreifers
+    * Beine des Angreifers
     * Rear naked choke, d. h. mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
 
 <video controls="true" allowfullscreen="true">

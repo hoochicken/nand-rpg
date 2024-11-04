@@ -15,14 +15,14 @@
 * nach unten ziehen in Vierfüsslerstand
 * Guillotine + Finish
 
-## Schweinerolle
+## Gerolltes Einhaken
 
 **Maegeri rechts + Punch rechts**
 
 * (Bein) ausweichen nach aussen + Block rechte
 * (Arm) Block rechts nach innen
 * Bein vorne zum Absetzen bringen
-* einhaken + Schweinerolle
+* einhaken + Gerolltes Einhaken
 * weiterdrehen zur Backmount
 
 ## Krokorolle (Anaconda-Selbstfaller)

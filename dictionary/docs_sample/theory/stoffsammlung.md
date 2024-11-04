@@ -19,7 +19,7 @@
 | Eckenwurf                                           | Sumi gaeshi              | Körper      | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | ------------------------------------                | -------------            | ----------- | -------------- | ---         | ---  | ---    |
 | Beinrollwurf am Bein                                |                          | Bein        | Absicht        | nach hinten | Inhalt | Raum | Ablauf |
-| Schweinerolle, eingehängte und gerollte Innensichel | Ko-uchi-gake guruma      | Bein        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
+| Gerolltes Einhaken, eingehängte und gerollte Innensichel | Ko-uchi-gake guruma      | Bein        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
 | Rolle zum Bein                                      |                          | Bein        | Absicht        | nach vorne  | Inhalt | Raum | Ablauf |
 | Scherenwurf aus Bodenlage                           | Kani basami              | Bein        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |
 | Tiefes Einhaken                                     | Ko-uchi-gake             | Bein        | Absicht        | seitlich    | Inhalt | Raum | Ablauf |

@@ -20,7 +20,7 @@ Andere Aufteilungen können ebenfalls sinnvoll sein, aber für die vorliegende D
 |              | Fauststoss zur Körpermitte                                   | Beinrollwurf                 |
 |              | Handaussenkantenschlag zum Hals                              | kleine Innensichel gefallen  |
 |              | Fusstritt vorwärts zur Körpermitte                           | Beinrollwurf                 |
-|              | Halbkreisfusstritt vorwärts zur Körpermitte                  | Schweinerolle                |
+|              | Halbkreisfusstritt vorwärts zur Körpermitte                  | Gerolltes Einhaken                |
 |--------------|--------------------------------------------------------------|------------------------------|
 | 1            | **Festhalteangriffe**                                        | **Körper**                   |
 |              | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf                     |
