@@ -10,3 +10,9 @@ h3 {
 }
 
 article img {width:33%;float:right;}
+
+video, iframe {width:50%;}
+
+@media(max-width:500px) {
+  video, iframe {width:100%;}
+}
