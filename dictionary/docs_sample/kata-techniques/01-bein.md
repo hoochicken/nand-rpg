@@ -15,11 +15,23 @@ Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Ang
 Angreifer
 
 * Fauststoss zum Kopf
+* dabei Schritt nach vorne mit rechts
 
 Verteidiger
 
-* Beinroll-Kick
-* Flucht
+* Verteidigung
+    * ausweichen nach links = aussen
+    * Block mit rechts zur angreifenden Hand
+* Wurf-Setup
+    * Schritt mit rechts nach vorne, ausserhalb des Angreifer-Stands
+* Wurf
+    * rechts Schulter direkt hinter gegenseitigem Angreifer-Fuss zu Boden
+    * rechter Artm greift von innen um Bein, Handfläche an Schienbein (Kontrolle)
+    * Rolle vorwärts mit gradem Oberkörper, Hüfte maximal vom Boden entfernt (=sich gross machen)
+    * Beinroll-Kick = rechtes Bein mit Ferse voran zum Bauch
+    * zu Boden bringen
+* Reaktion
+    * Flucht durch wegrennen
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-01/video.mp4" type="video/mp4">
@@ -29,12 +41,31 @@ Verteidiger
 
 Angreifer
 
-* Fauststoss zum Kopf
+* Fauststoss zur Körpermitte
+* dabei Schritt nach vorne mit rechts
 
 Verteidiger
 
-* Beinroll-Kick
-* Kontrolle (Sidecontrol)
+* Verteidigung
+    * ausweichen nach links = aussen
+    * Block mit rechtem Unterarm zur angreifenden Hand
+* Kontrolle
+    * rechts greift rechten Arm des Angreifers von innen
+    * links greift rechten Arm von aussen
+* Wurf-Setup
+    * Arm des Angreifers nach aussen führen
+    * Nacken unter die Achsel des Angreifers bringen
+    * Bauch an Bein des Partner bringen
+* Wurf
+    * rechts Bein steppt tief zwischen Beine des Angreifers
+    * rechte Hand umarmt rechtenb Oberschenkel dsAngreifers
+    * linkes Bein abgeknickt links ausserhalb  der Standflä#che des Angreifers
+    * Hintern mittig von Fuss des Angreifers absetzen
+    * Zug: am gegriffenen rechten Arm des Angreifers mit linker Hand
+    * Druck: an Oberschenkel des Angreifers
+    * nach links schräg hinten lehnen = Abtaucher
+* Reaktion Kontrolle
+    * Side controll
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-02/video.mp4" type="video/mp4">
@@ -44,12 +75,29 @@ Verteidiger
 
 Angreifer
 
-* Handaussenkantenschlag zum Hals
+* Handaussenkantenschlag rechts zum Hals
+* dabei Schritt nach vorne rechts
 
 Verteidiger
 
-* Verwrungener Beinrollwurf
-* Transport (Kavalier)
+* Verteidigung
+  * nach rechts ausweichen
+  * passiver Block mit links
+* Irritation des Angreifers
+  * offene Hand zum Kinn mit rechts
+* Wurfsetup (Verwrungener Beinrollwurf)
+  * Drehung nach links durch Einsprinegn
+      * rechtes Bein dabein zum rechten Bein des Angreifers
+      * linkes Bein zwischen die Beine des Angreifers, Kontakt zum rechten Oberscheinkel
+  * linke Hand greift hinter dem Kopf vorbei zur linken Schulter des Angreifers
+* Wurf (Verwrungener Beinrollwurf)
+  * Zug: Oberkörper nach vorne bringen, dabei Zug mit links
+  * Druck: mit linkem Bein an Innenschenkel
+  * Oberkörper abknicken, rechte Hand greift von innen zum rechten Bein des Angreifers
+  * Rolle über Schulter zu Boden
+* Reaktion Transport (Kavalier)
+  * seitlich vom Angreifer aufkommen
+  * rechte Hand des ANgreifers kontrollieren zum Handgelenksbeugehebel (Kavaliersgriff)
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-03/video.mp4" type="video/mp4">
