@@ -21,10 +21,8 @@ Verteidiger
 * Beinroll-Kick
 * Flucht
 
-<iframe src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-01.mp4" allowfullscreen></iframe>
-
 <video controls="true" allowfullscreen="true">
-  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-01.mp4" type="video/mp4">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-01/video.mp4" type="video/mp4">
 </video>
 
 # Abtaucher
@@ -38,7 +36,9 @@ Verteidiger
 * Beinroll-Kick
 * Kontrolle (Sidecontrol)
 
-<iframe src="../images/videos/kata-01-beine-02.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-02/video.mp4" type="video/mp4">
+</video>
 
 ## Verwrungener Beinrollwurf
 
@@ -51,7 +51,9 @@ Verteidiger
 * Verwrungener Beinrollwurf
 * Transport (Kavalier)
 
-<iframe src="../images/videos/kata-01-beine-03.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-03/video.mp4" type="video/mp4">
+</video>
 
 ## Beinrollwurf nach Fusstritt vorwärts zur Körpermitte
 
@@ -84,7 +86,9 @@ Verteidiger
     * linkes Ben des Angreifers nach rechts in die rechts Kniekehle des Partners Falten
     * Wadenpresse
 
-<iframe src="../images/videos/kata-01-beine-04.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-04/video.mp4" type="video/mp4">
+</video>
 
 ## Schweinerolle nach Halbkreisfusstritt vorwärts zur Körpermitte
 
@@ -117,7 +121,9 @@ Verteidiger
     Beine des Angreifers
     * Rear naked choke, d. h. mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
 
-<iframe src="../images/videos/kata-01-beine-04.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-05/video.mp4" type="video/mp4">
+</video>
 
 
 ## Beinzug-Schulterrad-Sutemi nach Fauststoss rechts zum Kopf
