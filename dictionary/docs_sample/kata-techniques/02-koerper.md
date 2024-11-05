@@ -6,8 +6,8 @@ Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich 
 |--------------------------------------------------------------|--------------|---------------------------|
 | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf     | Flucht                    |
 | einhändiger Griff ins Revers (diagonal)                      | Eckenwurf    | Kontrolle (Kreuzposition) |
-| Würge von vorn mit beiden Händen                             | Abtaucher    | Transport                 |
-| Würge von der Seite mit beiden Händen                        | Radschere    | Submission                |
+| Würge von vorn mit beiden Händen                             | Schulterrad-Rolle    | Transport (Fingerhebel)   |
+| Würge von der Seite mit beiden Händen                        | Radschere    | Submission (Beinhebel)    |
 | Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug   | Submission                |
 
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst
@@ -31,12 +31,11 @@ Verteidiger
     * Oberkörper biegt sich zu Boden
     * rechts Ellenbogenbeuge zur gegenseitigen Ferse des Angreifers
     * Wurf durch: Druck Bauch, Block des Bein, Zug Schulter
-* Reaktion (Submission)
-    * Mount
-    * 2 Schläge zum Gesucht
-    * Armstreckhebel
+* Reaktion (Flucht)
 
-<iframe src="../images/videos/kata-02-koerper-01.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-01/video.mp4" type="video/mp4">
+</video>
 
 ## Eckenwurf nach einhändiger Griff ins Revers (diagonal)
 
@@ -66,14 +65,14 @@ Verteidiger
     * Oberkörper kommt von linkem Fuss des Partners auf dem Boden auf + Zug
     * Angreifer kommt auf Rücken auf
     * selbst ist man seitlich zu ohm (NICHT auf Rücken und NICHT auf Bauch)
-* Reaktion (Submission)
-    * rechte Hand greift gegenseitiges Handgelenk des Angreifes
-    * Rolle über links über Partner
-    * Armstreckhebel
+* Reaktion (Kontrolle)
+    * Kreuzposition
 
-<iframe src="../images/videos/kata-02-koerper-02.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-02/video.mp4" type="video/mp4">
+</video>
 
-## Ausheber Schulterrad nach Würge von vorn mit beiden Händen
+## Schulterrad-Rolle nach Würge von vorn mit beiden Händen
 
 Angreifer
 
@@ -85,24 +84,24 @@ Verteidiger
     * nach links ausweichen
     * rechts und linke Hand greift rechtem Ärnel des Angreifers
     * schlagartig nach unten ziehen => Griff lösen
-* Wurfsetup (Abtaucher)
+* Wurfsetup (Schulterrad-Rolle)
     * linke Hand greift auf gleichseitigen Arm am Handgelenk
     * rechts Hand greift in Gegenseitiges Bein am Oberschenkel von innen
     * unter Achsel des Angreifers durchschauen
     * Nacken eng an Achsel bzw. Körperseite des Angreifer pressen, Kopf ist hinter Körperachse des Angreifers
-* Wurf (Abtaucher)
+* Wurf (Schulterrad-Rolle)
     * Zug mit links
     * Absitzen auf linkem Gesäss
     * linke Gand / Arm des Angreifers Zug - rechte Hand Druck am Oberschenkel
     * Absitzen = Wurf 45° hinter sich
     * auf linker Seite aufkommen
     * Kontrolle der gleichseitigen Achsel des ANgreifers verbleibt in linker Hand
-* Reaktion (Submission)
-    * Mawashi-Kneekick zur kurzen Rippe
-    * in halbe Mount ziehen
-    * linkes Bein an Hals, Triangel-Würge
+* Reaktion (Transport)
+    * Fingerhebel
 
-<iframe src="../images/videos/kata-02-koerper-03.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-03/video.mp4" type="video/mp4">
+</video>
 
 ## Radschere nach Würge von der Seite mit beiden Händen
 
@@ -128,7 +127,9 @@ Verteidiger
     * durch Drehung nach links Angreifer auf Bauch drehen
     * Wadenpresse
 
-<iframe src="../images/videos/kata-02-koerper-04.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-04/video.mp4" type="video/mp4">
+</video>
 
 ## Talfallzug-Variante nach Griff in die Jacke (Schulterbereich) einhändig von der Seite
 
@@ -149,4 +150,6 @@ Verteidiger
 * Reaktion (Submission)
     * Leg-lock / Wadenpresse von aussen
 
-<iframe src="../images/videos/kata-02-koerper-05.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-05/video.mp4" type="video/mp4">
+</video>

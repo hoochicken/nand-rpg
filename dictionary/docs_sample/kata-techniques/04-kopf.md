@@ -1,4 +1,4 @@
-# Selbstfallwürfe am Kopf  des Gegners
+# Selbstfallwürfe am Kopf des Gegners
 
 Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
 
@@ -14,23 +14,35 @@ Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah a
 
 ## Reisballenwurf nach Umklammerung von vorn unter den Armen
 
-<iframe src="../images/videos/kata-04-kopf-01.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-01/video.mp4" type="video/mp4">
+</video>
 
 ## Doppelreverswürg-Sutemi nach Umklammerung von vorn über den Armen
 
-<iframe src="../images/videos/kata-04-kopf-02.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-02/video.mp4" type="video/mp4">
+</video>
 
 ## Krokodilsrolle nach Schwitzkasten von der Seite (Angriff rechts)
 
-<iframe src="../images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-03/video.mp4" type="video/mp4">
+</video>
 
 ## Triangelwurf nach Schwitzkasten von vorn (Angriff links)
 
-<iframe src="../images/videos/kata-04-kopf-03.mp4" allowfullscreen></iframe>
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-04/video.mp4" type="video/mp4">
+</video>
 
 ## Gerädelte Beinhalsschere nach Würge von hinten mit dem Unterarm
 
-<iframe src="../images/videos/kata-04-kopf-05.mp4" allowfullscreen></iframe>
+[in Arbeit]
+
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-05/video.mp4" type="video/mp4">
+</video>
 
 ## Triangelsprung nach Zusatz
 

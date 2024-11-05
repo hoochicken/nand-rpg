@@ -174,6 +174,8 @@ Verteidiger
 </video>
 
 
+--------------------------------------------
+
 ## Beinzug-Schulterrad-Sutemi nach Fauststoss rechts zum Kopf
 
 Angreifer
