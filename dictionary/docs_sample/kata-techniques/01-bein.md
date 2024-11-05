@@ -2,13 +2,13 @@
 
 Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
 
-| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion              |
-|---------------------------------------------|---------------------------|-----------------------|
-| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                |
+| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion                |
+|---------------------------------------------|---------------------------|-------------------------|
+| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                  |
 | Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol) |
-| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)             |
-| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission            |
-| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken             | Submission            |
+| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)    |
+| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission              |
+| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken        | Submission              |
 
 ## Beinroll-Kick
 

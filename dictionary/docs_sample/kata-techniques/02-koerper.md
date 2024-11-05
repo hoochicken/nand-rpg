@@ -2,13 +2,13 @@
 
 Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich ist, um den Gegner effektiv zu werfen.
 
-| Duo-Serie #1 - Festhalteangriffe                             | Körper       | Reaktion                  |
-|--------------------------------------------------------------|--------------|---------------------------|
-| 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf     | Flucht                    |
-| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf    | Kontrolle (Kreuzposition) |
-| Würge von vorn mit beiden Händen                             | Schulterrad-Rolle    | Transport (Fingerhebel)   |
-| Würge von der Seite mit beiden Händen                        | Radschere    | Submission (Beinhebel)    |
-| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug   | Submission                |
+| Duo-Serie #1 - Festhalteangriffe                             | Körper            | Reaktion                    |
+|--------------------------------------------------------------|-------------------|-----------------------------|
+| 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf          | Flucht                      |
+| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf         | Kontrolle (Kreuzposition)   |
+| Würge von vorn mit beiden Händen                             | Schulterrad-Rolle | Transport (Fingerhebel)     |
+| Würge von der Seite mit beiden Händen                        | Radschere         | Submission (Beinhebel)      |
+| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug        | Submission (Armstreckhebel) |
 
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst
 

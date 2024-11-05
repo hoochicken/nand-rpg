@@ -2,15 +2,15 @@
 
 Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
 
-| Duo-Serie #2 -Umklammerungsangriffe           | Technik am Kopf          | Raktion    |
-|-----------------------------------------------|--------------------------|------------|
-| Umklammerung von vorn unter den Armen         | Reisballenwurf           | Submission |
-| Umklammerung von vorn über den Armen          | Doppelreverswürg-Sutemi  | Submission |
-| Schwitzkasten von der Seite (Angriff rechts)  | Krokodilsrolle           | Submission |
-| Schwitzkasten von vorn (Angriff links)        | Triangelwurf             | Submission |
-| Würge von hinten mit dem Unterarm             | Gerädelte Beinhalsschere | Submission |
-| --------------------------------------------- | ------------             | --         |
-| Zusatz                                        | Triangelsprung           | Submission |
+| Duo-Serie #2 -Umklammerungsangriffe           | Technik am Kopf          | Raktion                       |
+|-----------------------------------------------|--------------------------|-------------------------------|
+| Umklammerung von vorn unter den Armen         | Reisballenwurf           | Submission (Genickhebel)      |
+| Umklammerung von vorn über den Armen          | Doppelreverswürg-Sutemi  | Submission (Unterarm-Würge)   |
+| Schwitzkasten von der Seite (Angriff rechts)  | Krokodilsrolle           | Submission (Choke)            |
+| Schwitzkasten von vorn (Angriff links)        | Triangelwurf             | Submission (Reverse Triangle) |
+| Würge von hinten mit dem Unterarm             | Gerädelte Beinhalsschere | Submission                    |
+| --------------------------------------------- | ------------             | --                            |
+| Zusatz                                        | Triangelsprung           | Submission                    |
 
 ## Reisballenwurf nach Umklammerung von vorn unter den Armen
 

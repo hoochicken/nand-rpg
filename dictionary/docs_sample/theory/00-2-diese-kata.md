@@ -13,35 +13,39 @@ Andere Aufteilungen können ebenfalls sinnvoll sein, aber für die vorliegende D
 
 ## Aufbau der Sutemi waza no Kata
 
-| Duo-Serie #  | Beschreibung                                                 | Technik                      |
-| ------------ | ---------------------------------------------                | ------------                 |
-| 3            | **Schläge / Tritte**                                         | **Bein** |
-|              | Fauststoss zum Kopf                                          | Beinzug-Schulterrad-Sutemi   |
-|              | Fauststoss zur Körpermitte                                   | Beinrollwurf                 |
-|              | Handaussenkantenschlag zum Hals                              | kleine Innensichel gefallen  |
-|              | Fusstritt vorwärts zur Körpermitte                           | Beinrollwurf                 |
-|              | Halbkreisfusstritt vorwärts zur Körpermitte                  | Gerolltes Einhaken                |
-|--------------|--------------------------------------------------------------|------------------------------|
-| 1            | **Festhalteangriffe**                                        | **Körper**                   |
-|              | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf                     |
-|              | einhändiger Griff ins Revers (diagonal)                      | Eckenwurf                    |
-|              | Würge von vorn mit beiden Händen                             | Abtaucher                    |
-|              | Würge von der Seite mit beiden Händen                        | Radschere                    |
-|              | Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug                   |
-| ------------ | ---------------------------------------------                | ------------                 |
-| 4            | **Messer- oder Stockangriffe**                               | **Arm**                      |
-|              | Messerstich von oben aussen (Nr. 1) in Dolchhaltung          | Vorwärts-Armstreckhebelrolle |
-|              | Messertich geradlinig zur Körpermitte (Nr. 5)                | Seitenriss                   |
-|              | Messerstich von oben innen (Nr. 2) in Dolchhaltung           | Beineinhänger-Eckenwurf      |
-|              | Stockschlag  von oben (Nr. 6)                                | Fingergehebelter Eckenwurf   |
-|              | Stockschlag von oben aussen (Nr. 1)                          | Aussendrehwurf               |
-| ------------ | ---------------------------------------------                | ------------                 |
-| 2            | **Umklammerungsangriffe**                                    | **Kopf**                     |
-|              | Umklammerung von vorn unter den Armen                        | Reisballenwurf               |
-|              | Umklammerung von vorn über den Armen                         | Doppelreverswürg-Sutemi      |
-|              | Schwitzkasten von der Seite (Angriff rechts)                 | Krokodilsrolle               |
-|              | Schwitzkasten von vorn (Angriff links)                       | Triangelwurf                 |
-|              | Würge von hinten mit dem Unterarm                            | Gerädelte Beinhalsschere     |
+| Duo-Serie #3 - Beschreibung                                    | Bein                                                           | Reaktion                        |
+|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------|
+| Fauststoss zum Kopf                                            | Beinroll-Kick                                                  | Flucht                          |
+| Fauststoss zur Körpermitte                                     | Abtaucher                                                      | Kontrolle (Sidecontrol)         |
+| Handaussenkantenschlag zum Hals                                | Verwrungener Beinrollwurf                                      | Transport (Kavalier)            |
+| Fusstritt vorwärts zur Körpermitte                             | Beinrollwurf                                                   | Submission                      |
+| Halbkreisfusstritt vorwärts zur Körpermitte                    | Gerolltes Einhaken                                             | Submission                      |
+| --------------                                                 | -------------------------------------------------------------- | ------------------------------  |
+| Duo-Serie #1 - Festhalteangriffe                               | Körper                                                         | Reaktion                        |
+| -------------------------------------------------------------- | -------------------                                            | -----------------------------   |
+| 1 Handgelenk wird mit beiden Händen gefasst                    | Korbwurf                                                       | Flucht                          |
+| einhändiger Griff ins Revers (diagonal)                        | Eckenwurf                                                      | Kontrolle (Kreuzposition)       |
+| Würge von vorn mit beiden Händen                               | Schulterrad-Rolle                                              | Transport (Fingerhebel)         |
+| Würge von der Seite mit beiden Händen                          | Radschere                                                      | Submission (Beinhebel)          |
+| Griff in die Jacke (Schulterbereich) einhändig von der Seite   | Talfallzug                                                     | Submission (Armstreckhebel)     |
+| -----------------------------------------------------          | ------------------------------                                 | ------------                    |
+| Duo-Serie #4 - Messer- oder Stockangriffe                      | Arm                                                            | Reaktion                        |
+| -----------------------------------------------------          | ------------------------------                                 | ------------                    |
+| Messerstich von oben aussen (Nr. 1) in Dolchhaltung            | Vorwärts-Armstreckhebelrolle                                   | Flucht                          |
+| Messertich geradlinig zur Körpermitte (Nr. 5)                  | Seitenriss                                                     | Kontrolle                       |
+| Messerstich von oben innen (Nr. 2) in Dolchhaltung             | Beineinhänger-Eckenwurf                                        | Transport                       |
+| Stockschlag  von oben (Nr. 6)                                  | Fingergehebelter Eckenwurf                                     | Submission                      |
+| Stockschlag von oben aussen (Nr. 1)                            | Aussendrehwurf                                                 | Submission                      |
+| ------------                                                   | ---------------------------------------------                  | ------------                    |
+| Duo-Serie #2 -Umklammerungsangriffe                            | Technik am Kopf                                                | Reaktion                        |
+| -----------------------------------------------                | --------------------------                                     | ------------------------------- |
+| Umklammerung von vorn unter den Armen                          | Reisballenwurf                                                 | Submission (Genickhebel)        |
+| Umklammerung von vorn über den Armen                           | Doppelreverswürg-Sutemi                                        | Submission (Unterarm-Würge)     |
+| Schwitzkasten von der Seite (Angriff rechts)                   | Krokodilsrolle                                                 | Submission (Choke)              |
+| Schwitzkasten von vorn (Angriff links)                         | Triangelwurf                                                   | Submission (Reverse Triangle)   |
+| Würge von hinten mit dem Unterarm                              | Gerädelte Beinhalsschere                                       | Submission                      |
+| ---------------------------------------------                  | ------------                                                   | --                              |
+| Zusatz                                                         | Triangelsprung                                                 | Submission                      |
 
 Quelle der Duo-Angriffe: <a href="https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
 
