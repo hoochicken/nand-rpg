@@ -2,13 +2,13 @@
 
 Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
 
-| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                          | Reaktion   |
-|-----------------------------------------------------|------------------------------|------------|
-| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle | Flucht     |
-| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                   | Kontrolle  |
-| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Beineinhänger-Eckenwurf      | Transport  |
-| Stockschlag  von oben (Nr. 6)                       | Fingergehebelter Eckenwurf   | Submission |
-| Stockschlag von oben aussen (Nr. 1)                 | Aussendrehwurf               | Submission |
+| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                          | Reaktion                  |
+|-----------------------------------------------------|------------------------------|---------------------------|
+| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle | Flucht                    |
+| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                   | Kontrolle (Kreuzposition) |
+| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Beineinhänger-Eckenwurf      | Transport                 |
+| Stockschlag  von oben (Nr. 6)                       | Fingergehebelter Eckenwurf   | Submission                |
+| Stockschlag von oben aussen (Nr. 1)                 | Aussendrehwurf               | Submission                |
 
 
 ## Vorwärts-Armstreckhebelrolle nach Messerstich von oben aussen (Nr. 1) in Dolchhaltung
@@ -21,71 +21,103 @@ Angreifer
 Verteidiger
 
 * Verteidigung
-  *
-* Wurfsetup (Waki-gatame)
-  *
-  *
+    * rechts angreifenden Arm auf Oberschenkel des Angreifers pressen
+    * Handbeugehebel
+    * Entwaffnung Aussen-Unterarm über Messerrücken
 * Wurf (Vorwärts-Armstreckhebelrolle)
-  *
-  *
-* Reaktion (Submission)
-  *
+    * Waki-gatame
+    * Vorwärtsrolle
+* Reaktion (Flucht)
 
-## Beineinhänger-Eckenwurf nach Messerstich von oben innen (Nr. 2) in Dolchhaltung
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-01/video.mp4" type="video/mp4">
+</video>
 
-Angreifer
-
-* Griff in die Jacke (Schulterbereich) einhändig von der Seite
-
-Verteidiger
-
-* Verteidigung - Griff lösen
-    * rechter Crescent-Kick nach aussen zum Ellenbogen = Bruch
-* Wurfsetup (Talfallzug-Variante)
-    * rechtes Bein vorwärts hinter Angreifer
-    * Taille des Partners "umarmen", Gable-Grip, rechte Hand oben, linke Hand unten
-* Wurf (Talfallzug-Variante)
-    * rechts Bein blockiert Stand des Partners
-    * Umarmung wirft Partner nach hinten
-* Reaktion (Submission)
-    * Leg-lock / Wadenpresse von aussen
-
-## Fingergehebelter Eckenwurf nach Stockschlag von oben (Nr. 6)
+## Seitenriss nach Messerstich geradlinig zur Körpermutte (Nr. 5) (LI)
 
 Angreifer
 
-* Griff in die Jacke (Schulterbereich) einhändig von der Seite
+* Messerstich von oben innen (Nr. 2) in Dolchhaltung
 
 Verteidiger
 
-* Verteidigung - Griff lösen
-    * rechter Crescent-Kick nach aussen zum Ellenbogen = Bruch
-* Wurfsetup (Talfallzug-Variante)
-    * rechtes Bein vorwärts hinter Angreifer
-    * Taille des Partners "umarmen", Gable-Grip, rechte Hand oben, linke Hand unten
-* Wurf (Talfallzug-Variante)
-    * rechts Bein blockiert Stand des Partners
-    * Umarmung wirft Partner nach hinten
-* Reaktion (Submission)
-    * Leg-lock / Wadenpresse von aussen
+* Verteidigung
+    * Doppelblock
+    * Armstreckhebel über Schulter, Bruch = Entwaffnung
+* Wurf (Seitenriss)
+    * eindrehen nach rechts
+    * Seitenriss
+* Reaktion (Kontrolle)
+    * Kreuzposition
 
-## Aussendrehwurf nach Stockschlag von oben aussen (Nr. 1)
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-02/video.mp4" type="video/mp4">
+</video>
+
+## Beineinhänger-Eckenwurf nach Messerstich von oben innen (Nr. 2) in Dolchhaltung (RE)
 
 Angreifer
 
-* Griff in die Jacke (Schulterbereich) einhändig von der Seite
+* Messerstich von oben innen (Nr. 2) in Dolchhaltung
 
 Verteidiger
 
-* Verteidigung - Griff lösen
-    * rechter Crescent-Kick nach aussen zum Ellenbogen = Bruch
-* Wurfsetup (Talfallzug-Variante)
-    * rechtes Bein vorwärts hinter Angreifer
-    * Taille des Partners "umarmen", Gable-Grip, rechte Hand oben, linke Hand unten
-* Wurf (Talfallzug-Variante)
-    * rechts Bein blockiert Stand des Partners
-    * Umarmung wirft Partner nach hinten
+* Verteidigung
+    * links angreifenden Arm auf Oberschenkel des Angreifers pressen
+    * Kipphandhebel
+    * Entwaffnung Empi über Messerrücken
+* Wurf (Beineinhänger-Eckenwurf)
+    * Kipphandhebel leicht öffnen durch Zurücktreten
+    * links Bein einhängen in rechten Kipphandhebelarm des Angreifers
+    * Beineinhänger-Eckenwurf
+    * rechts greift Arm
+    * rollen über linke Schulter
+* Reaktion (Transport)
+    * Kreuzfesselgriff
+    * über aufsetzen aufzwingen
+
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-03/video.mp4" type="video/mp4">
+</video>
+
+## Stock-Bizepspressen-Sutemi nach Stockschlag von oben (Nr. 6) (LI)
+
+Angreifer
+
+* Stockschlag von oben (Nr. 6)
+
+Verteidiger
+
+* Verteidigung
+    * nach links ausweichen
+    * rechts Stock von oben greifen, unter Arm durch
+    * rechten Arm des Angreifers falten
+    * rechts Stock ins "Auge"
+    * links Bizepspresse
+* Wurf (Stock-Bizepspressen-Sutemi)
+    * Stock-Bizepspressen-Sutemi = Eckenwurf mit Stock-Bizepspresse
 * Reaktion (Submission)
-    * Leg-lock / Wadenpresse von aussen
+    * Stock-Bizepspresse
 
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-04/video.mp4" type="video/mp4">
+</video>
 
+## Aussendrehwurf nach Stockschlag von oben aussen (Nr. 1) (RE)
+
+Angreifer
+
+* Stockschlag von oben aussen (Nr. 1)
+
+Verteidiger
+
+* Verteidigung
+    *
+* Wurf (Talfallzug-Variante)
+    *
+* Reaktion (Submission)
+    *
+
+<video controls="true" allowfullscreen="true">
+  <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-05/video.mp4" type="video/mp4">
+</video>
