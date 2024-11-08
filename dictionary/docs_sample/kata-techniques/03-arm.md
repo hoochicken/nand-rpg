@@ -2,13 +2,13 @@
 
 Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
 
-| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                          | Reaktion                  |
-|-----------------------------------------------------|------------------------------|---------------------------|
-| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle | Flucht                    |
-| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                   | Kontrolle (Kreuzposition) |
-| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Beineinhänger-Eckenwurf      | Transport                 |
-| Stockschlag  von oben (Nr. 6)                       | Fingergehebelter Eckenwurf   | Submission                |
-| Stockschlag von oben aussen (Nr. 1)                 | Aussendrehwurf               | Submission                |
+| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                                 | Reaktion                  |
+|-----------------------------------------------------|-------------------------------------|---------------------------|
+| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle        | Flucht                    |
+| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                          | Kontrolle (Kreuzposition) |
+| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Armstreckgehebelter Reisballenwurf  | Transport                 |
+| Stockschlag  von oben (Nr. 6)                       | Fingergehebelter Eckenwurf          | Submission                |
+| Stockschlag von oben aussen (Nr. 1)                 | Eingestiegener Reisballenwurf       | Submission                |
 
 
 ## Vorwärts-Armstreckhebelrolle nach Messerstich von oben aussen (Nr. 1) in Dolchhaltung
@@ -103,7 +103,7 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-04/video.mp4" type="video/mp4">
 </video>
 
-## Aussendrehwurf nach Stockschlag von oben aussen (Nr. 1) (RE)
+## Eingestiegener Reisballenwurf nach Stockschlag von oben aussen (Nr. 1) (RE)
 
 Angreifer
 
@@ -112,9 +112,9 @@ Angreifer
 Verteidiger
 
 * Verteidigung
-    *
-* Wurf (Talfallzug-Variante)
-    *
+    * ausweichen
+    * unter Arm durchtauchen
+* Wurf (Eingestiegener Reisballenwurf)
 * Reaktion (Submission)
     *
 
