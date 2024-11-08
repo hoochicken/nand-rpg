@@ -87,7 +87,7 @@ Angreifer
 
 Verteidiger
 
-Verteidigung
+* Verteidigung
     * rechts Empi zum Kopf
     * Arm des Angreifers kontrollieren, drunter durchtauchen
     * Fingerhebel

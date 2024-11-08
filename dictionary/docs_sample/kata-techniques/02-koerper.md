@@ -7,7 +7,7 @@ Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich 
 | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf           | Flucht                      |
 | einhändiger Griff ins Revers (diagonal)                      | Eckenwurf an Bauch | Kontrolle (Mount)           |
 | Würge von vorn mit beiden Händen                             | Schulterrad-Rolle  | Transport (Fingerhebel)     |
-| Würge von der Seite mit beiden Händen                        | Radschere          | Submission (Beinhebel)      |
+| Würge von der Seite mit beiden Händen                        | Radschere          | Submission (Heel hook)      |
 | Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug         | Submission (Armstreckhebel) |
 
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst (RE)
@@ -91,9 +91,9 @@ Verteidiger
     * linke offene Hand zum Gesicht
 * Wurf (Radschere)
     * Rad in den Handstand links an Angreifer vorbei
-    * Beine koppen 90° nach vorne = Radscherenwurf
+    * Beine kippen 90° nach vorne = Radscherenwurf
 * Reaktion (Submission)
-    * Leglock
+    * Heel hoock / Fussdrehhebel
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-04/video.mp4" type="video/mp4">
