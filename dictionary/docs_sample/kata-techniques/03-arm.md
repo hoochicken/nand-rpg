@@ -33,7 +33,7 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-01/video.mp4" type="video/mp4">
 </video>
 
-## Seitenriss nach Messerstich geradlinig zur Körpermutte (Nr. 5) (LI)
+## Seitenriss nach Messerstich geradlinig zur Körpermitte (Nr. 5) (LI)
 
 Angreifer
 
@@ -54,7 +54,7 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-02/video.mp4" type="video/mp4">
 </video>
 
-## Beineinhänger-Eckenwurf nach Messerstich von oben innen (Nr. 2) in Dolchhaltung (RE)
+## Armstreckgehebelter Reisballenwurf nach Messerstich von oben innen (Nr. 2) in Dolchhaltung (RE)
 
 Angreifer
 
