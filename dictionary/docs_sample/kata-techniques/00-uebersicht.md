@@ -1,5 +1,13 @@
 # Sutemi waza no kata
 
+## Warum Sutemi waza?
+
+Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser, schwerer und - aufgrund des Geschlecht - stärker.
+
+Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht - beziehungsweise anders.
+
+Aks kleiner, lecihter Mensch bieten sich Sutemi waza an. Denn durch den Einsatz des eigene Körpergewichts erhöht sich - wenn auch nur geriung - die Chance, dass ein Wurf funktioniert.
+
 ## Zu dieser Kata
 
 In der Kata-Struktur des Duo-Systems werden die Angriffe in vier Hauptgruppen unterteilt: Atemi (Schläge und Tritte), Greifen, Waffenangriffe und Umklammerungen. Diesen Angriffsgruppen werden Sutemi-Waza (Opferwürfe) gegenübergestellt, die den Zielbereichen Bein, Körper, Arm und Kopf entsprechen.
@@ -9,7 +17,7 @@ In der Kata-Struktur des Duo-Systems werden die Angriffe in vier Hauptgruppen un
 3. Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
 4. Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
 
-Andere Aufteilungen können ebenfalls sinnvoll sein, aber für die vorliegende Darstellung habe ich mich aus den genannten Gründen für diese Struktur entschieden.
+Andere Aufteilungen können ebenfalls sinnvoll sein. Für die vorliegende Darstellung habe ich mich jedoch aus den genannten Gründen für diese Struktur entschieden.
 
 ## Aufbau der Sutemi waza no Kata
 
@@ -21,7 +29,6 @@ Andere Aufteilungen können ebenfalls sinnvoll sein, aber für die vorliegende D
 | Fauststoss zur Körpermitte                                     | Abtaucher                                                      | Kontrolle (Sidecontrol)                |
 | Handaussenkantenschlag zum Hals                                | Verwrungener Beinrollwurf                                      | Transport (Kavalier)                   |
 | Fusstritt vorwärts zur Körpermitte                             | Beinrollwurf                                                   | Submission (Wadenpresse)               |
-| Halbkreisfusstritt vorwärts zur Körpermitte                    | Gerolltes Einhaken                                             | Submission (Rear naked Choke)          |
 | --------------                                                 | -------------------------------------------------------------- | ------------------------------         |
 | Duo-Serie #1 - Festhalteangriffe                               | Körper                                                         | Reaktion                               |
 | -------------------------------------------------------------- | --------------------                                           | -----------------------------          |
@@ -48,13 +55,3 @@ Andere Aufteilungen können ebenfalls sinnvoll sein, aber für die vorliegende D
 | Würge von hinten mit dem Unterarm                              | Gerädelte Beinhalsschere                                       | Submission                             |
 
 Quelle der Duo-Angriffe: <a href="https://homepages.uni-regensburg.de/~fup08039/jujutsu/Duo.html">Uni Regensburg</a>
-
-## Warum Sutemi Waza?
-
-Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser, schwerer und - aufgrund des Geschlecht - stärker.
-
-Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht -  beziehungsweise anders.
-
-Die Trainer, die mich betreuen, sind meistens Männer, d. h. grössere, starke und schwerere Menschen. Ich möchte hier ein Beispiel nennen.
-
-S. a. Kapitel "Klein sein"

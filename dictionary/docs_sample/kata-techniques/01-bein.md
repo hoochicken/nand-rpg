@@ -2,13 +2,13 @@
 
 Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
 
-| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion                      |
-|---------------------------------------------|---------------------------|-------------------------------|
-| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                        |
-| Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol)       |
-| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)          |
-| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission (Wadenpresse)      |
-| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken        | Submission (Rear naked Choke) |
+| Duo-Serie #3 - Beschreibung                 | Bein                     | Reaktion                      |
+|---------------------------------------------|--------------------------|-------------------------------|
+| Fauststoss zum Kopf                         | Beinroll-Kick            | Flucht                        |
+| Fauststoss zur Körpermitte                  | Abtaucher                | Kontrolle (Sidecontrol)       |
+| Handaussenkantenschlag zum Hals             | Beinrollwurf nach vorne  | Transport (Kavalier)          |
+| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf nach hinten | Submission (Wadenpresse)      |
+| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken       | Submission (Rear naked Choke) |
 
 ## Beinroll-Kick (RE)
 
@@ -71,7 +71,7 @@ Verteidiger
     * passiver Block mit links
     * rechts offene Hand zum Kinn uir Irritation
 * Wurf (Beinrollwurfnach vorne)
-    * VerwrungenerBeinrollrollwurf
+    * Beinrollrollwurf nach vorne
     * dabei Kontrolle des rechten Arms des Angreifers
     * rechtes Handgelenk des ANgreifers mit rechts greifen
 * Reaktion Transport (Kavalier)
@@ -87,7 +87,7 @@ Verteidiger
 Angreifer
 
 * Fusstritt vorwärts rechts zur Körpermitte
-* Gewicht kommt nach vorne (Bein wird nicht zurückgezogen)
+* Gewicht kommt nach vorne (Bein wird vorne abgesetzt)
 
 Verteidiger
 
@@ -96,7 +96,7 @@ Verteidiger
     * Unterarm-Block mit rechts
 * Wurf (Beinrollwurf nach hinten)
     * Beinrollwurf nach hinten
-    * links dabei greift nach linken Hosenei des Angreifers im Fallen
+    * links dabei greift nach linken Hosenbein des Angreifers im Fallen
     * Partner zu Boden bringen
 * Reaktion Kontrolle und Wadenpresse-Submission
     * an Beinen des Partners ziehen, damit er auf dem Bauch aufkommt
@@ -110,27 +110,25 @@ Verteidiger
 
 ## Gerollte Innensichel nach Halbkreisfusstritt vorwärts zur Körpermitte
 
-Gerollte Innensichel alias "eingehängte gerollte Innensichel"
-
 Angreifer
 
 * Halbkreisfusstritt rechts zur Körpermitte
-* Gewicht kommt nach vorne (Bein wird nicht zurückgezogen)
+* Gewicht kommt nach vorne (Bein wird vorne abgesetzt)
 
 Verteidiger
 
 * Verteidigung
     * Block mit gegenseitigem Unterschenkel
-    * dadurch kommen Angreifer- und Vertigiger-Bein nach vorne
+    * dadurch kommen Angreifer- und Verteigiger-Bein nach vorne
 * Wurf (Gerollte Innensichel)
     * Rolle über rechts 45° abweichend nach links aussen hinter den Angreifer
     * Angreifer dabei mitnehmen
 * Reaktion Kontrolle und Würge-Submission
     * Bein-Haken im Angreifer-Bein beibehalten
     * weiterdrehen
-    * Back controll, d. h. Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
+    * Back controll, d. h., Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
     * Beine des Angreifers
-    * Rear naked choke, d. h. mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
+    * Rear naked choke, d. h., mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-05/video.mp4" type="video/mp4">

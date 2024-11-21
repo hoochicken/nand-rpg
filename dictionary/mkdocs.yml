@@ -79,11 +79,11 @@ nav:
     - "13 Kata": "techniques/13-anwendungsformen-kata.md"
   - "Kata-Theorie":
     - "Definition": "theory/00-1-kata-definition.md"
-    - "Zu dieser Kata": "theory/00-2-diese-kata.md"
     - "Klein sein": "theory/00-3-klein-sein.md"
     - "Stoffsammlung Sutemi Waza": "theory/stoffsammlung.md"
     - "Technik-Ablaeufe allgemein": "theory/technik-ablaeufe.md"
   - "Kata":
+    - "Übersicht": "kata-techniques/00-uebersicht.md"
     - "Bein": "kata-techniques/01-bein.md"
     - "Körper": "kata-techniques/02-koerper.md"
     - "Arm": "kata-techniques/03-arm.md"
