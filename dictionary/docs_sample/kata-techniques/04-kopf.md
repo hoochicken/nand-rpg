@@ -2,15 +2,13 @@
 
 Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
 
-| Duo-Serie #2 -Umklammerungsangriffe           | Technik am Kopf          | Raktion                       |
-|-----------------------------------------------|--------------------------|-------------------------------|
-| Umklammerung von vorn unter den Armen         | Reisballenwurf           | Submission (Genickhebel)      |
-| Umklammerung von vorn über den Armen          | Doppelreverswürg-Sutemi  | Submission (Unterarm-Würge)   |
-| Schwitzkasten von der Seite (Angriff rechts)  | Krokodilsrolle           | Submission (Choke)            |
-| Schwitzkasten von vorn (Angriff links)        | Triangelwurf             | Submission (Reverse Triangle) |
-| Würge von hinten mit dem Unterarm             | Gerädelte Beinhalsschere | Submission                    |
-| --------------------------------------------- | ------------             | --                            |
-| Zusatz                                        | Triangelsprung           | Submission                    |
+| Duo-Serie #2 -Umklammerungsangriffe           | Technik am Kopf          | Raktion                              |
+|-----------------------------------------------|--------------------------|--------------------------------------|
+| Umklammerung von vorn unter den Armen         | Reisballenwurf           | Flucht                               |
+| Umklammerung von vorn über den Armen          | Doppelreverswürg-Sutemi  | Kontrolle (Mount mit Unterarm-Würge) |
+| Schwitzkasten von der Seite (Angriff rechts)  | Krokodilsrolle           | Transport (Fingerhebel)              |
+| Schwitzkasten von vorn (Angriff links)        | Triangelwurf             | Submission (Reverse Triangle)        |
+| Würge von hinten mit dem Unterarm             | Gerädelte Beinhalsschere | Submission                           |
 
 ## Reisballenwurf nach Umklammerung von vorn unter den Armen (RE)
 
@@ -47,8 +45,8 @@ Verteidiger
     * doppelter Griff ins Revers
 * Wurf (Doppelreverswürg-Sutemi)
     * Doppelreverswürg-Sutemi
-* Reaktion (Submission)
-    * Würge
+* Reaktion (Kontrolle)
+    * Gewürgte Mount, Arm kontrolliert
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-02/video.mp4" type="video/mp4">
@@ -72,8 +70,8 @@ Verteidiger
     * rechts Bizeps an Hals, unter Arm durch
     * links Gablegrip
     * Krokorolle
-* Reaktion (Submission)
-    * Anaconda
+* Reaktion (Transport)
+    * Würge-Transport
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-03/video.mp4" type="video/mp4">

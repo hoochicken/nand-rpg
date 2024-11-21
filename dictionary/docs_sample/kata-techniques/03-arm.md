@@ -2,13 +2,13 @@
 
 Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
 
-| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                                 | Reaktion                  |
-|-----------------------------------------------------|-------------------------------------|---------------------------|
-| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle        | Flucht                    |
-| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                          | Kontrolle (Kreuzposition) |
-| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Armstreckgehebelter Reisballenwurf  | Transport                 |
-| Stockschlag  von oben (Nr. 6)                       | Fingergehebelter Eckenwurf          | Submission                |
-| Stockschlag von oben aussen (Nr. 1)                 | Eingestiegener Reisballenwurf       | Submission                |
+| Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                                 | Reaktion                    |
+|-----------------------------------------------------|-------------------------------------|-----------------------------|
+| Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle        | Flucht                      |
+| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                          | Kontrolle (Kreuzposition)   |
+| Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Armstreckgehebelter Reisballenwurf  | Transport (Kreuzfessel)     |
+| Stockschlag  von oben (Nr. 6)                       | Stock-Bizepspressen-Sutemi          | Submission (Armpresse)      |
+| Stockschlag von oben aussen (Nr. 1)                 | Eingestiegener Reisballenwurf       | Submission (Armstreckhebel) |
 
 
 ## Vorwärts-Armstreckhebelrolle nach Messerstich von oben aussen (Nr. 1) in Dolchhaltung
@@ -116,7 +116,7 @@ Verteidiger
     * unter Arm durchtauchen
 * Wurf (Eingestiegener Reisballenwurf)
 * Reaktion (Submission)
-    *
+    * Armstreckhebel
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-03-arm-05/video.mp4" type="video/mp4">

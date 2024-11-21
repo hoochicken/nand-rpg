@@ -2,13 +2,13 @@
 
 Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
 
-| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion                |
-|---------------------------------------------|---------------------------|-------------------------|
-| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                  |
-| Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol) |
-| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)    |
-| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission              |
-| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken        | Submission              |
+| Duo-Serie #3 - Beschreibung                 | Bein                      | Reaktion                      |
+|---------------------------------------------|---------------------------|-------------------------------|
+| Fauststoss zum Kopf                         | Beinroll-Kick             | Flucht                        |
+| Fauststoss zur Körpermitte                  | Abtaucher                 | Kontrolle (Sidecontrol)       |
+| Handaussenkantenschlag zum Hals             | Verwrungener Beinrollwurf | Transport (Kavalier)          |
+| Fusstritt vorwärts zur Körpermitte          | Beinrollwurf              | Submission (Wadenpresse)      |
+| Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken        | Submission (Rear naked Choke) |
 
 ## Beinroll-Kick (RE)
 
@@ -57,7 +57,7 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-02/video.mp4" type="video/mp4">
 </video>
 
-## Beinrollwurf nach vorne (LI)
+## Beinrollwurf nach vorne (RE)
 
 Angreifer
 
@@ -82,7 +82,7 @@ Verteidiger
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-03/video.mp4" type="video/mp4">
 </video>
 
-## Beinrollwurf nach hinten nach Fusstritt vorwärts zur Körpermitte (RE)
+## Beinrollwurf nach hinten nach Fusstritt vorwärts zur Körpermitte (LI)
 
 Angreifer
 

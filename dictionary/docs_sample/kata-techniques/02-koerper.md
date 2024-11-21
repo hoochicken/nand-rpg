@@ -5,7 +5,7 @@ Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich 
 | Duo-Serie #1 - Festhalteangriffe                             | Körper             | Reaktion                    |
 |--------------------------------------------------------------|--------------------|-----------------------------|
 | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf           | Flucht                      |
-| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf an Bauch | Kontrolle (Mount)           |
+| einhändiger Griff ins Revers (diagonal)                      | Eckenwurf an Bauch | Kontrolle (Guard)           |
 | Würge von vorn mit beiden Händen                             | Schulterrad-Rolle  | Transport (Fingerhebel)     |
 | Würge von der Seite mit beiden Händen                        | Radschere          | Submission (Heel hook)      |
 | Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug         | Submission (Armstreckhebel) |
@@ -46,8 +46,8 @@ Verteidiger
     * einspringen
     * Eckenwurf an Bauch
 * Reaktion (Kontrolle)
-    * Mount
-    * Schulterwürge
+    * Mount mit Schulterwürge
+    * weiterrollen in Guard
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-02/video.mp4" type="video/mp4">

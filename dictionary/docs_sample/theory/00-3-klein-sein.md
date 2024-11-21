@@ -5,7 +5,7 @@
 Referent, geschätzte 110 kg kurz vor der Ausführung des Harai-goshi an einem ca. 70 kg wiegendem Uke.
 
 Diese kleine Szene erreignete sich bei einem herausragenden JJ-Referenten geschätzt im Jahr 2012.
-Die gezeigte Ausführung ist in der Tatcmöglich bei einem gleichwertigen oder kleineren Partner.
+Die gezeigte Ausführung ist in der Tat möglich ... bei einem gleichwertigen oder kleineren Partner.
 Sobald es aber Abweichungen hinsichtlich Grösse oder Schwere gibt, muss eine körperlich unterlegene Person die Technik neu erfinden.
 
 Ich möchte eine kleine Liste an Techniken geben, welche z. B. Probleme bereitet:
@@ -18,24 +18,26 @@ Ich möchte eine kleine Liste an Techniken geben, welche z. B. Probleme bereitet
 
 Selbst eine grosse Aussensichel, ein Anfängerwurf, ist bei einem grossen Partner eine Herausforderung.
 Natürlich, man muss vorher das Gleichgewicht "brechen", aber wie?
-Man kommt mit dem ausgestreckten Arm ja kaum an das Kinn des Partner ...
+Man kommt mit dem ausgestreckten Arm ja kaum an das Kinn des Partners ...
 
 Klein sein, leicht sein, Frau sein im Kampfsport  ... kann ziemlich scheisse sein.
 
 Was ein kleiner Mensch im Kampfsport bisweilen zu tragen hat, hat oft nichts mit Sportlichkeit zu tun.
-Oft gehörte Sprüche (meist aus dem Munde von Menschen, die ihrer Lebtag noch nie einen körperlich wesentlich überlegenem Gegener gegenüberstanden):
+Oft gehörte Sprüche, meist aus dem Munde von Menschen, die ihrer Lebtag noch nie einen körperlich wesentlich überlegenem
+Gegener gegenüberstanden:
 
 * "Du musst die Technik nur sauber durchführen ..."
-* blankes Auslachen des kleineren Partners durch den körperlich überlegenen "Partner"
-
+* "Weisst du, was den Schulterwurf betrofft, hast du eigentlich einen Vorteil." <= wie bitte?!
+* blankes Auslachen des kleineren Partners durch den körperlich überlegenen "Partner", weil er es für "lustig" hält
 * viele Techniken, die gezeigt werden, sind für ein ungleiches Körperverhältnis so nicht ausführbar
-* Hohn und Spott durch Trainings"partner" (Hier vielen "Dank" an die beiden lieben Herren, welche mich auf einem Lehrgang ausgelacht haben. Ihr habt den schwarzen Gürtel weder in Höflichkeit noch Respekt.)
+
+Wie man sieht, bekommt man eine gute Mischung aus Irrtümern und Respektlosigkeit zu spüren.
 
 ## Was wäre, wenn ...
 
-Die folgenden Ausführungen und Berechnungen versucht zu verdeutlichen, dass körperliche Unterschiede - wie Grösse und Gewicht - massive Auswirkungen auf die Techniken haben können.
+Die folgenden Ausführungen und Berechnungen versuchen zu verdeutlichen, dass körperliche Unterschiede - wie Grösse und Gewicht - massive Auswirkungen auf die Techniken haben können.
 
-* Grösseren Partnern fällt meist nur auf, dass der kleinere Partner die Techniken selten richtig macht udn die nicht funktionieren.
+* Grösseren Partnern fällt meist nur auf, dass der kleinere Partner die Techniken selten richtig macht und die nicht funktionieren.
 * Kleinere Partner verzeifeln an unmöglichen Grössen und Gewichtsverhältnissen bzw. müssen jede Technik neu für sich erfinden.
 
 Insgesamt gibt es 3 Körperverhältnisse zwischen Tori und Uke:
