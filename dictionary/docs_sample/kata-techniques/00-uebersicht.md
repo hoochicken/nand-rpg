@@ -6,7 +6,7 @@ Ich bin klein und wiege unter 65 kg. Die meisten Trainings-Partner sind grösser
 
 Viele Würfe, schöne Würfe, elegante Würfe funktionieren nicht - beziehungsweise anders.
 
-Aks kleiner, lecihter Mensch bieten sich Sutemi waza an. Denn durch den Einsatz des eigene Körpergewichts erhöht sich - wenn auch nur geriung - die Chance, dass ein Wurf funktioniert.
+Als kleiner, lecihter Mensch bieten sich Sutemi waza an. Denn durch den Einsatz des eigene Körpergewichts erhöht sich - wenn auch nur geriung - die Chance, dass ein Wurf funktioniert.
 
 ## Zu dieser Kata
 
