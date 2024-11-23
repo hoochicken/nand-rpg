@@ -21,13 +21,13 @@ Verteidiger
 
 * Verteidigung
     * ausweichen nach links = aussen
-    * Block mit rechts zur angreifenden Hand
+    * linke Hand fegt angreifende Hand nach innen
 * Wurf
-    * rolle vorwärts nbach links ausserhalb
-    * Arm schliesst dabei rechtes Bein des ANgreifers ein
-    * Ferse zum Bauch
+    * Rolle vorwärts über rechte Schulter
+    * rechte Achselhöhle hinter gegenseitiger Ferse des Angreifers
+    * rechte Ferse zum Bauch des Angreifers
 * Reaktion
-    * Flucht durch wegrennen
+    * Flucht durch Wegrennen
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-01/video.mp4" type="video/mp4">
@@ -44,7 +44,7 @@ Verteidiger
 
 * Verteidigung
     * ausweichen nach links = aussen
-    * Block mit rechtem Unterarm zur angreifenden Hand
+    * Feger mit rechtem Unterarm zur angreifenden Hand
     * links Haken zum Kinn unter Arm des Angreifers durch
 * Wurf
     * links fasst Arm des Angreifers
@@ -61,22 +61,25 @@ Verteidiger
 
 Angreifer
 
-* Handaussenkantenschlag rechts zum Hals
-* dabei Schritt nach vorne rechts
+* Handaussenkantenschlag links zum Hals
+* dabei Schritt nach vorne links
 
 Verteidiger
 
 * Verteidigung
     * nach rechts ausweichen
-    * passiver Block mit links
-    * rechts offene Hand zum Kinn uir Irritation
-* Wurf (Beinrollwurfnach vorne)
+    * links Block zur Schulter, rechts passiver Block
+    * linker Handrücken zum Kinn als Schock
+* Wurf (Beinrollwurf nach vorne)
+    * rechte Hand führe gleichseitige (schlagende) Hand des Angreifers vor den eigenen Körper
     * Beinrollrollwurf nach vorne
-    * dabei Kontrolle des rechten Arms des Angreifers
-    * rechtes Handgelenk des ANgreifers mit rechts greifen
+    * dabei Kontrolle des besagten linken Arms des Angreifers
+    * linkes Handgelenk des Angreifers mit links greifen
 * Reaktion Transport (Kavalier)
     * seitlich vom Angreifer aufkommen
-    * rechte Hand des Angreifers kontrollieren zum Handgelenksbeugehebel (Kavaliersgriff)
+    * aufknien, dabei Kontrolle über Handgelenksbeugehebel
+    * linke Hand des Angreifers kontrollieren zum Handgelenksbeugehebel (Kavaliersgriff)
+    * sichere Ablage auf RE
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-03/video.mp4" type="video/mp4">
@@ -86,23 +89,23 @@ Verteidiger
 
 Angreifer
 
-* Fusstritt vorwärts rechts zur Körpermitte
+* Fusstritt vorwärts links zur Körpermitte
 * Gewicht kommt nach vorne (Bein wird vorne abgesetzt)
 
 Verteidiger
 
 * Verteidigung
     * nach links ausweichen
-    * Unterarm-Block mit rechts
+    * Unterarm-Block mit links
 * Wurf (Beinrollwurf nach hinten)
     * Beinrollwurf nach hinten
-    * links dabei greift nach linken Hosenbein des Angreifers im Fallen
+    * rechts dabei greift nach rechten Hosenbein des Angreifers im Fallen
     * Partner zu Boden bringen
 * Reaktion Kontrolle und Wadenpresse-Submission
     * an Beinen des Partners ziehen, damit er auf dem Bauch aufkommt
-    * linkes Bein des Angreifers nach rechts in die rechts Kniekehle des Partners falten
-    * eigenes rechtes Bein als Schloss, Zug nach hinten
-    * rechte Hüfte mit rechtem Angreifer-Bein nach vorne
+    * rechtes Bein des Angreifers nach links in die linke Kniekehle des Partners falten
+    * eigenes linkes Bein als Schloss, Zug nach hinten
+    * linke Hüfte mit linkem Angreifer-Bein nach vorne
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-01-beine-04/video.mp4" type="video/mp4">
@@ -119,14 +122,14 @@ Verteidiger
 
 * Verteidigung
     * Block mit gegenseitigem Unterschenkel
-    * dadurch kommen Angreifer- und Verteigiger-Bein nach vorne
+    * dadurch kommen Angreifer- und Verteidiger-Bein nach vorne
 * Wurf (Gerollte Innensichel)
     * Rolle über rechts 45° abweichend nach links aussen hinter den Angreifer
     * Angreifer dabei mitnehmen
 * Reaktion Kontrolle und Würge-Submission
     * Bein-Haken im Angreifer-Bein beibehalten
     * weiterdrehen
-    * Back controll, d. h., Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
+    * Back control, d. h., Angreifer kommt vor einem zu sitzen, sein Rücken an meinem Bauch, beide Beinhaken in die
     * Beine des Angreifers
     * Rear naked choke, d. h., mit rechtem Arm und Hals des Angreifers fassen, in den eigenen Bizeps des linken Arms fassen
 

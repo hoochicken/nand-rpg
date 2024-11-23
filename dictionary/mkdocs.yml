@@ -63,6 +63,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+  - "Reaktionen": "theory/reaktionen.md"
   - "Der Rechner": "calculator.md"
   - "Techniken":
     - "02 Übergang Stand Boden Atemi": "techniques/02-uebergang-stand-boden.md"

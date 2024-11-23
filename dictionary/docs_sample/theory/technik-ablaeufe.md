@@ -21,7 +21,7 @@ Die Verkettung obigen Handlungen variiert je nach Situation.
 In einem Wettkampf würde man vielleicht einen Wurf bevorzugen.
 In einer Selbstverteidigungs-Situation sucht man das Heil gegebenenfalls in der Flucht.
 
-## Optimale Verkettung
+## Optimale (?) Verkettung
 
 Die optimale Verkettung variiert wie oben gesagt je nach Situation.
 Im Idelfall bietet sich folgende Verkettung an:

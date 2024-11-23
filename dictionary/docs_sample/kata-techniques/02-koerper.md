@@ -7,8 +7,8 @@ Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich 
 | 1 Handgelenk wird mit beiden Händen gefasst                  | Korbwurf           | Flucht                      |
 | einhändiger Griff ins Revers (diagonal)                      | Eckenwurf an Bauch | Kontrolle (Guard)           |
 | Würge von vorn mit beiden Händen                             | Schulterrad-Rolle  | Transport (Fingerhebel)     |
-| Würge von der Seite mit beiden Händen                        | Radschere          | Submission (Heel hook)      |
-| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Talfallzug         | Submission (Armstreckhebel) |
+| Würge von der Seite mit beiden Händen                        | Talfallzug         | Submission (Armstreckhebel) |
+| Griff in die Jacke (Schulterbereich) einhändig von der Seite | Radschere          | Submission(Heel hook)       |
 
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst (RE)
 
@@ -62,61 +62,65 @@ Angreifer
 Verteidiger
 
 * Verteidigung - Griff lösen
-    * nach links ausweichen
-    * links Kontrolle
-    * rechts offene Hand zum Gesicht des Angreifers
+    * links greift gleichseitiges Handgelenk des Angreifers, dabei ausweichen nach rechts
+    * Sidestep nach links
+    * dabei rechten Arm von oben auf gleichseitigen, danach gegenseitigen Arm von unten lösen
 * Wurf (Schulterrad-Rolle)
-    * Aufladen zum Schulterrad
+    * links greift gegenseitigen Arm des Angreifers, rechts zum Oberschenkel
+    * Nacken an Bauch des Angreifers Aufladen zum Schulterrad
     * Schulterrad-Rolle
     * weiterdrehen zum Armstreckhebel
 * Reaktion (Transport)
     * Fingerhebel
+    * sichere Ablage auf RE
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-03/video.mp4" type="video/mp4">
 </video>
 
-## Radschere nach Würge von der Seite mit beiden Händen (LI)
+## Talfallzug-Variante nach Würge von der Seite mit beiden Händen (LI)
 
 Angreifer
 
 * Würge von der (linken) Seite mit beiden Händen
+* Verteidiger Blick zu Prüfungskommission
 
 Verteidiger
 
 * Verteidigung - Griff lösen
-    * nach vorne ausweichen (= nah links aus Sicht des Angreifers), dadurch löst sich die Würge
-    * leichte Irritation des Partners durch Zug am Arm
-    * rechts Kontrolle
-    * linke offene Hand zum Gesicht
-* Wurf (Radschere)
-    * Rad in den Handstand links an Angreifer vorbei
-    * Beine kippen 90° nach vorne = Radscherenwurf
+    * rechts greift gleichseitiges Handgelenk des Angreifers
+    * links offene Hand zum Gesicht
+    * Schritt nach rechts, Angreifer mitziehen, damit dessen linker Fuss nach vorne kommt
+* Wurf (Talfallzug-Variante)
+    * links Bein hinter gegenseitigem Bein abstellen = Ausfallschritt, Verteidiger um Hüfte greifen
+    * 180°-Drehung hinter dem Angreifer
+    * Griff um Hüfte, dabei Gable grip
+    * Wurf über rechtes Bein
 * Reaktion (Submission)
-    * Heel hoock / Fussdrehhebel
+    * Armstreckhebel
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-04/video.mp4" type="video/mp4">
 </video>
 
-## Talfallzug-Variante nach Griff in die Jacke (Schulterbereich) einhändig von der Seite (RE)
+## Radschere nach Griff in die Jacke (Schulterbereich) einhändig von der Seite (RE)
 
 Angreifer
 
-* Griff in die Jacke (Schulterbereich) einhändig von der Seite
+* Griff in die Jacke mit links (Schulterbereich) einhändig von der Seite
 
 Verteidiger
 
 * Verteidigung - Griff lösen
-    * rechts Crescent-Kick nach aussen zum Ellenbogen = Bruch
-* Wurfsetup (Talfallzug-Variante)
-    * rechtes Bein vorwärts hinter Angreifer
-    * Taille des Partners "umarmen", Gable-Grip, rechte Hand oben, linke Hand unten
-* Wurf (Talfallzug-Variante)
-    * rechts Bein blockiert Stand des Partners
-    * Umarmung wirft Partner nach hinten
+    * nach links Stepschritt
+    * linken Arm nach oben über haltenden Arm des Angreifers
+    * rechts Tigerkralle zum Gesicht
+    * rechten (gegriffen habenden) Arm des Angreifers rechts an sich vorbei
+* Wurf (Radschere)
+    * Rad in den Handstand links an Angreifer vorbei
+    * Beine kippen 90° nach vorne = Radscherenwurf
 * Reaktion (Submission)
-    * Armstreckhebel
+    * Heel hoock / Fussdrehhebel
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-02-koerper-05/video.mp4" type="video/mp4">
