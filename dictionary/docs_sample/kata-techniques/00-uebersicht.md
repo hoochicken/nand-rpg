@@ -4,12 +4,14 @@
 
 In der Kata-Struktur des Duo-Systems werden die Angriffe in vier Hauptgruppen unterteilt: Atemi (Schläge und Tritte), Greifen, Waffenangriffe und Umklammerungen. Diesen Angriffsgruppen werden Sutemi-Waza (Opferwürfe) gegenübergestellt, die den Zielbereichen Bein, Körper, Arm und Kopf entsprechen.
 
-1. Würfe am **Bein** sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
-2. Würfe am **Körper** passen gut zu Greifen, da hier eine enge Distanz erforderlich ist, um den Gegner effektiv zu werfen.
-3. Würfe am **Arm** harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
-4. Würfe am **Kopf** sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
+1. [Würfe am Bein](01-bein.md) sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Angriffsfläche bieten, um die Wurftechniken gezielt anzusetzen.
+2. [Würfe am Körper](02-koerper.md) passen gut zu Greifen, da hier eine enge Distanz erforderlich ist, um den Gegner effektiv zu werfen.
+3. [Würfe am Arm](03-arm.md) harmonieren mit Waffenangriffen, da Waffen üblicherweise in den Händen gehalten werden und der Arm als Ansatzpunkt für die Technik dient.
+4. [Würfe am Kopf](04-kopf) sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah am Gegner ist und dieser oft schon früh in der Technik kontrolliert und nach unten geführt werden kann.
 
 Andere Aufteilungen können ebenfalls sinnvoll sein. Für die vorliegende Darstellung habe ich mich jedoch aus den genannten Gründen für diese Struktur entschieden.
+
+Eine Übersicht der gesamten Kata befindet sich am [Ende des Kapitels, unten](#aufbau-der-sutemi-waza-no-kata).
 
 ## Verteidigerposition
 

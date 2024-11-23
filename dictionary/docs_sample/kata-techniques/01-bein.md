@@ -10,6 +10,8 @@ Würfe am Bein sind sinnvoll in Verbindung mit Atemi, da Tritte eine direkte Ang
 | Fusstritt vorwärts zur Körpermitte          | Beinrollwurf nach hinten | Submission (Wadenpresse)      |
 | Halbkreisfusstritt vorwärts zur Körpermitte | Gerolltes Einhaken       | Submission (Rear naked Choke) |
 
+*Hinweis: Die Videos sind noch in Arbeit, die Darstellung kann von der Technik abweichen. Massgeblich ist der Text.*
+
 ## Beinroll-Kick (RE)
 
 Angreifer

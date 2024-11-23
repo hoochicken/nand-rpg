@@ -10,6 +10,8 @@ Würfe am Körper passen gut zu Greifen, da hier eine enge Distanz erforderlich 
 | Würge von der Seite mit beiden Händen                        | Talfallzug         | Submission (Armstreckhebel) |
 | Griff in die Jacke (Schulterbereich) einhändig von der Seite | Radschere          | Submission(Heel hook)       |
 
+*Hinweis: Die Videos sind noch in Arbeit, die Darstellung kann von der Technik abweichen. Massgeblich ist der Text.*
+
 ## Korbwurf nach 1 Handgelenk wird mit beiden Händen gefasst (RE)
 
 Angreifer

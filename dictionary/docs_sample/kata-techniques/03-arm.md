@@ -5,11 +5,12 @@ Würfe am Arm harmonieren mit Waffenangriffen, da Waffen üblicherweise in den H
 | Duo-Serie #4 - Messer- oder Stockangriffe           | Arm                                 | Reaktion                    |
 |-----------------------------------------------------|-------------------------------------|-----------------------------|
 | Messerstich von oben aussen (Nr. 1) in Dolchhaltung | Vorwärts-Armstreckhebelrolle        | Flucht                      |
-| Messertich geradlinig zur Körpermitte (Nr. 5)       | Seitenriss                          | Kontrolle (Kreuzposition)   |
+| Messerstich geradlinig zur Körpermitte (Nr. 5)      | Seitenriss                          | Kontrolle (Kreuzposition)   |
 | Messerstich von oben innen (Nr. 2) in Dolchhaltung  | Armstreckgehebelter Reisballenwurf  | Transport (Kreuzfessel)     |
 | Stockschlag  von oben (Nr. 6)                       | Stock-Bizepspressen-Sutemi          | Submission (Armpresse)      |
 | Stockschlag von oben aussen (Nr. 1)                 | Eingestiegener Reisballenwurf       | Submission (Armstreckhebel) |
 
+*Hinweis: Die Videos sind noch in Arbeit, die Darstellung kann von der Technik abweichen. Massgeblich ist der Text.*
 
 ## Vorwärts-Armstreckhebelrolle nach Messerstich von oben aussen (Nr. 1) in Dolchhaltung
 

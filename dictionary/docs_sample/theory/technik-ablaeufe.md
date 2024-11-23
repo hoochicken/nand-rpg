@@ -1,6 +1,5 @@
 # Sutemi waza no kata
 
-
 ## Grundsätze
 
 Eine Kampfaktion verläuft in mehreren Schritten. Dies sind:

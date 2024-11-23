@@ -2,9 +2,9 @@
 
 Es gibt drei Möglichkeiten, wie Menschen auf eine Gefahr reagieren:
 
-* Schockstarre
-* Flucht
-* Kampf
+* [Schockstarre](#schockstarre)
+* [Flucht](#das-hasenpanier---flucht-or-flight)
+* [Kampf](#kampf---fight)
 
 Diese drei Verhaltensweisen sind im limbischen System verankert.
 

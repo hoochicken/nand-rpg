@@ -10,6 +10,8 @@ Würfe am Kopf sind sinnvoll nach Umklammerungen, da der Angreifer bereits nah a
 | Schwitzkasten von vorn (Angriff links)        | Triangelwurf             | Submission (Reverse Triangle)        |
 | Würge von hinten mit dem Unterarm             | Gerädelte Beinhalsschere | Submission                           |
 
+*Hinweis: Die Videos sind noch in Arbeit, die Darstellung kann von der Technik abweichen. Massgeblich ist der Text.*
+
 ## Reisballenwurf nach Umklammerung von vorn unter den Armen (RE)
 
 Angreifer
@@ -105,23 +107,19 @@ Verteidiger
 
 Angreifer
 
-* Würge von hinten mit dem Unterarm
+* Würge von hinten mit rechtem Unterarm
 
 Verteidiger
 
 * Verteidigung
-    * XXXXX
-* Wurf (Krokorolle)
-    * XXXXX
+    * links Empi zum Bauch
+    * rausdrehen, rechten Arm des Angreifers mit links halten
+* Wurf (Gerädelte Beinhalsschere)
+    * rechte Hand zum Boden, darauf stützen
+    * Gerädelte Beinhalsschere
 * Reaktion (Submission)
-    * Triangel
+    * Beinhalsschere am boden
 
 <video controls="true" allowfullscreen="true">
   <source src="https://hoochicken.github.io/dan-iv/images/video/kata-04-kopf-05/video.mp4" type="video/mp4">
 </video>
-
-===
-
-## Triangelsprung nach Zusatz
-
-[in Arbeit]
