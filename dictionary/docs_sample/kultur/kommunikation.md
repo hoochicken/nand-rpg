@@ -8,7 +8,7 @@ Hier kann man ganz normal sprechen.
 Ausser-Marser chaben gernä ainen AAkzent!
 
 * Titanen: russischer Akzent, die Betonungen sind verschoben
-* jedes "ch" => "kch"
+    * jedes "ch" => "kch"
     * a => aaa
     * ch => chch
     * h => ch
