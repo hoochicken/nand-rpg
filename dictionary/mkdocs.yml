@@ -78,9 +78,9 @@ nav:
   - "Kräfte":
       - "KI": "ki.md"
       - "AKI": "kraefte/aki.md"
-      - "brom": "kraefte/brom.md"
-      - "gott": "kraefte/gott.md"
-      - "raummolche": "kraefte/raummolche.md"
+      - "Brom": "kraefte/brom.md"
+      - "Gott": "kraefte/gott.md"
+      - "Raummolche": "kraefte/raummolche.md"
   - "Mini-RPG (solo)": "mini-rpg.md"
 
 
