@@ -14,10 +14,10 @@
 
 Jeder hat einen Rufnamen und einen Gebärdennamen; auf diesen Seiten kannst du dir eine passende Gebärde aussuchen.
 
-| https://spreadthesign.com                                                        | https://signdict.org                                                   | https://manimundo.de                                                     |
+| [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![qrcode-spreadthesign.png](../images/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/gebaerdensprache/qrcode-manimundo.png) |
-| Lexikon                                                                          | Lexikon                                                                | Lernen                                                                |
+| Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 ## Proben
 

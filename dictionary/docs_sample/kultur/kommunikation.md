@@ -95,11 +95,10 @@ Umsetzung am Rollenspiel-Tisch
 
 Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
 
-| https://spreadthesign.com                                                        | https://signdict.org                                                   | https://manimundo.de                                                     |
+| [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![qrcode-spreadthesign.png](../images/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/gebaerdensprache/qrcode-manimundo.png) |
-| Lexikon                                                                          | Lexikon                                                                | Lernen                                                                |
-
+| Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 #### Finger-Alphabet
 
