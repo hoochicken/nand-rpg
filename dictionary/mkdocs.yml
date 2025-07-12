@@ -1,6 +1,6 @@
 # Project information
-site_name: "Dan IV"
-site_description: "Dan IV, Exposee"
+site_name: "Nand - RPG"
+site_description: "Das Rollenspiel auf dem Mars"
 site_author: "hoochicken"
 site_url: "http://127.0.0.1:8000"
 
@@ -63,3 +63,24 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+  - "Charaktererstellung": "charaktererstellung.md"
+  - "Welt":
+      - "Mars": "welt/mars.md"
+      - "Sonnensystem": "welt/sonnensystem.md"
+      - "Völker": "welt/voelker.md"
+      - "Quantenraum": "welt/quantenraum.md"
+      - "Technologien": "welt/technologien.md"
+  - "Marser Kultur":
+      - "Marser": "welt/marser.md"
+      - "Hobbys": "kultur/hobbys.md"
+      - "Kommunikation": "kultur/kommunikation.md"
+      - "Kadettschaft": "kultur/kadettschaft.md"
+  - "Kräfte":
+      - "KI": "ki.md"
+      - "AKI": "kraefte/aki.md"
+      - "brom": "kraefte/brom.md"
+      - "gott": "kraefte/gott.md"
+      - "raummolche": "kraefte/raummolche.md"
+  - "Mini-RPG (solo)": "mini-rpg.md"
+
+
