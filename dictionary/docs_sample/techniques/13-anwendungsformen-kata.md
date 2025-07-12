@@ -1,2 +1,0 @@
-# Anwendungsformen - Kata
-

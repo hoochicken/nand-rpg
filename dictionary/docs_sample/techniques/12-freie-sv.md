@@ -1,2 +1,0 @@
-# Freie Selbstverteidigung
-
