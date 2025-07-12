@@ -17,7 +17,7 @@
 
 #### Brumsen
 
-![brumsen-01.png](../images/fauna/brumsen-01.png)
+![brumsen-01.png](../images/fauna/brumsen-08.png)
 
 ### Plötzen
 

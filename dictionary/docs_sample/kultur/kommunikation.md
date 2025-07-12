@@ -20,7 +20,7 @@ Ausser-Marser chaben gernä ainen AAkzent!
     * keine "h"
     * a => o
     * falsches grammatisches Geschlecht
-    * Merkspruch: isch säe einö üben Kühlschronk
+    * Merkspruch: isch säe einö 'übschen Kühlschronk
 
 ## 2. Funkprotokolle, gesprochen
 
