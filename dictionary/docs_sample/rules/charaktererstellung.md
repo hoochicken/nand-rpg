@@ -2,12 +2,12 @@
 
 ## Charakterbogen
 
-| Download                                                                                                | ---                  |
-|---------------------------------------------------------------------------------------------------------|----------------------|
-| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-rot.pdf))        | farbig               |
-| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-sw.pdf))         | schwarz-weiss        |
-| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-hellgrau.pdf))   | hellgrau             |
-| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-handgemalt.pdf)) | handgemalt, original |
+| Download                                                               | ---                  |
+|------------------------------------------------------------------------|----------------------|
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original |
 
 ## Grundwerte
 

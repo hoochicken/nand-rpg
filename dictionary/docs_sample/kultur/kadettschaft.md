@@ -25,4 +25,4 @@ Geraffel oder Ausrüstung gibt es viel.
 
 ## Medikit
 
-![Medikiz, ein Erste-Hilfe-Kasten](..%2Fimages%2Ftechnologie%2Fmedikit-03.jpg)
+![Medikiz, ein Erste-Hilfe-Kasten](../images/technologie/medikit-03.jpg)

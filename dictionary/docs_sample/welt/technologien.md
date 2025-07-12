@@ -3,9 +3,9 @@
 
 ## Hebroboto
 
-![image](../images/hebroboto.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
+![image](../images/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
 
-![hr-01.jpg](..%2Fimages%2Ftechnologie%2Fhr-01.jpg)
+![hr-01.jpg](../images/technologie/hr-01.jpg)
 
 ## Fernunterhalt
 

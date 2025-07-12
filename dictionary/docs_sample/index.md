@@ -27,34 +27,14 @@ Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
 
 ### HR
 
-![hr-01.jpg](images%2Ffan-art%2Fhr-01.jpg)
-![hr-02.jpg](images%2Ffan-art%2Fhr-02.jpg)
-![hr-03.jpg](images%2Ffan-art%2Fhr-03.jpg)
-![hr-04.jpg](images%2Ffan-art%2Fhr-04.jpg)
+![hr-01.jpg](images/fan-art/hr-01.jpg)``
+![hr-04.jpg](images/fan-art/hr-04.jpg)
 
 ### Brumsen
 
-![brumsen-01.png](images%2Ffan-art%2Fbrumsen-01.png)
-![brumsen-02.png](images%2Ffan-art%2Fbrumsen-02.png)
-![brumsen-03.png](images%2Ffan-art%2Fbrumsen-03.png)
-![brumsen-04.png](images%2Ffan-art%2Fbrumsen-04.png)
-![brumsen-05.png](images%2Ffan-art%2Fbrumsen-05.png)
-![brumsen-06.png](images%2Ffan-art%2Fbrumsen-06.png)
-![brumsen-07.png](images%2Ffan-art%2Fbrumsen-07.png)
-![brumsen-08.png](images%2Ffan-art%2Fbrumsen-08.png)
-![brumsen-10.png](images%2Ffan-art%2Fbrumsen-10.png)
-![brumsen-11.png](images%2Ffan-art%2Fbrumsen-11.png)
-![brumsen-12.png](images%2Ffan-art%2Fbrumsen-12.png)
-![brumsen-13.png](images%2Ffan-art%2Fbrumsen-13.png)
-![brumsen-14.png](images%2Ffan-art%2Fbrumsen-14.png)
+![brumsen-01.png](images/fan-art/brumsen-01.png)
+![brumsen-14.png](images/fan-art/brumsen-08.png)
 
 ### Plötzen
 
-![ploetzen-01.png](images%2Ffan-art%2Fploetzen-01.png)
-![ploetzen-02.png](images%2Ffan-art%2Fploetzen-02.png)
-![ploetzen-03.png](images%2Ffan-art%2Fploetzen-03.png)
-![ploetzen-04.png](images%2Ffan-art%2Fploetzen-04.png)
-![ploetzen-05.png](images%2Ffan-art%2Fploetzen-05.png)
-![ploetzen-07.png](images%2Ffan-art%2Fploetzen-07.png)
-![ploetzen-08.png](images%2Ffan-art%2Fploetzen-08.png)
-![ploetzen-09.png](images%2Ffan-art%2Fploetzen-09.png)
+![ploetzen-09.png](images/fan-art/ploetzen-09.png)

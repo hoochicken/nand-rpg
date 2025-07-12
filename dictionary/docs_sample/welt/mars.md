@@ -17,11 +17,11 @@
 
 #### Brumsen
 
-![brumsen-01.png](..%2Fimages%2Ffauna%2Fbrumsen-01.png)
+![brumsen-01.png](../images/faunabrumsen-01.png)
 
 ### Plötzen
 
-![ploetzen-01.png](..%2Fimages%2Ffauna%2Fploetzen-01.png)
+![ploetzen-01.png](../images/faunaploetzen-01.png)
 
 ### Weitere
 

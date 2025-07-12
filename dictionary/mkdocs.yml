@@ -63,7 +63,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Charaktererstellung": "welt/charaktererstellung.md"
+  - "Charaktererstellung": "rules/charaktererstellung.md"
   - "Welt":
       - "Mars": "welt/mars.md"
       - "Sonnensystem": "welt/sonnensystem.md"
@@ -76,7 +76,7 @@ nav:
       - "Kommunikation": "kultur/kommunikation.md"
       - "Kadettschaft": "kultur/kadettschaft.md"
   - "Kräfte":
-      - "KI": "ki.md"
+      - "KI": "kraefte/ki.md"
       - "AKI": "kraefte/aki.md"
       - "Brom": "kraefte/brom.md"
       - "Gott": "kraefte/gott.md"
