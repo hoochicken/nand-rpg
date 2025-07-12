@@ -2,7 +2,7 @@
 
 ## Sonnensystem und Quantenraum
 
-![image](/images/welten.jpg)Der Quantenraum, der das gesamte bekannte Universum durchzieht, ist schwarz. Nand kann in diesen hineinblicken.
+![image](../images/welten.jpg)Der Quantenraum, der das gesamte bekannte Universum durchzieht, ist schwarz. Nand kann in diesen hineinblicken.
 
 Durch den Quantenraum verlaufen unzählige helle Fäden, Realitätenfäden, die in unterschiedliche Ausformungen des Universums führen.
 

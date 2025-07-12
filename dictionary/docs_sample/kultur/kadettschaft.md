@@ -5,7 +5,7 @@ Man stelle sich einen PFadfinderverband vor, der bereits von Doktrinen evrseucht
 
 Schon Kinder lernen militärische Fähigkeiten wie Orientierungsläufe, Waffenkunde, Märsche, Funkprotokolle etc.
 
-# 🎒 Geraffel
+## 🎒 Geraffel
 
 Geraffel oder Ausrüstung gibt es viel.
 
@@ -23,3 +23,6 @@ Geraffel oder Ausrüstung gibt es viel.
 11. 🥄 Kombi-Besteck „Löffelwolf“<br />Mars-Klassiker: Löffel, Gabel und Mini-Säge in einem Stück Titan. Hat einen „Witzspruch des Tages“ eingraviert.
 12. 🥼 Staubponcho Typ „Schleier 1“<br />Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und reflektierende Fäden für Sichtbarkeit.
 
+## Medikit
+
+![Medikiz, ein Erste-Hilfe-Kasten](..%2Fimages%2Ftechnologie%2Fmedikit-03.jpg)

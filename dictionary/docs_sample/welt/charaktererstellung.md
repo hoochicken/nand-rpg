@@ -1,5 +1,14 @@
 # Charaktererstellung
 
+## Charakterbogen
+
+| Download                                                                                                | ---                  |
+|---------------------------------------------------------------------------------------------------------|----------------------|
+| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-rot.pdf))        | farbig               |
+| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-sw.pdf))         | schwarz-weiss        |
+| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-hellgrau.pdf))   | hellgrau             |
+| [Charakterbogen (PDF)]([charakterbogen-ki-rot.pdf](..%2F_downloads%2Fcharakterbogen-ki-handgemalt.pdf)) | handgemalt, original |
+
 ## Grundwerte
 
 * Name: ein- oder zweisilbig ist üblich

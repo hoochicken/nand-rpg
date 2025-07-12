@@ -21,15 +21,15 @@ Das Grosse Schyff hat auch die KI mit auf den Mars gebracht.
 
 ## KI
 
-![Autonome KI](/images/aki.jpg)
-![image](/images/aki2.jpg)
+![Autonome KI](../images/aki.jpg)
+![image](../images/aki2.jpg)
 Die KI kamen mut dem felinen Grossen Schyff auf den Mars. Ursprünglich waren sie zur Servittierung der gigantischen Terraformanlagen gedacht. S. a. (/ki.md)[KI]
 
 KI sind weitestgehend felinid, d. h., sie laufen auf zwei Beinen, wie die Felinen auch.
 
 ## Dreifinger, Luna
 
-![Autonome KI](/images/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
+![Autonome KI](../images/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
 
 Dreifinger sind von Natur aus freundlich und lieben philosophische Diskussionen. Ausserdem sind sie grundsätzlich zur Gegenwartsbrechung fähig ... zumindest, wenn sie Brom haben.
 
@@ -47,15 +47,15 @@ Entspricht Brittanien.
 
 ## Waberwesen, Pluto
 
-![image](/images/vielarm.jpg)Entspricht Japan.
+![image](../images/vielarm.jpg)Entspricht Japan.
 
 ## Titanen, Titan
 
-![image](/images/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten sie nicht diesen grossen kräftigen Schnabel.
+![image](../images/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten sie nicht diesen grossen kräftigen Schnabel.
 
 ## Barben, Neith
 
-![image](/images/barben.jpg)![image](/images/barben2.jpg)Die Barben leben auf dem künstlich geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
+![image](../images/barben.jpg)![image](../images/barben2.jpg)Die Barben leben auf dem künstlich geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
 
 Wo man auf dem Mars einen elektronischen Allempfänger erwarten würde, findet man bei drn Barben eine umstrukturierte Runkelrübe.
 

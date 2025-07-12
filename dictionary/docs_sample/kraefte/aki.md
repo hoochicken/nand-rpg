@@ -12,7 +12,7 @@ Sie hilf ihm, weil sie dazu auf Basis der alten Robotergesetze verpflichtet ist.
 * wen  ja, wie
 * wenn nand die rübe brinht, dan  muss nand vorher mitgeteilt haben, dass er brom braucht
 
-![image](/images/aki.jpg)
+![image](../images/aki.jpg)
 
 ## Vorkommen
 

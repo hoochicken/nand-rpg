@@ -15,6 +15,16 @@
 
 ### Flora und Fauna
 
+#### Brumsen
+
+![brumsen-01.png](..%2Fimages%2Ffauna%2Fbrumsen-01.png)
+
+### Plötzen
+
+![ploetzen-01.png](..%2Fimages%2Ffauna%2Fploetzen-01.png)
+
+### Weitere
+
 * Flittermäuse
 * Brumsen
 * Molche
