@@ -63,7 +63,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Charaktererstellung": "charaktererstellung.md"
+  - "Charaktererstellung": "welt/charaktererstellung.md"
   - "Welt":
       - "Mars": "welt/mars.md"
       - "Sonnensystem": "welt/sonnensystem.md"

@@ -9,18 +9,18 @@ Ausser-Marser chaben gernä ainen AAkzent!
 
 * Titanen: russischer Akzent, die Betonungen sind verschoben
 * jedes "ch" => "kch"
-  * a => aaa
-  * ch => chch
-  * h => ch
-  * gezogene Vokale an den falschen Stellen
-  * falsches grammatisches Geschlecht
-  * Merkspruch: ich wiinscht ichch chätte ein Pferdeekutsch
+    * a => aaa
+    * ch => chch
+    * h => ch
+    * gezogene Vokale an den falschen Stellen
+    * falsches grammatisches Geschlecht
+    * Merkspruch: ich wiinscht ichch chätte ein Pferdeekutsch
 * Lunare: französischer Akzent
-  * jedes "ch" => "sch"
-  * keine "h"
-  * a => o
-  * falsches grammatisches Geschlecht
-  * Merkspruch: isch säe einö üben Kühlschronk
+    * jedes "ch" => "sch"
+    * keine "h"
+    * a => o
+    * falsches grammatisches Geschlecht
+    * Merkspruch: isch säe einö üben Kühlschronk
 
 ## 2. Funkprotokolle, gesprochen
 
@@ -93,7 +93,13 @@ Umsetzung am Rollenspiel-Tisch
 * Du kannst keine DGS => unterhaltet euch einfach normal am Rollenspiel-Tisch; denkt aber daran: ihr könnt euch **nur
   auf Sichtweite** unterhalten; man kann niemandem hinterherrufen oder von hinten ansprechen :-D
 
-Info: Grossschreibung? Ja, ein Gebärdenbegriff wird grossgeschrieben
+Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
+
+| https://spreadthesign.com                                                        | https://signdict.org                                                   | https://manimundo.de                                                     |
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| ![qrcode-spreadthesign.png](../images/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/gebaerdensprache/qrcode-manimundo.png) |
+| Lexikon                                                                          | Lexikon                                                                | Lernen                                                                |
+
 
 #### Finger-Alphabet
 
