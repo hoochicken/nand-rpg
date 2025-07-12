@@ -2,12 +2,12 @@
 
 ## Charakterbogen
 
-| Download                                                               | ---                  |
-|------------------------------------------------------------------------|----------------------|
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original |
+| Download                                                               | ---                  | ---                                                                                                          |
+|------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               | ![nand-charakterbogen-ki-katze-rot.png](../images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)       |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)         |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png) |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
 
 ## Grundwerte
 
