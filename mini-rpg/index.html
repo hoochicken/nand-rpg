@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" content="hoochicken" /><link rel="canonical" href="http://127.0.0.1:8000/mini-rpg/" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Mini-RPG (solo) - Nand - RPG</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="../assets/css/custom.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Mini-RPG (solo)";
+        var mkdocs_page_input_path = "mini-rpg.md";
+        var mkdocs_page_url = "/mini-rpg/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Nand - RPG
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="../charaktererstellung.md">Charaktererstellung</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Welt</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/mars/">Mars</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/sonnensystem/">Sonnensystem</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/voelker/">Völker</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/quantenraum/">Quantenraum</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/technologien/">Technologien</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Marser Kultur</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../welt/marser/">Marser</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kultur/hobbys/">Hobbys</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kultur/kommunikation/">Kommunikation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kultur/kadettschaft/">Kadettschaft</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Kräfte</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="" href="../ki.md">KI</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kraefte/aki/">AKI</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kraefte/brom/">brom</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kraefte/gott/">gott</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../kraefte/raummolche/">raummolche</a>
+                  </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="#">Mini-RPG (solo)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#praambel">Präambel</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#charakter-und-npc-generator">Charakter- und NPC-Generator</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#spezies-rollator">Spezies-Rollator</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#personen">Person(en)</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#dein-anzug">Dein Anzug</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#besonderer-gegenstand">Besonderer Gegenstand</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#orte-und-fortbewegung">Orte und Fortbewegung</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#vehikel">Vehikel</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ort-an-dem-du-dich-befindest">Ort, an dem du dich befindest</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#queste">Queste</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#person-welche-du-triffst">Person, welche du triffst</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#das-problem">Das Problem</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#questen-aktion">Questen-Aktion</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ort-an-welchem-die-queste-zu-erfullen-ist">Ort, an welchem die Queste zu erfüllen ist</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#die-unerwartete-wendung">Die unerwartete Wendung</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Nand - RPG</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Mini-RPG (solo)</li>
+    <li class="wy-breadcrumbs-aside">
+          <a href="https://github.com/hoochicken/nand-rpg/dictionary/edit/main/docs_sample/mini-rpg.md" class="icon icon-github"> Edit on GitHub</a>
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="rollenspiel">Rollenspiel</h1>
+<p>Das kleine Rollenspiel führt Dich auf den Mars. Du brauchst dafür einen sechsseitigen Würfel (W6) und eim bisschen Phantasie.</p>
+<p>Wenn du magst, kannst du dir Stift und Papier zurechtlegen und für dich oder die Nachwelt festhalten. Zeichne dir Karten, Charaktere, was immet du willst &lt;3.</p>
+<h2 id="praambel">Präambel</h2>
+<p>Würfle mit dem W6 zunächst deine Spezies aus. Beispiel: Das Würfelergebnis ist eine 4, also bist du Titan. </p>
+<p>Besonderheit: Wenn du eine 6 würfelst, würfle erneut. Fällt erneut eine 6, so nimm das Ergebnis, was unter 6-6 eingetragen ist. Im Falle det Spezies wärst du dann eine Zippelgusse.</p>
+<p>Wenn du keinen hast, such dir einfach eine der Möglichkeiten aus.</p>
+<p>Dann würfle deine Figur(en) aus, deinen Anzug etc.</p>
+<p>Gehe der Reihe nach von oben nach unten durch und entwickle deibe Geschichte. Gerne kanbst du sie auf einem Blatt Paper festhalten.</p>
+<p>Die meisten Personen, die du auf dem Mars triffst werden Marser sein. Hast Du Lust auf ein besonderes Gegenüner, kannst du jederzeit den Charakter- und NPC-Generator verwenden ... und ja, du kannst auch gleicv eine ganze Gruppe spielen.</p>
+<h2 id="charakter-und-npc-generator">Charakter- und NPC-Generator</h2>
+<h3 id="spezies-rollator">Spezies-Rollator</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Marser</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dreifinger</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Zwergbarbe</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Titan</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Dreifinger</td>
+</tr>
+<tr>
+<td>6</td>
+<td>KI</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Zippelgusse</td>
+</tr>
+</tbody>
+</table>
+<h3 id="personen">Person(en)</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>allein</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dein Partner ist bei dir</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Deine beiden besten Freunde und du</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Du und drei ungezogene Echsenschupps an der Leine</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5-köpfige Familie</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Verlorene Kinder einer Schulklasse</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Reine riesige Reisegruppe</td>
+</tr>
+</tbody>
+</table>
+<h3 id="dein-anzug">Dein Anzug</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>alt, löchrig</td>
+</tr>
+<tr>
+<td>2</td>
+<td>mit Flicken</td>
+</tr>
+<tr>
+<td>3</td>
+<td>neuer Helm</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ventil kaputt</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bromometer kaputt</td>
+</tr>
+<tr>
+<td>6</td>
+<td>viel zu klein</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>keinen, besorg dir einen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="besonderer-gegenstand">Besonderer Gegenstand</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Tornister</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bromometer</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Leuchtglobus</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Allempfänger</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Schöpfkelle</td>
+</tr>
+<tr>
+<td>6</td>
+<td>richtiges Buch, Handreichung  des gemeinen Reisenden durchs Sonnensystem</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Modularfaust</td>
+</tr>
+</tbody>
+</table>
+<h2 id="orte-und-fortbewegung">Orte und Fortbewegung</h2>
+<h3 id="vehikel">Vehikel</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>zu Fuss</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Motorsacke</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ornithopter</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Insektoid</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Hebroboto</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ein-Personen-Raumgleiter</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Baumschiff</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ort-an-dem-du-dich-befindest">Ort, an dem du dich befindest</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Zuhause</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bromsaler Innenstadt</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Schule</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Agrar-Anlage</td>
+</tr>
+<tr>
+<td>5</td>
+<td>LT-Tunnel</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Raumhafen, Güter-Umschlagplatz</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Planetoformanlage</td>
+</tr>
+</tbody>
+</table>
+<h2 id="queste">Queste</h2>
+<h3 id="person-welche-du-triffst">Person, welche du triffst</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Deine Schwester</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Deinen KinderfreundIn</td>
+</tr>
+<tr>
+<td>3</td>
+<td>den Nachbarn der nächsten Wohnbleibe</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Reisender aus Marsstadt</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Politiker einer extremen Partei</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Vollkommem Unbekannter</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>alles zusammen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="das-problem">Das Problem</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Brompfütze</td>
+</tr>
+<tr>
+<td>2</td>
+<td>sucht Person eigener / fremder Spezies / Plötze</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stiefelsohle abgefallen</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Anzug- und / oder Vehikel-Panne</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ist auf Flucht vor Sicherheitspersonal</td>
+</tr>
+<tr>
+<td>6</td>
+<td>sucht einen Gegenstand wie den deinen</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>alles zusammen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="questen-aktion">Questen-Aktion</h3>
+<p>Die Aktion bezieht sich auf einen Gegenstand oder Person deiner Wahl. Kannst du auswürfeln odr frei wählen.</p>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>kaufen</td>
+</tr>
+<tr>
+<td>2</td>
+<td>stehlen</td>
+</tr>
+<tr>
+<td>3</td>
+<td>besorgen</td>
+</tr>
+<tr>
+<td>4</td>
+<td>töten</td>
+</tr>
+<tr>
+<td>5</td>
+<td>befreien</td>
+</tr>
+<tr>
+<td>6</td>
+<td>transportieren</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>alles zusammen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ort-an-welchem-die-queste-zu-erfullen-ist">Ort, an welchem die Queste zu erfüllen ist</h3>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Bromsal</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Marsstadt</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Luna, terraner Mond</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Neith, venerischer Mond</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ganymed</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Bromdelta</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Proxima Zentauri</td>
+</tr>
+</tbody>
+</table>
+<h2 id="die-unerwartete-wendung">Die unerwartete Wendung</h2>
+<table>
+<thead>
+<tr>
+<th>W6-Ergebnis</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Du warst Drogenkurier und ein Beutel mit Rauschgift ist geplatzt, in deinem Magen; jetzt bist du im Verhör</td>
+</tr>
+<tr>
+<td>2</td>
+<td>die andere Person ist eigentlich der Böse</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Du hast das alles geträumt; heute passiert alles, was Du geträumt hast, aber irgendwie anders; ständig plagen Dich Dejavus und Du bist ständig verwirrt</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Um Nachhinein bekommst Du die Idee für eine bahnbrechende Erfindung, welche das Leben aller Lebewesen erleichtern wird, und das ist ...</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Du bekommst eine unscheinbar und unauffällige Einladung für eine Reise im Baumschiff nach Proxima Zentauri; was hat Dein Abenteuer damit zu tun?</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Du wachst als Cephaloid in einem Axolotl-Tank auf ... irgendwie musst Du bei Deine Aktion gestorben sein, aber wie?</td>
+</tr>
+<tr>
+<td>6-6</td>
+<td>Deine Aktion, dein Handeln löst einen Krieg aus</td>
+</tr>
+</tbody>
+</table>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../kraefte/raummolche/" class="btn btn-neutral float-left" title="raummolche"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+      <p>&copy; 2024 Mareike Riegel</p>
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/hoochicken/nand-rpg/dictionary" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../kraefte/raummolche/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJ2ax.js?config=TeX-MML-AM_CHTML"></script>
+      <script src="../assets/js/body-quotient-calculator.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
