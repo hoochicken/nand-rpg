@@ -9,7 +9,15 @@
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/mini-rpg/</loc>
+         <loc>http://127.0.0.1:8000/abenteuer/01-wehrerziehungslager/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/abenteuer/02-erster-auftrag/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/abenteuer/99-mini-rpg/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
@@ -41,6 +49,10 @@
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kraefte/voelker/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kultur/hobbys/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
@@ -53,15 +65,19 @@
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kultur/marser/</loc>
+         <lastmod>2025-07-13</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/rules/charaktererstellung/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/welt/mars/</loc>
+         <loc>http://127.0.0.1:8000/welt/bromsal/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/welt/marser/</loc>
+         <loc>http://127.0.0.1:8000/welt/mars/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
     <url>
@@ -74,10 +90,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/technologien/</loc>
-         <lastmod>2025-07-13</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/voelker/</loc>
          <lastmod>2025-07-13</lastmod>
     </url>
 </urlset>
