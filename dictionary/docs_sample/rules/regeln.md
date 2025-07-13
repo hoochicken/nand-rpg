@@ -1,4 +1,4 @@
-# Charaktererstellung
+# Regeln
 
 ## Proben
 

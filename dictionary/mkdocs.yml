@@ -68,6 +68,7 @@ extra:
 nav:
   - "Home": "index.md"
   - "Charaktererstellung": "rules/charaktererstellung.md"
+  - "Regeln": "rules/regeln.md"
   - "Welt":
       - "Mars": "welt/mars.md"
       - "Bromsal": "welt/bromsal.md"
