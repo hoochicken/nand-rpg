@@ -8,7 +8,7 @@
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf) | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf)       | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
 
 ## Grundwerte
 
@@ -69,7 +69,7 @@ Beispiel: Dein Charakter hat Fahrzeugsteuerung (3), Signalgeber (2) und Lautlos 
 
 ### 🧠 Wissen & Analyse
 
-* Terraforming-Wissen – 2
+* Planetoforming-Wissen – 2
 * Mars-Geologie – 2
 * Feindliche Taktiken – 2
 * Codes und Systeme – 1

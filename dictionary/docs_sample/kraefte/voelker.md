@@ -1,4 +1,4 @@
-# Spezies
+# Biologische Spezies
 
 | Planet         | Volkname              | Aussehen           | Namen                                                   |
 |----------------|-----------------------|--------------------|---------------------------------------------------------|
@@ -18,14 +18,6 @@ Feline sind weitestgehend von katzenhafter Gestalt, laufen auf ihren zwei Hinter
 Die Spezies der Felinen ist eingewandert, aber es ist ein Mysterium woher. Es gibt die Legende vom Grossen Schyff, das sie hergebracht habe und auch wieder abholen werde.
 
 Das Grosse Schyff hat auch die KI mit auf den Mars gebracht.
-
-## KI
-
-![Autonome KI](../images/aki.jpg)
-![image](../images/aki2.jpg)
-Die KI kamen mut dem felinen Grossen Schyff auf den Mars. Ursprünglich waren sie zur Servittierung der gigantischen Terraformanlagen gedacht. S. a. (/ki.md)[KI]
-
-KI sind weitestgehend felinid, d. h., sie laufen auf zwei Beinen, wie die Felinen auch.
 
 ## Dreifinger, Luna
 

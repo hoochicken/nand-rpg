@@ -1,10 +1,13 @@
-# KI
+## KI
 
 ## Definition
 
 Die KI ist eine künstliche Intelligenz. Von aussen betrachtet sind es einfach intelligente Roboter. Wie die Felinen
 kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie die AUfgabe, die Planetoformung
-voranzutreiben und betrieben die grossen Terraformanlagen.
+voranzutreiben und betrieben die grossen Planetoformanlagen.
+
+![Autonome KI](../images/aki.jpg)
+![image](../images/aki2.jpg)
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 

@@ -109,3 +109,39 @@ Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
 Neue Begriffe werden mit dem Fingeralphabet aufgegriffen. Und das findest du hier:
 
 ![fingeralphabet.png](../images/kommunikation/gebaerdensprache/fingeralphabet.png)
+
+## Schrift: Runen
+
+Hier das Runen-"Alphabet" beziehungsweise das sogenannte Futhark.
+Alles wird in RUnen geschrieben.
+
+Wenn deine Spieler Sppass am Dechifrieren haben => wirf ihnen einfach einen Runentext hin :-)
+Oder einfache Beschriftungen.
+
+| Rune | Name        | Lautwert |
+|------|-------------|----------|
+| ᚠ    | Fehu        | f        |
+| ᚢ    | Ūruz        | u        |
+| ᚦ    | Þurisaz     | th       |
+| ᚨ    | Ansuz       | a        |
+| ᚱ    | Raidō       | r        |
+| ᚲ    | Kaunan      | k        |
+| ᚷ    | Gebō        | g        |
+| ᚹ    | Wunjō       | w        |
+| ᚺ    | Hagalaz     | h        |
+| ᚾ    | Naudiz      | n        |
+| ᛁ    | Īsaz        | i        |
+| ᛃ    | Jēra        | j        |
+| ᛈ    | Perþo       | p        |
+| ᛇ    | Eihwaz      | e        |
+| ᛉ    | Algiz       | a        |
+| ᛊ    | Sōwilō, Sól | s        |
+| ᛏ    | Sōwil       | s        |
+| ᛊ    | Tīwaz       | t        |
+| ᛒ    | Berkanan    | b        |
+| ᛖ    | Ehwaz       | e        |
+| ᛗ    | Mannaz      | m        |
+| ᛚ    | Laguz       | l        |
+| ᛜ    | Ingwaz      | i        |
+| ᛞ    | Sōwil       | s        |
+| ᛟ    | Ōþila       | o        |
