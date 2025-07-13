@@ -111,8 +111,11 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
 ### 🤖 Boltzmann
 
-* Typ: Minihelfer-KI · Assistenzklasse I
+* Typ: Minihelfer-KI
+* Assistenzklasse I
 * Größe: Etwa wie ein größerer Trinkbecher
+
+![boltzmann.jpg](../images/ki/typen/boltzmann.jpg) ![boltzmann-02.jpg](../images/ki/typen/boltzmann-02.jpg) ![boltzmann-03.jpg](../images/ki/typen/boltzmann-03.jpg)
 
 **Erscheinung**
 

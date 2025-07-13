@@ -1,6 +1,6 @@
 # MZ-Kadetten
 
-Die Kadettschaft des Marsianischen Zephirs dient dazu, schon Kinder auf MZ-Treue zu schwören.
+Die Kadettschaft des Marsianischen Zephirs dient  dazu, schon Kinder auf MZ-Treue zu schwören.
 Man stelle sich einen PFadfinderverband vor, der bereits von Doktrinen evrseucht wird.
 
 Schon Kinder lernen militärische Fähigkeiten wie Orientierungsläufe, Waffenkunde, Märsche, Funkprotokolle etc.
@@ -9,10 +9,12 @@ Schon Kinder lernen militärische Fähigkeiten wie Orientierungsläufe, Waffenku
 
 Geraffel oder Ausrüstung gibt es viel.
 
-1. 🧭 Nordweiser <br />Ein Mars-kompass, der magnetisch zum Kuppelpol zeigt. Summt leicht, wenn man in die richtige
-   Richtung schaut.
+1. 🧭 Nordweiser <br />Ein Mars-kompass, der magnetisch zum Kuppelpol zeigt. Summt leicht, wenn man in die richtige Richtung schaut.
+![nordweiser.jpg](../images/geraffel/nordweiser.jpg) ![nordweiser-02.jpg](../images/geraffel/nordweiser-02.jpg) ![nordweiser-03.jpg](../images/geraffel/nordweiser-03.jpg)
 2. 🔪 Klappmesser Typ „Echsenschupp“<br />Multifunktionales Werkzeug mit Klinge, Schraubspitze, Drahtzange und Feuerstein im Griff. Für Lagerbau und Notfälle.
+![taschenmesser-echsenschupp.jpg](../images/geraffel/taschenmesser-echsenschupp.jpg)
 3. 📻 Funkkiste<br />Ein kurzwellen-Funkgerät, das zu zweit getragen werden muss. Reichweite ca. 2 meilen, braucht Tageslicht zum Aufladen.
+![funkgeraet-2-mann.jpg](../images/geraffel/funkgeraet-2-mann.jpg)
 4. 🔭 Mars-Feldstecher<br />Gekrümmte Linsen gegen Staubverzerrung. Hat Infrarot-Modus und Zielmarkierung (nur bei Kadetten 2. Stufe aktiviert).
 5. 🛡️ Schutzkappe „Typ 3“<br />Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.
 6. 🧤 Griffhandschuhe<br />Rutschfeste, atmungsaktive Handschuhe mit Verstärkung an den Fingerknöcheln. Gut zum Klettern oder Schleppen.
@@ -21,7 +23,10 @@ Geraffel oder Ausrüstung gibt es viel.
 9. 🧵 Feldset „Flickfix“<br />Enthält Nadelfäden, Dungkleber, Gewebepflaster, Mini-Zange. Wird oft mit bunten Aufnähern personalisiert.
 10. 📒 Übungsheft „Protokoll 12“<br />Robustes Schreibheft mit beschichtetem Umschlag. Dient zur Eintragung von Beobachtungen, Karten, Befehlskopien.
 11. 🥄 Kombi-Besteck „Löffelwolf“<br />Mars-Klassiker: Löffel, Gabel und Mini-Säge in einem Stück Titan. Hat einen „Witzspruch des Tages“ eingraviert.
+![multitool.jpg](../images/geraffel/multitool.jpg)
 12. 🥼 Staubponcho Typ „Schleier 1“<br />Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und reflektierende Fäden für Sichtbarkeit.
+13. Feuerstahl, zur Generierung von FUnken und letztendlich Feuer
+![feuerstahl-marke-echsenschupp.jpg](../images/geraffel/feuerstahl-marke-echsenschupp.jpg)
 
 ## Medikit
 
