@@ -25,7 +25,7 @@ Jeder hat einen Rufnamen und einen Gebärdennamen; auf diesen Seiten kannst du d
 
 | [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![qrcode-spreadthesign.png](../images/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/gebaerdensprache/qrcode-manimundo.png) |
+| ![qrcode-spreadthesign.png](../images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
 | Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 ## Proben
