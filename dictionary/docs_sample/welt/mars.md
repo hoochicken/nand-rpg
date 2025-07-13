@@ -40,15 +40,4 @@
 * Blaugras
 * Wasserfische
 
-## Anzug
-
-Draussen brauchst Du immer einen Anzug. Ein Anzug besteht aus:
-
-* Helm
-* Anzug mit Brust- und Hinterklett
-* Unterzeug
-* Halssträmmlung
-* Ventil
-* Filter
-* Stiefel
 
