@@ -27,6 +27,7 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
+  color_mode: dark
   features:
     - tabs
   #font:
