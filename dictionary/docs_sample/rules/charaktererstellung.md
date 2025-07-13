@@ -8,6 +8,7 @@
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)         |
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png) |
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf) | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../images/charakterbogen/nand-charakterbogen-ki-printed.png) |
 
 ## Grundwerte
 

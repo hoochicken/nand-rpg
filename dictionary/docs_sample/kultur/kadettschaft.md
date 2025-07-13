@@ -70,8 +70,4 @@ Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und re
 
 ## Medikit
 
-![Medikiz, ein Erste-Hilfe-Kasten](../images/technologie/medikit-
-
-### 03.
-
-jpg)
+![Medikit, ein Erste-Hilfe-Kasten](../images/technologie/medikit-03.jpg)
