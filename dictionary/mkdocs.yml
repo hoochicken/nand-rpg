@@ -26,6 +26,7 @@ theme:
     search: 83 # s
   palette:
     scheme: slate
+    color_mode: "dark"
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
