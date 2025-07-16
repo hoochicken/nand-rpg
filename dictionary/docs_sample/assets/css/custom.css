@@ -1,3 +1,5 @@
+h1, h2, h3 {clear:both;}
+
 h2 {
     margin: 4rem 0rem 2rem 0rem !important;
     border-bottom: solid 1px rgb(70, 150, 236);
@@ -16,3 +18,4 @@ video, iframe {width:50%;}
 @media(max-width:500px) {
   video, iframe {width:100%;}
 }
+

@@ -6,8 +6,8 @@ Die KI ist eine künstliche Intelligenz. Von aussen betrachtet sind es einfach i
 kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie die AUfgabe, die Planetoformung
 voranzutreiben und betrieben die grossen Planetoformanlagen.
 
-![Autonome KI](../images/aki.jpg)
-![image](../images/aki2.jpg)
+![Autonome KI](../images/skizzen/aki.jpg)
+![image](../images/skizzen/aki2.jpg)
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 

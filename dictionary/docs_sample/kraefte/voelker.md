@@ -21,7 +21,7 @@ Das Grosse Schyff hat auch die KI mit auf den Mars gebracht.
 
 ## Dreifinger, Luna
 
-![Autonome KI](../images/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
+![Autonome KI](../images/skizzen/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
 
 Dreifinger sind von Natur aus freundlich und lieben philosophische Diskussionen. Ausserdem sind sie grundsätzlich zur Gegenwartsbrechung fähig ... zumindest, wenn sie Brom haben.
 
@@ -39,15 +39,15 @@ Entspricht Brittanien.
 
 ## Waberwesen, Pluto
 
-![image](../images/vielarm.jpg)Entspricht Japan.
+![image](../images/skizzen/vielarm.jpg)Entspricht Japan.
 
 ## Titanen, Titan
 
-![image](../images/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten sie nicht diesen grossen kräftigen Schnabel.
+![image](../images/skizzen/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten sie nicht diesen grossen kräftigen Schnabel.
 
 ## Barben, Neith
 
-![image](../images/barben.jpg)![image](../images/barben2.jpg)Die Barben leben auf dem künstlich geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
+![image](../images/skizzen/barben.jpg)![image](../images/skizzen/barben2.jpg)Die Barben leben auf dem künstlich geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
 
 Wo man auf dem Mars einen elektronischen Allempfänger erwarten würde, findet man bei drn Barben eine umstrukturierte Runkelrübe.
 

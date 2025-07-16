@@ -16,7 +16,7 @@ Draussen brauchst Du immer einen Anzug. Ein Anzug besteht aus:
 
 ## Hebroboto
 
-![image](../images/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
+![image](../images/skizzen/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
 
 ![hr-01.jpg](../images/technologie/vehikel/hr-01.jpg)
 

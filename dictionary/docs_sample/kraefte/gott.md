@@ -4,7 +4,7 @@ Gott ist ein ausserirdisches Wesen aus aus einer anderen Dimension.
 Durch einen Riss in der Wirklichkeit geraten Splitter oder Scherben Gottes in das Sonnensystem.
 Anmerkung: Ein kleiner Riss entstand bei dem planetoformtechnischen Unfall bei Neith. Der heftigere Riss wurde durch eine Unwahrscheinlichkeitsbombe erzeugt und wieder geschlossen.
 
-![image](../images/auge-gottes.jpg)
+![image](../images/skizzen/auge-gottes.jpg)
 
 Diese Splitter verteilen sich im gesamten Sonnensystem.
 Gott hat eine Affinität zu Brom, weshalb er bestrebt ist, auf dem Mars zu landen.
@@ -21,7 +21,7 @@ Ein Planet voller Brom, der Rote Planet genannt.
 
 Ist voller Augen und voller Versprechungen, was mit dieser Macht anstellen kann.
 
-![image](../images/oberflaeche-gottes.jpg)
+![image](../images/skizzen/oberflaeche-gottes.jpg)
 
 ## Scherbe Gottes
 
@@ -32,7 +32,7 @@ Die Scherbe liegt in einem Bromvorkommen. Es ist unklar, was die OG will.
 * überträgt eine Krankheit / Raummolche / Kiemen
 * überträgt Geisteskrankheit
 
-![image](../images/scherbe-gottes.jpg)
+![image](../images/skizzen/scherbe-gottes.jpg)
 
 ## Gottesstaub
 
