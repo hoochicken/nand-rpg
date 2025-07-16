@@ -51,7 +51,10 @@ Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz 
 
 ## Musik zur Einstimmung
 
-[nand-echo.mp3](_media/nand-echo.mp3)
+<audio controls autoplay>
+  <source src="_media/nand-echo.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## Fanart
 
