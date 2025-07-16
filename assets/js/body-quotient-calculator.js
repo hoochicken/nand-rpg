@@ -50,6 +50,6 @@ function getMFromCm(length)
 
 function calculateBMI(weightKG, heightM)
 {
-	// Körpergewicht (in kg ) geteilt durch Körpergröße (in m ) zum Quadrat
+	// Körpergewicht (in kg ) geteilt durch Körpergrösse (in m ) zum Quadrat
   return weightKG / (heightM * heightM);
 }
