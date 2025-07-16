@@ -73,8 +73,12 @@ nav:
       - "Mars": "welt/mars.md"
       - "Bromsal": "welt/bromsal.md"
       - "Sonnensystem": "welt/sonnensystem.md"
-      - "Technologien": "welt/technologien.md"
       - "Quantenraum": "welt/quantenraum.md"
+  - "Technik":
+      - "Allgemein": "technik/index.md"
+      - "Anzuege und Helme": "technik/anzuege.md"
+      - "Medizin": "technik/medizin.md"
+      - "Kommunikation": "technik/kommunikation.md"
   - "Marser Kultur":
       - "Marser": "kultur/marser.md"
       - "Hobbys": "kultur/hobbys.md"

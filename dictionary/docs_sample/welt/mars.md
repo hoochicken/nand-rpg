@@ -13,6 +13,17 @@
 * Der Mars kennt warme und kalte Jahreszeiten. Letztere wird angekündigt durch den sog. Bromsturz, eine Zeit des
   Sturms und bromgetränkten Winden.
 
+## Kulturschaffende
+
+Feline Wesen, die sich selbst "Marser" nennen.
+
+## Zeitrechnung
+
+* Dezimales System
+* 1 Sol = 10 Stunden → 100 Minuten → 100 Sekunden
+* Marsjahr = 10 Monate à ~66–67 Sols
+* also sehr einfach zu rechnen! (für Terraner möglicherweise ungewohnt)
+
 ## Fauna
 
 ### Brumsen

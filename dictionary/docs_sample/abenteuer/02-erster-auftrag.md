@@ -44,7 +44,7 @@
 
 ## Karte
 
-![map.png](..%2Fimages%2Fabenteuer%2F02-erster-auftrag%2Fmap.png)
+![map.png](../images/abenteuer/02-erster-auftrag/map.png)
 
 ## Legende der Karte
 
