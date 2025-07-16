@@ -115,7 +115,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 
 (Haben klar spürbare Auswirkungen, aber noch mit Mühe ausgleichbar)
 
-* 2 - Schwache Lunge – bei körperlicher Belastung schnell außer Atem
+* 2 - Schwache Lunge – bei körperlicher Belastung schnell ausser Atem
 * 3 - Technikfeindlich – versteht Maschinen schlecht, oft Fehlbedienungen
 * 4 - Traumatisiert – wird bei bestimmten Reizen (z. B. Explosionen, Dunkelheit) handlungsunfähig
 * 5 - Schwerfällig – langsam in Bewegungen, schwer auszuweichen oder zu fliehen
@@ -129,7 +129,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 * 12 - Starke Angst vor Dunkelheit – in dunklen Gängen oder Nächten schnell panisch
 *
 
-### ⚠️⚠️⚠️ Große Behinderungen (3 Punkte)
+### ⚠️⚠️⚠️ Grosse Behinderungen (3 Punkte)
 
 (Massiv einschränkend, dominanter Teil der Figur)
 
@@ -142,7 +142,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 * 7 - Starke geistige Entwicklungsverzögerung – versteht vieles langsamer, braucht Geduld und Schutz
 * 8 - Nicht sprechfähig – kann gar nicht sprechen, nutzt Zeichen, Tafeln oder Blicksteuerung
 * 9 - Lähmung ab der Hüfte – spürt Beine nicht, braucht Hilfsmittel, anfällig für Druckstellen oder Verletzungen
-* 10 - Angewiesen auf Beatmungsgerät – muss regelmäßig an eine Maschine, trägt ggf. ein mobiles Systeme
+* 10 - Angewiesen auf Beatmungsgerät – muss regelmässig an eine Maschine, trägt ggf. ein mobiles Systeme
 * 11 - Massive Trauma-Folgen (PTBS) – bei bestimmten Reizen (z. B. Sirenen, Uniformen, engen Räumen) völliger Kontrollverlust, Panik oder Erstarren
 * 12 - Blind auf einem Auge + starke Lichtempfindlichkeit – oft gezwungen, sich zurückzuziehen
 

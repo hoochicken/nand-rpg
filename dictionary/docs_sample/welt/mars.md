@@ -24,6 +24,20 @@ Feline Wesen, die sich selbst "Marser" nennen.
 * Marsjahr = 10 Monate à ~66–67 Sols
 * also sehr einfach zu rechnen! (für Terraner möglicherweise ungewohnt)
 
+## Zählen
+
+Auf dem Mars wird regelmässig gezählt: erst der Zehner, dann der einer, also:
+
+* 10 zehn
+* 11 zehn-und-eins
+* 12 zehn-und-zwei
+* 13 zehn-und-drei
+* 23 zwanzig-und-drei
+* 57 fünfzig-und-sieben
+* 373759 dreihundert-siebzig-und-drei-tausend-siebenhundert-fünfzig-und-neun
+
+Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
+
 ## Fauna
 
 ### Brumsen

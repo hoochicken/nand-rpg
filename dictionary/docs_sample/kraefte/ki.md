@@ -51,14 +51,14 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
 * Typ: Verwaltungs-KI
 * Funktion: Datenverarbeitung, Personalüberwachung
-* Beschreibung: Unsichtbar, in Terminals und Lautsprechern aktiv. Verarbeitet Meldungen, Anträge und Verstöße.
-* 👁️ Viele Kinder glauben, sie „weiß alles“ – ob das stimmt, ist unklar.
+* Beschreibung: Unsichtbar, in Terminals und Lautsprechern aktiv. Verarbeitet Meldungen, Anträge und Verstösse.
+* 👁️ Viele Kinder glauben, sie „weiss alles“ – ob das stimmt, ist unklar.
 
 ### 3. Planck-Drone
 
 * Typ: Aufklärungsdrohne
 * Funktion: Überwachung & Kartierung
-* Beschreibung: Fliegende Drohne mit weiten Sensoraugen, summt wie eine große Mücke. Wird bei Geländeübungen eingesetzt.
+* Beschreibung: Fliegende Drohne mit weiten Sensoraugen, summt wie eine grosse Mücke. Wird bei Geländeübungen eingesetzt.
 * 🎯 Markiert Zielpersonen mit roten Laserpunkten – ohne Erklärung.
 
 ### 4. Tau-THUL
@@ -116,7 +116,7 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
 * Typ: Minihelfer-KI
 * Assistenzklasse I
-* Größe: Etwa wie ein größerer Trinkbecher
+* Grösse: Etwa wie ein grösserer Trinkbecher
 
 ![boltzmann.jpg](../images/ki/typen/boltzmann.jpg) ![boltzmann-02.jpg](../images/ki/typen/boltzmann-02.jpg) ![boltzmann-03.jpg](../images/ki/typen/boltzmann-03.jpg)
 
@@ -134,7 +134,7 @@ einer Ritze.
 
 **Funktion**
 
-* Werkzeugreichweite erweitern (z. B. Mikroschweißer, Nano-Haken)
+* Werkzeugreichweite erweitern (z. B. Mikroschweisser, Nano-Haken)
 * Daten abfragen oder speichern
 * Pläne analysieren und visualisieren
 * „Gedächtnisstütze“ für Kinder (merkt sich, wo etwas ist oder was jemand vergessen hat)
@@ -152,7 +152,7 @@ wird besonders kreativ.
 
 * **Zweck**: Umwandlung und Reinigung der marsianischen Atmosphäre – insbesondere Entfernung von Bromverbindungen,
   Anreicherung mit Sauerstoffvorläufern, Klimastabilisierung.
-* **Größe**
+* **Grösse**
   * Gesamthöhe ca. 1.000 Meter.
   * Durchmesser an der Basis: ca. 200 Meter, sich nach oben verjüngend.
 
@@ -174,7 +174,7 @@ heisst Ubika) kommunizieren, das damals den Mars besiedelt hat. Die Marser wisse
 
 #### 1. Servitierungsstamm (100–600 m Höhe)
 
-* Der große senkrechte Turmschaft. Fast vollständig mit Rohren, Kühlrippen, Aufzügen und Wartungsschächten durchzogen.
+* Der grosse senkrechte Turmschaft. Fast vollständig mit Rohren, Kühlrippen, Aufzügen und Wartungsschächten durchzogen.
 * Filterhallen (Etage 2–5):<br/>Riesige Kammern, in denen die Luft durch synthetische Brom-Absorber gedrückt wird.<br/>Ein grünlich-bläuliches Leuchten ist oft sichtbar – der „Atem des Masts“.
 * Druckkammern & Rückleitungssysteme:<br/>Ausgetauschte Gase werden hier umgewandelt und rückgeführt. Rohrleitungen summen wie Orgelpfeifen.
 * Aufstiegsschacht Omega:<br/>Der Hauptlift – selten für Menschen freigegeben. Riesig, mit mehreren Etagen für Transportcontainer.<br/>„Man sagt, ein Plötz könnte da drin stehen und keiner würde’s merken.“
@@ -188,7 +188,7 @@ heisst Ubika) kommunizieren, das damals den Mars besiedelt hat. Die Marser wisse
 #### 3. Atmosphärische Einsaugungseinheit (ab 900 m)
 
 * Turbinenbucht (Kronenring):<br/>Riesige Ansaugrotoren, die atmosphärisches Gas aufnehmen. Laut, windig, extrem gefährlich. <br/>Sie drehen sich meist langsam – aber wenn ein Sturm aufkommt, brüllen sie los wie Bestien.
-* Filterflügel (beweglich):<br/>Große Schirme, die sich entfalten, um Partikel zu sammeln. Wie die Flügel eines metallenen Vogels.
+* Filterflügel (beweglich):<br/>Grosse Schirme, die sich entfalten, um Partikel zu sammeln. Wie die Flügel eines metallenen Vogels.
 
 #### 4. Spitze – der Himmelspunkt (1.000 m)
 

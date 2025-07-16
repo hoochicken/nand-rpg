@@ -50,7 +50,7 @@
 
 **1. Exerzierplatz**
 
-Ein staubiger, ockerfarbener Platz mit aufgesprungenem Boden. Weiße Kreidelinien markieren Marschwege. Rote Fähnchen
+Ein staubiger, ockerfarbener Platz mit aufgesprungenem Boden. Weisse Kreidelinien markieren Marschwege. Rote Fähnchen
 flattern an krummen Metallpfählen. In der Ferne glühen rostige Lautsprecher im grellen Sonnenlicht.
 
 **2. Modularfaust mit Nachtigallerator (HR-Port)**
@@ -58,8 +58,8 @@ flattern an krummen Metallpfählen. In der Ferne glühen rostige Lautsprecher im
 Graublauer Kuppelbau mit leuchtenden Sensorstreifen in Orange. Der Nachtigallerator brummt leise – wie ein schnarchender
 Vogel. Zwei Hebrobotos stehen am Port:
 
-* Klein & Neu: mattweiß mit blauen Lichtaugen.
-* Groß & Alt: rostrot, wuchtig, mit abgeplatztem Lack und einem langsam mahlenden Arm.
+* Klein & Neu: mattweiss mit blauen Lichtaugen.
+* Gross & Alt: rostrot, wuchtig, mit abgeplatztem Lack und einem langsam mahlenden Arm.
 
 **3. Stabscontainer & Schrottfeld**
 
@@ -69,8 +69,8 @@ Raumschiffteile liegen unter der roten Marskruste wie Knochen. Vieles glitzert s
 
 **4. Wachhäuschen**
 
-Ein kleiner, würfelförmiger Posten aus sandfarbenem Komposit. Innen blinkt ein grünes Display. Außen hängt eine
-zerschlissene Flagge. Ein übergroßer Helm liegt auf der Fensterbank – wohl vergessen.
+Ein kleiner, würfelförmiger Posten aus sandfarbenem Komposit. Innen blinkt ein grünes Display. Aussen hängt eine
+zerschlissene Flagge. Ein übergrosser Helm liegt auf der Fensterbank – wohl vergessen.
 
 **5. Landeplatz des alten Raumhafens**
 
@@ -79,7 +79,7 @@ summen die Brumsenstöcke – dunkelviolett-glänzende Bienenröhren mit wächse
 
 **6. Verwaltungsgebäude**
 
-Reinweißer Blockbau mit spiegelnden Fenstern und blauen Leuchtstreifen. Zwei echte Soldaten stehen davor – grün-grau
+Reinweisser Blockbau mit spiegelnden Fenstern und blauen Leuchtstreifen. Zwei echte Soldaten stehen davor – grün-grau
 uniformiert, mit goldenen Rangabzeichen. Das Gebäude strahlt Ordnung, aber auch Angst aus.
 
 **7. Lagerhalle des alten Raumhafens**
@@ -92,13 +92,13 @@ Breite Halle mit rostigen Wänden, die im Sonnenlicht orange schimmern. Drinnen 
 
 **8. Hof von Krop Orbs Eltern**
 
-Ein aus Blechteilen zusammengeschweißter Bauernhof mit rötlicher Schutzlackierung. Im Hof wachsen Marswurzeln aus
+Ein aus Blechteilen zusammengeschweisster Bauernhof mit rötlicher Schutzlackierung. Im Hof wachsen Marswurzeln aus
 künstlich bewässerten Rillen. Über allem liegt ein bronzefarbener Solarschirm. Ein Generator surrt freundlich.
 
 **9. Hof von Brul Eryns Eltern**
 
 Hellgelber Anbau an einem alten Frachtcontainer. In den Fenstern hängen blaue Tücher. Zwei klapprige Drohnen kreisen
-über kleinen Tiergehegen aus Netzstoff. Die Erde hier ist heller, fast sandweiß – ungewöhnlich für die Gegend.
+über kleinen Tiergehegen aus Netzstoff. Die Erde hier ist heller, fast sandweiss – ungewöhnlich für die Gegend.
 
 **10. Plötzenweide**
 
@@ -149,7 +149,7 @@ einem Sturz kann der Anzug
 * Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
 * Persönlichkeit: Still, fokussiert, fast schon unheimlich ruhig
 * Hobby: Marskäfer beobachten und in einem Skizzenbuch festhalten
-* Geheimnis: Ihre große Schwester wurde „versetzt“ – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
+* Geheimnis: Ihre grosse Schwester wurde „versetzt“ – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
 * Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie mit Essen zu versorgen
 
 **5. Ausbilderin Fenn**

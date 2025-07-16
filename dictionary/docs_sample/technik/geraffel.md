@@ -80,7 +80,7 @@ Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und re
 * Seitenschneider (für Draht, dünne Kabel)
 * Diese Zange bildet das zentrale Element des Werkzeugs und eignet sich für feine Greifarbeiten, Biegen, Ziehen und Schneiden.
 
-**2. Messer (rechte Seite, außen liegend)**
+**2. Messer (rechte Seite, aussen liegend)**
 
 * Gerade Klinge, funktional und ergonomisch korrekt platziert
 * Ideal für Schneidarbeiten im Outdoor-Bereich
