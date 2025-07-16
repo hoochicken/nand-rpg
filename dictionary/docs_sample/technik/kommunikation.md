@@ -15,4 +15,3 @@ Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 ![anzug-mit-kommunikationsset.jpg](../_images/technologie/anzuege/anzug-mit-kommunikationsset.jpg)
 
 ![anzug-mit-kommunikationsset-2.jpg](../_images/technologie/anzuege/anzug-mit-kommunikationsset-2.jpg)
-
