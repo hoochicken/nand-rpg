@@ -2,13 +2,13 @@
 
 ## Funkkiste
 
-![funkkiste.jpg](../images/technologie/kommunikation/funkkiste.jpg)
+![funkkiste.jpg](../_images/technologie/kommunikation/funkkiste.jpg)
 
 Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 
 ## Handliches Funkgerät
 
-![funkgeraet-handheld.jpg](../images/technologie/kommunikation/funkgeraet-handheld.jpg)
+![funkgeraet-handheld.jpg](../_images/technologie/kommunikation/funkgeraet-handheld.jpg)
 
 ## Anzug mit Kommunikations-Einheit
 

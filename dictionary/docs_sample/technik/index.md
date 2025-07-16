@@ -2,7 +2,7 @@
 
 ## Anzug
 
-![anzug-12.png](../images/technologie/anzuege/anzug-12.png)
+![anzug-12.png](../_images/technologie/anzuege/anzug-12.png)
 
 Draussen brauchst Du immer einen Anzug. Ein Anzug besteht aus:
 
@@ -16,9 +16,9 @@ Draussen brauchst Du immer einen Anzug. Ein Anzug besteht aus:
 
 ## Hebroboto
 
-![image](../images/skizzen/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
+![image](../_images/skizzen/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
 
-![hr-01.jpg](../images/technologie/vehikel/hr-01.jpg)
+![hr-01.jpg](../_images/technologie/vehikel/hr-01.jpg)
 
 ## Fernunterhalt
 

@@ -4,11 +4,11 @@
 
 | Download                                                               | Hinweis              | Preview                                                                                                            |
 |------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               | ![nand-charakterbogen-ki-katze-rot.png](../images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)             |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf)       | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               | ![nand-charakterbogen-ki-katze-rot.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)             |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf)       | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../_images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
 
 ## Grundwerte
 
@@ -26,7 +26,7 @@ Jeder hat einen Rufnamen und einen Gebärdennamen; auf diesen Seiten kannst du d
 
 | [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![qrcode-spreadthesign.png](../images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
+| ![qrcode-spreadthesign.png](../_images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../_images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../_images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
 | Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 ## Positive Eigenschaften

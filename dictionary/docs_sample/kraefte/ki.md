@@ -6,8 +6,8 @@ Die KI ist eine künstliche Intelligenz. Von aussen betrachtet sind es einfach i
 kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie die AUfgabe, die Planetoformung
 voranzutreiben und betrieben die grossen Planetoformanlagen.
 
-![Autonome KI](../images/skizzen/aki.jpg)
-![image](../images/skizzen/aki2.jpg)
+![Autonome KI](../_images/skizzen/aki.jpg)
+![image](../_images/skizzen/aki2.jpg)
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 
@@ -118,7 +118,7 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 * Assistenzklasse I
 * Grösse: Etwa wie ein grösserer Trinkbecher
 
-![boltzmann.jpg](../images/ki/typen/boltzmann.jpg) ![boltzmann-02.jpg](../images/ki/typen/boltzmann-02.jpg) ![boltzmann-03.jpg](../images/ki/typen/boltzmann-03.jpg)
+![boltzmann.jpg](../_images/ki/typen/boltzmann.jpg) ![boltzmann-02.jpg](../_images/ki/typen/boltzmann-02.jpg) ![boltzmann-03.jpg](../_images/ki/typen/boltzmann-03.jpg)
 
 **Erscheinung**
 

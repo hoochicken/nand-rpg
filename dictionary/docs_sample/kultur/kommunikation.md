@@ -34,7 +34,7 @@ Generell gilt:
 * erste denken, dann sprechen
 * wer das Gespräch startet, der endet es auch
 
-![funkgeraet-2-mann.jpg](../images/kommunikation/geraete/funkgeraet-2-mann.jpg)
+![funkgeraet-2-mann.jpg](../_images/kommunikation/geraete/funkgeraet-2-mann.jpg)
 
 Hier Beispiele:
 
@@ -61,7 +61,7 @@ Einfach
 * hier gruppe x ort datum, uhrzeit [wiederholung der nachricht] kommen
 * hier basis verstanden
 
-![funkgeraet-handheld.jpg](../images/kommunikation/geraete/funkgeraet-handheld.jpg)
+![funkgeraet-handheld.jpg](../_images/kommunikation/geraete/funkgeraet-handheld.jpg)
 
 #### Reihenruf
 
@@ -101,14 +101,14 @@ Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
 
 | [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![qrcode-spreadthesign.png](../images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
+| ![qrcode-spreadthesign.png](../_images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../_images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../_images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
 | Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 #### Finger-Alphabet
 
 Neue Begriffe werden mit dem Fingeralphabet aufgegriffen. Und das findest du hier:
 
-![fingeralphabet.png](../images/kommunikation/gebaerdensprache/fingeralphabet.png)
+![fingeralphabet.png](../_images/kommunikation/gebaerdensprache/fingeralphabet.png)
 
 ## Schrift: Runen
 

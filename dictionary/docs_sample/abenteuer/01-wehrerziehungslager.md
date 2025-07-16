@@ -26,7 +26,7 @@
 
 ## Karte &amp; Legende
 
-![map.png](../images/abenteuer/01-wehrerziehungslager/map.png)
+![map.png](../_images/abenteuer/01-wehrerziehungslager/map.png)
 
 Legende der Karte
 
@@ -182,7 +182,7 @@ Windtürme, die surren wie Insekten.
 
 ## Handouts – Schnitzeljagd Hinweise
 
-![runen.png](../images/abenteuer/01-wehrerziehungslager/runen.png)
+![runen.png](../_images/abenteuer/01-wehrerziehungslager/runen.png)
 
 | Rune | Name        | Lautwert |
 |------|-------------|----------|
