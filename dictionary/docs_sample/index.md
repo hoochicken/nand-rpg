@@ -49,11 +49,11 @@ Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz 
 * Ungewissheit
 * Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
-## Musik zur Einstimmung
+## Ambience Sound zu Mars, Krieg und Raumschiff
 
 <audio controls autoplay>
   <source src="_media/nand-echo.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+  Your browser does not support the audio element.
 </audio>
 
 ## Fanart
