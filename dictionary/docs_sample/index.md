@@ -49,6 +49,10 @@ Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz 
 * Ungewissheit
 * Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
+## Musik zur Einstimmung
+
+[nand-echo.mp3](_media/Fnand-echo.mp3)
+
 ## Fanart
 
 ### HR
