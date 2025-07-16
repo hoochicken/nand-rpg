@@ -12,7 +12,7 @@ Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 
 ## Anzug mit Kommunikations-Einheit
 
-![anzug-mit-kommunikationsset.jpg](../images/technologie/anzuege/anzug-mit-kommunikationsset.jpg)
+![anzug-mit-kommunikationsset.jpg](../_images/technologie/anzuege/anzug-mit-kommunikationsset.jpg)
 
-![anzug-mit-kommunikationsset-2.jpg](../images/technologie/anzuege/anzug-mit-kommunikationsset-2.jpg)
+![anzug-mit-kommunikationsset-2.jpg](../_images/technologie/anzuege/anzug-mit-kommunikationsset-2.jpg)
 

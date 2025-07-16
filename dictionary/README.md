@@ -1,12 +1,12 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
+<img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/_images/graduate-cap.png" alt="MkDocs icon" width="170">
 <br>MkDocs Material<br>Boilerplate - Starter Kit
 </h1>
 
 
 * Documentation: https://github.com/peaceiris/mkdocs-material-boilerplate
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
+![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/_images/material.png)
 
 
 
