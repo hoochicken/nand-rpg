@@ -1,9 +1,9 @@
 # Medizin
 
-## Medikit
-
-![Medikit](..%2Fimages%2Ftechnologie%2Fmedizin%2Fmedikit-03.jpg)
-
 ## Sanitäter-Abzeichen
 
-![Sanitaeter-Abzeichen, Pfotenabdruck mit innenliegendem roten Kreuz](..%2Fimages%2Ftechnologie%2Fmedizin%2Fsanitaeter-abzeichen.jpg)
+![Sanitaeter-Abzeichen, Pfotenabdruck mit innenliegendem roten Kreuz](../images/technologie/medizin/sanitaeter-abzeichen.jpg)
+
+## Medikit
+
+![Medikit](../images/technologie/medizin/medikit-03.jpg)
