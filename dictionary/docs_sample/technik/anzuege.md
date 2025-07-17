@@ -42,7 +42,7 @@ Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonn
 
 * Verwendung: Innenbereiche · Werkdienst · Appelle · Kurzzeitiger Außeneinsatz
 
-Die Schutzkappe „Typ 3“ ist ein leichter Hartfaserhelm für den täglichen Gebrauch in Habitaten, technischen Bereichen und bei kurzen Wegen im Freien. Sie vereint grundlegenden Kopfschutz mit Tragekomfort und ist für den Einsatz mit dem Leichtatmer (L-F1) konzipiert.
+Diese Schutzkappe ist ein leichter Hartfaserhelm für den täglichen Gebrauch in Habitaten, technischen Bereichen und bei kurzen Wegen im Freien. Sie vereint grundlegenden Kopfschutz mit Tragekomfort und ist für den Einsatz mit dem Leichtatmer (L-F1) konzipiert.
 
 **🔩 Designmerkmale**
 
@@ -62,7 +62,7 @@ Die Schutzkappe „Typ 3“ ist ein leichter Hartfaserhelm für den täglichen G
     * Kein Schutz bei Hochgeschwindigkeits- oder Vakuumbelastung
 * Kompatibilität: Leichtatmer (L-F1-Serie)
 
-**⛑️ Einsatzprofil***
+**⛑️ Einsatzprofil**
 
 Die Schutzkappe „Typ 3“ wird regelmässig getragen bei:
 
