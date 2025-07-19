@@ -9,10 +9,6 @@
          <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/_images/technologie/vehikel/sacken/</loc>
-         <lastmod>2025-07-19</lastmod>
-    </url>
-    <url>
          <loc>http://127.0.0.1:8000/_images/technologie/waffen/granaten/</loc>
          <lastmod>2025-07-19</lastmod>
     </url>
@@ -106,6 +102,10 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/medizin/</loc>
+         <lastmod>2025-07-19</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/technik/vehikel/</loc>
          <lastmod>2025-07-19</lastmod>
     </url>
     <url>
