@@ -98,3 +98,17 @@
 
 **9. Runder**
 
+* Typ: MZ-Kadett, felinischer Herkunft
+* Alter: 12 Standardjahre
+* Fellfarbe: samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif (daher der Name „Runder“)
+* Augenfarbe: bernsteinfarben, mit einem leichten grünen Schimmer im Sonnenlicht
+* Ohren: auffällig groß, mit dunkler Zeichnung an den Spitzen – immer in Bewegung
+* Besonderheit: ein altes Ohrpiercing aus Messing, das er von seiner Mutter hat – eigentlich nicht erlaubt
+* 💡 Charakter & Interessen
+    * Runder ist neugierig, flink und etwas verträumt – oft nicht ganz bei der Sache, aber voller Ideen. Er liebt Geschichten über alte Maschinen, besonders wenn sie fast lebendig wirken.
+    * Er hat eine Vorliebe für verlassene Orte, sammelt dort kleine Dinge: Dichtungen, Chips, Schrauben. Daraus baut er Mini-Kreaturen und behauptet, sie „atmen“.
+* Lieblingsplatz: das Dach eines alten Containers, wo er in den Himmel schaut und Radioschnipsel fängt.
+* Lieblingswort: „brummstill“ – so nennt er Momente, in denen alles gleichzeitig laut und friedlich ist.
+* 🤫 Kleines Geheimnis
+    * Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde.
+    * Er hat ihr heimlich ein kleines Radiomodul geschenkt, damit sie wieder zuhören kann.

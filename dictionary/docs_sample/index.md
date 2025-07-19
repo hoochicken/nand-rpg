@@ -44,6 +44,8 @@ Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz 
 * Gruppenzwang
 * Verrat
 * Irrtum
+* Tod
+* Body-Horrer / Missgestaltung des Körpers
 * Ungerechtigkeit gegenüber Minderheiten
 * Zweifel
 * Ungewissheit
