@@ -79,6 +79,9 @@ nav:
       - "Anzuege und Helme": "technik/anzuege.md"
       - "Medizin": "technik/medizin.md"
       - "Kommunikation": "technik/kommunikation.md"
+      - "Vehikel": "technik/vehikel.md"
+      - "Waffen":
+          - "Granaten": "waffen/granaten.md"
   - "Marser Kultur":
       - "Marser": "kultur/marser.md"
       - "Hobbys": "kultur/hobbys.md"
