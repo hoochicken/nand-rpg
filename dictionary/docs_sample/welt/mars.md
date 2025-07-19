@@ -48,9 +48,13 @@ Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 
 ![ploetzen-01.png](../_images/fauna/ploetzen-01.png)
 
+### Flittermolche
+
+* legen Eier, bevorzugt auf Leichen und Kadaverb
+* Flittermolch-Maden sind eklig
+
 ### Weitere
 
-* Flittermäuse
 * Brumsen
 * Molche
 * Gallertkrabben

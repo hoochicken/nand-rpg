@@ -95,6 +95,8 @@ nav:
       - "Wehrerziehungslager": "abenteuer/01-wehrerziehungslager.md"
       - "Der erste Auftrag": "abenteuer/02-erster-auftrag.md"
       - "Mini-RPG (solo)": "abenteuer/99-mini-rpg.md"
+      - "NPCs":
+          - "Wehrerziehungs-Lager": "mps/wehrerziehungslager.md"
   - "Impressum &amp; Datenschutz": "impressum.md"
 
 

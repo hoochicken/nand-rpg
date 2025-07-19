@@ -143,5 +143,5 @@ Oder einfache Beschriftungen.
 | ᛗ    | Mannaz      | m        |
 | ᛚ    | Laguz       | l        |
 | ᛜ    | Ingwaz      | i        |
-| ᛞ    | Sōwil       | s        |
+| ᛞ    | Dagaz       | s        |
 | ᛟ    | Ōþila       | o        |
