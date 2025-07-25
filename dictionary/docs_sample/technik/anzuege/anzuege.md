@@ -4,7 +4,7 @@
 
 Verwendung: Habitatbetrieb · Appelle · Technikbereiche · Unteranzug für Ausseneinsätze
 
-![standard-feldanzug.jpg](../_images/technologie/militaerische-ausruestung/soldaten/standard-feldanzug.jpg)
+![standard-feldanzug.jpg](../../_images/technologie/militaerische-ausruestung/soldaten/standard-feldanzug.jpg)
 
 **🧰 Funktionaler Überblick**
 
@@ -58,9 +58,9 @@ Der Standard-Feldanzug ist ein einheitlich gefertigtes Bekleidungsstück für de
 
 Kopfhörer aussen am Helm und ein Mikrofon das magnetisch von aussen am Filter befestigt wird.
 
-![anzug-mit-kommunikationsset.jpg](../_images/technologie/militaerische-ausruestung/anzuege/anzug-mit-kommunikationsset.jpg)
+![anzug-mit-kommunikationsset.jpg](../../_images/technologie/militaerische-ausruestung/anzuege/anzug-mit-kommunikationsset.jpg)
 
-![anzug-mit-kommunikationsset-2.jpg](../_images/technologie/militaerische-ausruestung/anzuege/anzug-mit-kommunikationsset-2.jpg)
+![anzug-mit-kommunikationsset-2.jpg](../../_images/technologie/militaerische-ausruestung/anzuege/anzug-mit-kommunikationsset-2.jpg)
 
 ## Lazarett-Pilot (LP)
 
@@ -126,8 +126,8 @@ Der A-3K wird getragen bei:
 
 ## Kadetten-Anzug
 
-![kadett-01.jpg](../_images/technologie/militaerische-ausruestung/kadetten/kadett-01.jpg)
-![kadett-02.jpg](../_images/technologie/militaerische-ausruestung/kadetten/kadett-02.jpg)
+![kadett-01.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-01.jpg)
+![kadett-02.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-02.jpg)
 
 ## Kadetten-Ausseneinsatzanzug „Typ K-1R“
 
@@ -196,17 +196,17 @@ Der Kadettenanzug „Typ K-1R“ ist ein leichter Ausseneinsatzanzug für Nachwu
 
 ## Kadetten-Anzug, Pilot-Assistenz
 
-![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage.jpg)
+![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage.jpg)
 
 ## Kadett Standard
 
-![Kadetten-Anzug mit Helm und Tornister](../_images/technologie/militaerische-ausruestung/anzuege/anzug-helm-abgezogen-filter.jpg)
+![Kadetten-Anzug mit Helm und Tornister](../../_images/technologie/militaerische-ausruestung/anzuege/anzug-helm-abgezogen-filter.jpg)
 
 ## Rüstungen
 
 ### Vollrüstung Militär
 
-![Vollrüstung Militär](../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
+![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
 
 ## Arbeitsanzüge
 
