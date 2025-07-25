@@ -18,7 +18,7 @@ Vollschutzhelm aus hochstabilem Verbundmaterial mit integriertem Panorama-Visier
 
 Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.
 
-![Rüstung und Helm eine LP](../../_images/technologie/militaerische-ausruestung/lazarett-pilot/anzuege/lp-anzug.jpg)
+![Rüstung und Helm eine LP](../../_images/technologie/militaerische-ausruestung/lazarett-pilot/lp-anzug.jpg)
 
 * Verwendung: Innenbereiche · Werkdienst · Appelle · Kurzzeitiger Ausseneinsatz
 
