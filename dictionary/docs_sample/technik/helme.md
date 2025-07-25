@@ -2,15 +2,15 @@
 
 ## Leichtatmer mit Helm
 
-![Leichtatmer mit Helm](../_images/technologie/anzuege/leichtatmer-mit-helm.jpg)
+![Leichtatmer mit Helm](../_images/technologie/militaerische-ausruestung/leichtatmer/leichtatmer-mit-helm.jpg)
 
 ## Panzerhelm eines Soldaten - Typ 1
 
-![Panzerhelm eines Soldaten - Typ 1](../_images/technologie/anzuege/soldat-panzerhelm.jpg)
+![Panzerhelm eines Soldaten - Typ 1](../_images/technologie/militaerische-ausruestung/helme/soldat-panzerhelm.jpg)
 
 ## 🛡 Panzerhelm eines Soldaten - Typ 3
 
-![Panzerhelm eines Soldaten - Typ 2](../_images/technologie/anzuege/soldat-panzerhelm-typ-3.jpg)
+![Panzerhelm eines Soldaten - Typ 2](../_images/technologie/militaerische-ausruestung/helme/soldat-panzerhelm-typ-3.jpg)
 
 Vollschutzhelm aus hochstabilem Verbundmaterial mit integriertem Panorama-Visier. Bietet maximalen Schutz bei Stürzen, Staubeinwirkung und extremer Sonneneinstrahlung. Kompatibel mit dem externen Anzugs-Filtersystem „Typ 5“. Ideal für Ausseneinsätze unter harschen Umweltbedingungen.
 
@@ -18,7 +18,7 @@ Vollschutzhelm aus hochstabilem Verbundmaterial mit integriertem Panorama-Visier
 
 Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.
 
-![Rüstung und Helm eine LP](../_images/technologie/anzuege/lp-anzug.jpg)
+![Rüstung und Helm eine LP](../_images/technologie/militaerische-ausruestung/lazarett-pilot/anzuege/lp-anzug.jpg)
 
 * Verwendung: Innenbereiche · Werkdienst · Appelle · Kurzzeitiger Ausseneinsatz
 
