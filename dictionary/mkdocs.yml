@@ -76,9 +76,9 @@ nav:
       - "Quantenraum": "welt/quantenraum.md"
   - "Technik":
       - "Allgemein": "technik/index.md"
-      - "Anzuege":
-          - "Anzuege": "technik/anzuege.md"
-          - "Helme": "technik/helm.md"
+      - "Anzüge":
+          - "Anzüge": "technik/anzuege.md"
+          - "Helme": "technik/helme.md"
           - "Leichtatmer": "technik/leichtatmer-und-handschuhe.md"
       - "Medizin": "technik/medizin.md"
       - "Kommunikation": "technik/kommunikation.md"
