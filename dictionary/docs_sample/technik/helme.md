@@ -56,8 +56,8 @@ Nicht für Ausseneinsätze mit starker Windbelastung oder Temperaturschwankungen
 
 Kopfhörer aussen am Helm und ein Mikrofon das magnetisch von aussen am Filter befestigt wird.
 
-![anzug-mit-kommunikationsset.jpg](../_images/technologie/anzuege/anzug-mit-kommunikationsset.jpg)
+![anzug-mit-kommunikationsset.jpg](../_images/technologie/militaerische-ausruestung/anzuege/anzug-mit-kommunikationsset.jpg)
 
 ## Filtereinsätze für Helm
 
-![Filter-Einsatz für den Helm](../_images/technologie/anzuege/filter-einsatz.jpg)
+![Filter-Einsatz für den Helm](../_images/technologie/militaerische-ausruestung/helme/filter-einsatz.jpg)

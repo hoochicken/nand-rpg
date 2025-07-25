@@ -2,7 +2,7 @@
 
 ## Anzug
 
-![anzug-12.png](../_images/technologie/anzuege/anzug-12.png)
+![anzug-12.png](../_images/technologie/militaerische-ausruestung/anzuege/anzug-12.png)
 
 Draussen brauchst Du immer einen Anzug. Ein Anzug besteht aus:
 
