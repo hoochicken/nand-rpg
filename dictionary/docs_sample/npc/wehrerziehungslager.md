@@ -102,7 +102,7 @@
 * Alter: 12 Standardjahre
 * Fellfarbe: samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif (daher der Name „Runder“)
 * Augenfarbe: bernsteinfarben, mit einem leichten grünen Schimmer im Sonnenlicht
-* Ohren: auffällig groß, mit dunkler Zeichnung an den Spitzen – immer in Bewegung
+* Ohren: auffällig gross, mit dunkler Zeichnung an den Spitzen – immer in Bewegung
 * Besonderheit: ein altes Ohrpiercing aus Messing, das er von seiner Mutter hat – eigentlich nicht erlaubt
 * 💡 Charakter & Interessen
     * Runder ist neugierig, flink und etwas verträumt – oft nicht ganz bei der Sache, aber voller Ideen. Er liebt Geschichten über alte Maschinen, besonders wenn sie fast lebendig wirken.

@@ -20,21 +20,21 @@ Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonn
 
 ![Rüstung und Helm eine LP](../_images/technologie/anzuege/lp-anzug.jpg)
 
-* Verwendung: Innenbereiche · Werkdienst · Appelle · Kurzzeitiger Außeneinsatz
+* Verwendung: Innenbereiche · Werkdienst · Appelle · Kurzzeitiger Ausseneinsatz
 
 Diese Schutzkappe ist ein leichter Hartfaserhelm für den täglichen Gebrauch in Habitaten, technischen Bereichen und bei kurzen Wegen im Freien. Sie vereint grundlegenden Kopfschutz mit Tragekomfort und ist für den Einsatz mit dem Leichtatmer (L-F1) konzipiert.
 
 **🔩 Designmerkmale**
 
 * Form: Kompakte Halbschale mit tiefgezogenem Nacken- und Schläfenschutz.
-* Visier: Fest montierte, integrierte Schutzbrille mit großem Sichtfeld – geeignet für den Einsatz bei hoher Helligkeit und leichtem Staubeintrag.
-* Kinnbereich: Flaches, stabiles Kinnvisier mit direkter Leichtatmer-Anbindung (Riemenführung außenliegend).
+* Visier: Fest montierte, integrierte Schutzbrille mit grossem Sichtfeld – geeignet für den Einsatz bei hoher Helligkeit und leichtem Staubeintrag.
+* Kinnbereich: Flaches, stabiles Kinnvisier mit direkter Leichtatmer-Anbindung (Riemenführung aussenliegend).
 * Farbe: Kolonie-standardisierte Uniformfarbe (rostrot / terrakotta).
-* Innenpolsterung: Leichte, stoßabsorbierende Auskleidung – angenehm zu tragen, auch über längere Zeiträume.
+* Innenpolsterung: Leichte, stossabsorbierende Auskleidung – angenehm zu tragen, auch über längere Zeiträume.
 
 **🛠️ Technische Daten**
 
-* Material: Gepresste Hartfaser mit mineralischer Außenbeschichtung
+* Material: Gepresste Hartfaser mit mineralischer Aussenbeschichtung
 * Gewicht: ca. 900 g
 * Schutzwirkung:
     * Reduziert Verletzungsrisiken bei Sturz aus Standhöhe
@@ -47,7 +47,7 @@ Diese Schutzkappe ist ein leichter Hartfaserhelm für den täglichen Gebrauch in
 Die Schutzkappe „Typ 3“ wird regelmässig getragen bei:
 
 * Kontrollgängen und Arbeitsschichten im Innenbereich * Appellen, Befehlsausgaben und Sicherheitsinspektionen
-* Kurzen Gängen zwischen Habitatmodulen oder auf abgeschirmten Außenplattformen
+* Kurzen Gängen zwischen Habitatmodulen oder auf abgeschirmten Aussenplattformen
 
 Hinweis:
 Nicht für Ausseneinsätze mit starker Windbelastung oder Temperaturschwankungen vorgesehen. Kein Ersatz für vollisolierte Raumhelme.
