@@ -77,9 +77,9 @@ nav:
   - "Technik":
       - "Allgemein": "technik/index.md"
       - "Anzüge":
-          - "Anzüge": "technik/anzuege/anzuege.md"
-          - "Helme": "technik/anzuege/helme.md"
-          - "Leichtatmer": "technik/anzuege/leichtatmer-und-handschuhe.md"
+          - "Anzüge": "technik/anzuege.md"
+          - "Helme": "technik/helme.md"
+          - "Leichtatmer": "technik/leichtatmer-und-handschuhe.md"
       - "Medizin": "technik/medizin.md"
       - "Kommunikation": "technik/kommunikation.md"
       - "Vehikel": "technik/vehikel.md"
