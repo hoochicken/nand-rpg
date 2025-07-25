@@ -6,28 +6,27 @@ Geraffel oder Ausrüstung gibt es viel.
 
 Ein Mars-kompass, der magnetisch zum Kuppelpol zeigt. Summt leicht, wenn man in die richtige Richtung schaut.
 
-<div class="image">
 ![nordweiser.jpg](../_images/geraffel/nordweiser.jpg) ![nordweiser-02.jpg](../_images/geraffel/nordweiser-02.jpg) ![nordweiser-03.jpg](../_images/geraffel/nordweiser-03.jpg)
-</div>
+
 
 ## 2. 🔪 Klappmesser Typ „Echsenschupp“
 
 Multifunktionales Werkzeug mit Klinge, Schraubspitze, Drahtzange und Feuerstein im Griff. Für Lagerbau und Notfälle.
 
-<div class="image">![taschenmesser-echsenschupp.jpg](../_images/geraffel/taschenmesser-echsenschupp.jpg)</div>
+![taschenmesser-echsenschupp.jpg](../_images/geraffel/taschenmesser-echsenschupp.jpg)
 
 ## 3. 📻 Funkkiste
 
 Ein kurzwellen-Funkgerät, das zu zweit getragen werden muss. Reichweite ca. 2 meilen, braucht Tageslicht zum Aufladen.
 
-<div class="image">![funkgeraet-2-mann.jpg](../_images/geraffel/funkgeraet-2-mann.jpg)</div>
+![funkgeraet-2-mann.jpg](../_images/geraffel/funkgeraet-2-mann.jpg)
 
 ## 4. 🔭 Mars-Feldstecher
 
 Gekrümmte Linsen gegen Staubverzerrung. Hat Infrarot-Modus und Zielmarkierung (nur bei Kadetten 2. Stufe aktiviert).
 
-<div class="image">![Feldstecher Mars INFRAROT, ein binokuläres Fernglas](../_images/geraffel/feldstecher-mars-infrarot.jpg)</div>
-
+![Feldstecher Mars INFRAROT, ein binokuläres Fernglas](../_images/geraffel/feldstecher-mars-infrarot.jpg)
+![feldstecher-mars-infrarot.jpg](../_images/geraffel/feldstecher-mars-infrarot.jpg)
 ## 5. 🛡️ Schutzkappe „Typ 3“
 
 Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.
@@ -40,7 +39,7 @@ Rutschfeste, atmungsaktive Handschuhe mit Verstärkung an den Fingerknöcheln. G
 
 Perso-ähnliche Karte mit Datenchip, der an Portstationen scannbar ist. Gibt Zugang zu Lagern und Proviantausgabe.
 
-<div class="image">![id-card.jpg](../_images/geraffel/id-card.jpg)</div>
+![id-card.jpg](../_images/geraffel/id-card.jpg)
 
 ## 8. 🔋 Akku-Riegel Typ „Rundlicht“
 
@@ -64,15 +63,15 @@ Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und re
 
 ## 13. Feuerstahl, zur Generierung von Funken und letztendlich Feuer
 
-<div class="image">![Feuerstahl Marke Echsenschupp](../_images/geraffel/feuerstahl-marke-echsenschupp.jpg)</div>
+![Feuerstahl Marke Echsenschupp](../_images/geraffel/feuerstahl-marke-echsenschupp.jpg)
 
 ## 14. Medikit
 
-<div class="image">![Medikit, ein Erste-Hilfe-Kasten](../_images/technologie/medizin/medikit-03.jpg)</div>
+![Medikit, ein Erste-Hilfe-Kasten](../_images/technologie/medizin/medikit-03.jpg)
 
 ## 15. Multitool
 
-<div class="image">![Multitool](../_images/geraffel/multitool.jpg)</div>
+![Multitool](../_images/geraffel/multitool.jpg)
 
 **1. Zange (Zentralwerkzeug)**
 
@@ -92,12 +91,12 @@ Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und re
 
 ## 16. Taschenmesser "Echsenschüppler"
 
-<div class="image">![Echsenschüppler](../_images/geraffel/echsenschueppler.jpg)</div>
+![Echsenschüppler](../_images/geraffel/echsenschueppler.jpg)
 
 ## 17. Dolch "Kadettenfieber"
 
-<div class="image">![Echsenschüppler](../_images/geraffel/dolch-kadettenfieber.jpg)</div>
+![Echsenschüppler](../_images/geraffel/dolch-kadettenfieber.jpg)
 
 ## 18. Feldtasche "Fliederflug"
 
-<div class="image">![Echsenschüppler](../_images/geraffel/feldtasche-flieder-flug.jpg)</div>
+![Echsenschüppler](../_images/geraffel/feldtasche-flieder-flug.jpg)

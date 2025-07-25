@@ -14,7 +14,7 @@
 
 ### Kartonierte Prüfetiketten / Marker / Warnsymbole
 
-– Könnten vertauscht werden – z. B. explosive Fracht wird als „harmlos“ deklariert
+– Könnten vertauscht werden – z. B. explosive Fracht wird als „harmlos“ deklariert
 
 ## ᚢ 🟠 Mittelgefährliche Komponenten (orange Warnmarkierung)
 
@@ -37,7 +37,7 @@
 
 ### Sprengstoffkern
 
-– Hochenergetisches Material (z. B. Marsit, Bromnitrat oder Hexatron)
+– Hochenergetisches Material (z. B. Marsit, Bromnitrat oder Hexatron)
 – Kann durch Hitze, Reibung oder Erschütterung explodieren
 – In Gelblistern oder stabilisierten Harzblöcken verpackt
 
@@ -49,14 +49,14 @@
 
 ### Fragmentierungsmäntel / Metallkugeln
 
-– Hüllen oder Einsätze aus Metall (z. B. Wolfram, Titan, Keramiksplitter)
+– Hüllen oder Einsätze aus Metall (z. B. Wolfram, Titan, Keramiksplitter)
 – Sollen im Detonationsmoment als Schrapnelle wirken
 – An sich nicht explosiv, aber gefährlich beim Zerbersten
 
 ### Treibmittel / Kapselsätze
 
 – Gasbildner oder chemische Treibstoffe für Rauch-, Schall- oder Reizgranaten
-– Oft instabil bei Druckveränderung (z. B. im LastTransport)
+– Oft instabil bei Druckveränderung (z. B. im LastTransport)
 
 ## 💥 Wie könnte der tödliche Unfall passieren?
 

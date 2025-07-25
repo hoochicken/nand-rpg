@@ -117,12 +117,12 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 
 * 2 - Schwache Lunge – bei körperlicher Belastung schnell ausser Atem
 * 3 - Technikfeindlich – versteht Maschinen schlecht, oft Fehlbedienungen
-* 4 - Traumatisiert – wird bei bestimmten Reizen (z. B. Explosionen, Dunkelheit) handlungsunfähig
+* 4 - Traumatisiert – wird bei bestimmten Reizen (z. B. Explosionen, Dunkelheit) handlungsunfähig
 * 5 - Schwerfällig – langsam in Bewegungen, schwer auszuweichen oder zu fliehen
 * 6 - Paranoia – misstraut Teammitgliedern, sieht überall Verrat
 * 6-6 - Einäugig – eingeschränktes Sichtfeld und räumliches Sehen
 * 7 - Ungeübter Kämpfer – verliert in fast jedem Nahkampf
-* 8 - Anfallsleiden (z. B. Epilepsie) – in Stress oder unter Flackern besteht Gefahr eines Anfalls
+* 8 - Anfallsleiden (z. B. Epilepsie) – in Stress oder unter Flackern besteht Gefahr eines Anfalls
 * 9 - Koordinationsstörung – Bewegungen sind oft ungeschickt oder verzögert, Stolpern oder Missgeschicke häufig
 * 10 - Schwache Muskeln – kann keine schweren Lasten tragen oder lange laufen
 * 11 - Tremor (Zittern) – Hände zittern bei Aufregung oder Kälte, schwer bei Präzisionsarbeiten
@@ -143,7 +143,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 * 8 - Nicht sprechfähig – kann gar nicht sprechen, nutzt Zeichen, Tafeln oder Blicksteuerung
 * 9 - Lähmung ab der Hüfte – spürt Beine nicht, braucht Hilfsmittel, anfällig für Druckstellen oder Verletzungen
 * 10 - Angewiesen auf Beatmungsgerät – muss regelmässig an eine Maschine, trägt ggf. ein mobiles Systeme
-* 11 - Massive Trauma-Folgen (PTBS) – bei bestimmten Reizen (z. B. Sirenen, Uniformen, engen Räumen) völliger Kontrollverlust, Panik oder Erstarren
+* 11 - Massive Trauma-Folgen (PTBS) – bei bestimmten Reizen (z. B. Sirenen, Uniformen, engen Räumen) völliger Kontrollverlust, Panik oder Erstarren
 * 12 - Blind auf einem Auge + starke Lichtempfindlichkeit – oft gezwungen, sich zurückzuziehen
 
 ## Geheimnisse & Questen
