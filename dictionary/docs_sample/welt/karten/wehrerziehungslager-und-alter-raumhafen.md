@@ -1,6 +1,6 @@
 ## Wehrerziehungslagers und Alter Raumhafen
 
-![Karte des Wehrerziehungslagers und Alter Raumhafen](../_images/_maps/wehrerziehungslager-und-alter-raumhafen.png)
+![Karte des Wehrerziehungslagers und Alter Raumhafen](../../_images/_maps/wehrerziehungslager-und-alter-raumhafen.png)
 
 * **Exerzierplatz**: Ein staubiger, ockerfarbener Platz mit aufgesprungenem Boden. Weiße Kreidelinien markieren Marschwege. Rote Fähnchen flattern an krummen Metallpfählen. In der Ferne glühen rostige Lautsprecher im grellen Sonnenlicht.
 * **Modularfaust mit Nachtigallerator (HR-Port)**: Graublauer Kuppelbau mit leuchtenden Sensorstreifen in Orange. Der Nachtigallerator brummt leise – wie ein schnarchender Vogel. Zwei Hebrobotos stehen am Port:
