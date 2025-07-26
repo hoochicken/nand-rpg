@@ -10,8 +10,7 @@ git push
 cd dictionary
 # mkdocs gh-deploy -d dictionary
 python -m mkdocs gh-deploy #-d dictionary
-~~~
-
+~
 <https://hoochicken.github.io/nand-rpg/index>
 <http://127.0.0.1:9099>
 
@@ -26,3 +25,9 @@ pip install mkdocs
 # markdown_include.include
 pip install markdown-include
 ~~~
+
+## import markdown files
+
+* Plugin https://github.com/mondeja/mkdocs-include-markdown-plugin
+* config in mkdocs.yml
+* user relative path in folliowing tag `{% include-markdown "../welt/karten/bromsal-und-umgebung.md" %}`
