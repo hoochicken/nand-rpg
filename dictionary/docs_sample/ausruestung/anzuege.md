@@ -410,5 +410,7 @@ Das Filtermodul reinigt die einströmende Atemluft und schützt zuverlässig vor
 
 ## Scuba
 
+Für Tauchgänge in Wasserseen und Wasser-Flüssen.
+
 ![Vollrüstung Scuba](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-03-scuba.jpg)
 
