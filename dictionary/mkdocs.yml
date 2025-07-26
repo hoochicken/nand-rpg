@@ -71,7 +71,7 @@ nav:
   - "Charaktererstellung": "rules/charaktererstellung.md"
   - "Regeln": "rules/regeln.md"
   - "Spielleiterhilfen": "rules/spielleiterhilfen.md"
-  - "Materialsystem": "rules/materialsystem.md"
+  - "Materialsystem": "rules/materiallisten.md"
   - "Kadettschaft":
       - "Allgemeine Infos": "kadettschaft/allgemein.md"
       - "Rangabzeichen": "kadettschaft/rangabzeichen.md"
@@ -93,7 +93,7 @@ nav:
       - "Kommunikation": "technik/kommunikation.md"
       - "Vehikel": "technik/vehikel.md"
       - "Waffen":
-          - "Granaten": "waffen/granaten.md"
+          - "Granaten": "technik/waffen/granaten.md"
   - "Marser Kultur":
       - "Marser": "kultur/marser.md"
       - "Hobbys": "kultur/hobbys.md"
@@ -111,7 +111,7 @@ nav:
       - "Stimme aus der Stille": "abenteuer/03-stimme-aus-der-stille.md"
       - "Mini-RPG (solo)": "abenteuer/99-mini-rpg.md"
       - "NPCs":
-          - "Wehrerziehungs-Lager": "mps/wehrerziehungslager.md"
+          - "Wehrerziehungs-Lager": "npc/wehrerziehungslager.md"
   - "Impressum &amp; Datenschutz": "impressum.md"
 
 

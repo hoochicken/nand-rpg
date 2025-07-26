@@ -42,13 +42,9 @@
 
 ![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
 
-## Arbeitsanzüge
-
-[in Arbeit]
+![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-01.jpg)
 
 ## Rüstungen
-
-![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-01.jpg)
 
 ## Filter
 
@@ -64,3 +60,6 @@ Für Tauchgänge in Wasserseen und Wasser-Flüssen.
 
 ![Vollrüstung Scuba](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-03-scuba.jpg)
 
+## Arbeitsanzüge
+
+[in Arbeit]
