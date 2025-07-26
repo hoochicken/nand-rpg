@@ -86,7 +86,7 @@ Im Datenblatt erscheint die technische Zuordnung immer in deutscher Sprache, z. 
 
 ### 🆔 Artikel-ID
 
-[Systemcode, z. B. CLA-1000000]
+[Systemcode, z. B. CLA-1000000]
 
 ### 🏷 Gebrauchsbezeichnung
 
