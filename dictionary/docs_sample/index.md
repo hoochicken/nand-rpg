@@ -1,6 +1,6 @@
 # Nand - Das Rollenspiel
 
-> Der🌌 „Staubpfoten – Abenteuer auf dem Mars“ 🐾
+> Der🌌 "Staubpfoten – Abenteuer auf dem Mars" 🐾
 > Ein inklusives Rollenspiel in einer rauen, roten Welt
 
 Der Mars ist kein Ort für Schwache.

@@ -14,7 +14,7 @@
 
 ### Kartonierte Prüfetiketten / Marker / Warnsymbole
 
-– Könnten vertauscht werden – z. B. explosive Fracht wird als „harmlos“ deklariert
+– Könnten vertauscht werden – z. B. explosive Fracht wird als "harmlos" deklariert
 
 ## ᚢ 🟠 Mittelgefährliche Komponenten (orange Warnmarkierung)
 
@@ -26,7 +26,7 @@
 ### Zählmodul & Serienprüfungseinheiten
 
 – Rechnerische Bauteile, manchmal KI-unterstützt zur Lagerprüfung
-– Manchmal mit Sicherungs-KI gekoppelt („nicht autorisiert = sperren/selbstzerstören“)
+– Manchmal mit Sicherungs-KI gekoppelt ("nicht autorisiert = sperren/selbstzerstören")
 
 ### Verpackungs- & Sicherungsharze
 
@@ -45,7 +45,7 @@
 
 – Kleine Platinen mit Zeitgebern, Stosssensoren, Näherungssensoren
 – Besonders heikel bei Magnetfeldern oder Funkstörungen
-– Können schon bei versehentlicher Verbindung mit Strom „scharf“ werden
+– Können schon bei versehentlicher Verbindung mit Strom "scharf" werden
 
 ### Fragmentierungsmäntel / Metallkugeln
 
@@ -62,6 +62,6 @@
 
 Ein paar erzählerisch starke Möglichkeiten:
 
-* **💡 Falsche Kiste, falscher Moment**: Die Kadetten helfen heimlich beim Sortieren – eine von ihnen stolpert, eine Kiste fällt um, und ein Zünder wird scharf. Ein Kind hebt neugierig ein „harmlose“ Metallkapsel auf – sie ist eine scharfgeladene Splittergranate mit Stosssensor.
-* **💡 Neugier + Strom**: Ein technikbegeisterter Kadett versucht, einen Zünderchip zu hacken – aus Spass oder um einen „Dummy“ zu basteln. Doch ein Draht berührt das echte Zündmodul.
+* **💡 Falsche Kiste, falscher Moment**: Die Kadetten helfen heimlich beim Sortieren – eine von ihnen stolpert, eine Kiste fällt um, und ein Zünder wird scharf. Ein Kind hebt neugierig ein "harmlose" Metallkapsel auf – sie ist eine scharfgeladene Splittergranate mit Stosssensor.
+* **💡 Neugier + Strom**: Ein technikbegeisterter Kadett versucht, einen Zünderchip zu hacken – aus Spass oder um einen "Dummy" zu basteln. Doch ein Draht berührt das echte Zündmodul.
 * **💡 Hitze + Erschütterung**:Beim Transport im LT geraten mehrere Kisten durcheinander. Eine Reibung verursacht kleine Entladung – genug, um das Sprengstoffharz einer Kiste zu destabilisieren.

@@ -64,13 +64,13 @@ Kopfhörer aussen am Helm und ein Mikrofon das magnetisch von aussen am Filter b
 
 ## Lazarett-Pilot (LP)
 
-**✈ Piloten-Kommunikationsanzug „Typ A-3K“**
+**✈ Piloten-Kommunikationsanzug "Typ A-3K"**
 
 Verwendung: Flugdienst · Luftgestützte Transporte · Kontrollflüge
 
 **🧰 Allgemeines**
 
-Der „Typ A-3K“ ist ein modifizierter Einsatzanzug für Pilotinnen und Piloten, speziell angepasst für den Einsatz in Verbindung mit einem fest verbauten Bordfunkgerät. Die integrierte Helmfunktechnik dient ausschliesslich der Sprachübertragung über das interne Kommunikationssystem des Luftfahrzeugs. Der Anzug ermöglicht zuverlässige Kommunikation, bietet Schutz, Komfort sowie taktische Funktionalität bei gleichzeitigem repräsentativem Erscheinungsbild.
+Der "Typ A-3K" ist ein modifizierter Einsatzanzug für Pilotinnen und Piloten, speziell angepasst für den Einsatz in Verbindung mit einem fest verbauten Bordfunkgerät. Die integrierte Helmfunktechnik dient ausschliesslich der Sprachübertragung über das interne Kommunikationssystem des Luftfahrzeugs. Der Anzug ermöglicht zuverlässige Kommunikation, bietet Schutz, Komfort sowie taktische Funktionalität bei gleichzeitigem repräsentativem Erscheinungsbild.
 
 **👕 Anzug (Einteiler mit Funkintegration)**
 
@@ -129,13 +129,13 @@ Der A-3K wird getragen bei:
 ![kadett-01.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-typ-k-1r-01.jpg)
 ![kadett-02.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-typ-k-1r-02.jpg)
 
-## Kadetten-Ausseneinsatzanzug „Typ K-1R“
+## Kadetten-Ausseneinsatzanzug "Typ K-1R"
 
 Verwendung: Ausseneinsätze · Geländeübungen · Ausbildungsexpeditionen auf der Marsoberfläche
 
 **🧰 Allgemeines**
 
-Der Kadettenanzug „Typ K-1R“ ist ein leichter Ausseneinsatzanzug für Nachwuchspersonal und Schulungseinsätze ausserhalb der Stationen. Er schützt zuverlässig vor Staub, UV-Strahlung, Kälte und dünner Atmosphäre – bei hoher Bewegungsfreiheit und robuster Konstruktion. Der Anzug ist für angeleitete Expeditionen unter Normaldruckbedingungen konzipiert und entspricht den kolonialen Sicherheitsstandards für Kadettenausbildung.
+Der Kadettenanzug "Typ K-1R" ist ein leichter Ausseneinsatzanzug für Nachwuchspersonal und Schulungseinsätze ausserhalb der Stationen. Er schützt zuverlässig vor Staub, UV-Strahlung, Kälte und dünner Atmosphäre – bei hoher Bewegungsfreiheit und robuster Konstruktion. Der Anzug ist für angeleitete Expeditionen unter Normaldruckbedingungen konzipiert und entspricht den kolonialen Sicherheitsstandards für Kadettenausbildung.
 
 **👕 Anzug (Ganzkörper-System)**
 
@@ -194,13 +194,13 @@ Der Kadettenanzug „Typ K-1R“ ist ein leichter Ausseneinsatzanzug für Nachwu
     * Nur mit zugelassener Filterkassette verwendbar
     * Einsatz nur unter Aufsicht und mit Rückkehrfenster
 
-## 📡 Kommunikationssystem – Externes Kadetten-Funkmodul „K-Radio/01“
+## 📡 Kommunikationssystem – Externes Kadetten-Funkmodul "K-Radio/01"
 
 Verwendungszweck: Gruppenkommunikation bei Ausbildungsexpeditionen · Verbindung zur Aufsicht
 
 **🔧 Technische Umsetzung**
 
-Im Kadettenbetrieb wird aus Kostengründen auf integrierte Helmfunktechnik verzichtet. Stattdessen kommt das einfache Funkmodul „K-Radio/01“ zum Einsatz.
+Im Kadettenbetrieb wird aus Kostengründen auf integrierte Helmfunktechnik verzichtet. Stattdessen kommt das einfache Funkmodul "K-Radio/01" zum Einsatz.
 
 ![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage-02.jpg)
 
@@ -226,9 +226,96 @@ Die Kombination aus Aussenlautsprecher, Filtermikrofon und grossem Helmvolumen f
 
 Die Ausbildung setzt daher stark auf visuelle Signale, Blickkontakt und standardisierte Gesten.
 
-## Kadetten-Anzug, Pilot-Assistenz
+## Kadetten-Anzug, LPA - Assistenz des Lazarett-Piloten
+
+**🔖 AUSRÜSTUNG: Piloten-Kommunikationssystem**
+
+* Anzug: A-P-x-x-3.1
+* Helm: H-P-N-x-1.1
+* Leichtatmer: L-P-M-H-1.2
+* Kennziffer: FLD-A3K-001
+* Einsatzbereich: Flugdienst – Kolonialtransporte – Kontrollflüge
+* Ausgabestatus: Standardausstattung für registriertes Flugpersonal (aktive Staffel & Reserve)
 
 ![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage.jpg)
+
+![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/lp-anzug-kadett.jpg)
+
+**🔧 Technische Kurzbeschreibung**
+
+Das Piloten-Kommunikationssystem besteht aus einem modularen Fluganzug (Typ A-P-x-x-3.1), einem felinisch angepassten IN-Helm (Typ H-P-N-x-1.1) und einem helmgetragenen Leichtatmer mit Mikrofonmodul (Typ L-P-M-H-1.2).
+Es ermöglicht die sichere Teilnahme an kolonialen Raumflugoperationen im atmosphärisch abgeschirmten Bereich – mit Bordfunkintegration und anatomischer Kompatibilität für felinische Nutzer.
+
+**👕 Anzug A-P-x-x-3.1**
+
+* Einteiler mit Reissverschlussfront und verstärkten Nähten
+* Material: Mars-PolyFas (atmungsaktiv, staubgeschützt)
+* Ausrüstungspunkte:
+    * 2 Brusttaschen mit Patte
+    * 2 Oberschenkeltaschen mit Reissverschluss
+    * 1 Oberarmtasche (links)
+* Brustabzeichen „Flugdienst“
+* Farbe: Flugdienst-Standard rostbraun
+
+**Helm H-P-N-x-1.1 (Modifizierter IN-Helm)**
+
+* Konstruktion gemäss Interstellarer Norm (IN), angepasst für felinische Kopfgeometrie
+* Lautsprechereinheiten oberhalb des Helmzentrums (felinische Ohrenposition)
+* Keine internen Sendeeinheiten – reines Empfangssystem
+* Seitenpolster ohne Technik – dienen der Stabilisierung
+* Funkverbindung ausschliesslich über externe Quelle (z. B. Bordfunkgerät)
+
+**😷 Leichtatmer L-P-M-H-1.2**
+
+* Kompaktsystem, direkt am Helm befestigt
+* Integriertes Mikrofonmodul mit Rauschunterdrückung
+* Direkte Verbindung zum Bordkommunikationssystem (keine Kabelverlegung notwendig)
+* Dreifach-Belüftung, Dichtsitz unter dem Helmrand
+* Wartungsfreundliche Filtereinheit
+
+**🥾 Stiefel (Flugeinsatzmodell)**
+
+* Staubabweisend, antistatisch
+* Flaches Schnürsystem für Gurtsystemkompatibilität
+* Profilsohle für optimalen Halt in Steuerpedalen
+
+**📡 Einsatzprofil & Einschränkungen**
+
+Verwendung vorgesehen für:
+
+* Start- und Landeoperationen
+* Kontrollflüge innerhalb von Atmosphärenkuppeln
+* Koloniale Versorgungseinsätze
+* Kurzzeitige Ausseneinsätze mit Leichtatmer L-P-M-H-1.2
+
+Nicht geeignet für:
+
+* Langzeitexposition ohne atmosphärische Abschirmung
+* Einsätze mit eigenständiger Funkübertragung
+* Hochvakuumzonen ohne druckkompensierende Systeme
+
+**🛠 Spezialmerkmale**
+
+* Kommunikationsweg ausschliesslich über gekoppelten Bordfunk
+* Helmlautsprecher optimiert für felinisches Gehör
+* Mikrofonmodul direkt im Filterelement integriert
+* Kompatibilität mit:
+    * Cockpits der Serien T-12 bis T-44
+    * Gurtsystem „Kragensicher – 3-Punkt“
+    * Cockpitprotokoll „V-Mars 7“
+
+**📎 Hinweise zur Verwendung**
+
+* Helmsitz auf Dichtigkeit prüfen
+* Mikrofonmodul nach Filterwechsel testen
+* Funkverbindung vor Einsatzflug über Bordprotokoll initialisieren
+* Keine Verwendung ausserhalb atmosphärischer Zonen
+
+**🗂 Eintrag geprüft & freigegeben durch:**
+
+* Abteilung für Flugdienststandardisierung – OKKT (Oberkommando Kolonialtechnik)
+* etzte Überarbeitung: [Datum eintragen]
+* tatus: aktiv – Ausgabe erfolgt zentral über Staffelversorgung
 
 ## Kadett Standard
 

@@ -9,7 +9,7 @@ Ein Mars-kompass, der magnetisch zum Kuppelpol zeigt. Summt leicht, wenn man in 
 ![nordweiser.jpg](../_images/technologie/geraffel/nordweiser.jpg) ![nordweiser-02.jpg](../_images/technologie/geraffel/nordweiser-02.jpg) ![nordweiser-03.jpg](../_images/technologie/geraffel/nordweiser-03.jpg)
 
 
-## 2. 🔪 Klappmesser Typ „Echsenschupp“
+## 2. 🔪 Klappmesser Typ "Echsenschupp"
 
 Multifunktionales Werkzeug mit Klinge, Schraubspitze, Drahtzange und Feuerstein im Griff. Für Lagerbau und Notfälle.
 
@@ -27,7 +27,7 @@ Gekrümmte Linsen gegen Staubverzerrung. Hat Infrarot-Modus und Zielmarkierung (
 
 ![Feldstecher Mars INFRAROT, ein binokuläres Fernglas](../_images/technologie/geraffel/feldstecher-mars-infrarot.jpg)
 ![feldstecher-mars-infrarot.jpg](../_images/technologie/geraffel/feldstecher-mars-infrarot.jpg)
-## 5. 🛡️ Schutzkappe „Typ 3“
+## 5. 🛡️ Schutzkappe "Typ 3"
 
 Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.
 
@@ -41,23 +41,23 @@ Perso-ähnliche Karte mit Datenchip, der an Portstationen scannbar ist. Gibt Zug
 
 ![id-card.jpg](../_images/technologie/geraffel/id-card.jpg)
 
-## 8. 🔋 Akku-Riegel Typ „Rundlicht“
+## 8. 🔋 Akku-Riegel Typ "Rundlicht"
 
 Notstromversorgung für Kleingeräte. Hat eine kleine Lampe am Kopf, leuchtet bis zu 6 Stunden.
 
-## 9. 🧵 Feldset „Flickfix“
+## 9. 🧵 Feldset "Flickfix"
 
 Enthält Nadelfäden, Dungkleber, Gewebepflaster, Mini-Zange. Wird oft mit bunten Aufnähern personalisiert.
 
-## 10. 📒 Übungsheft „Protokoll 12“
+## 10. 📒 Übungsheft "Protokoll 12"
 
 Robustes Schreibheft mit beschichtetem Umschlag. Dient zur Eintragung von Beobachtungen, Karten, Befehlskopien.
 
-## 11. 🥄 Kombi-Besteck „Löffelwolf“
+## 11. 🥄 Kombi-Besteck "Löffelwolf"
 
-Mars-Klassiker: Löffel, Gabel und Mini-Säge in einem Stück Titan. Hat einen „Witzspruch des Tages“ eingraviert.
+Mars-Klassiker: Löffel, Gabel und Mini-Säge in einem Stück Titan. Hat einen "Witzspruch des Tages" eingraviert.
 
-## 12. 🥼 Staubponcho Typ „Schleier 1“
+## 12. 🥼 Staubponcho Typ "Schleier 1"
 
 Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und reflektierende Fäden für Sichtbarkeit.
 

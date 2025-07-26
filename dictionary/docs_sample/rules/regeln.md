@@ -17,4 +17,4 @@
 * Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier Körperkraft (KK). Seine KK hat er 4. Er würfelt eine 5. Die Augenzahl 5 ist grösser als ein KK von 4 => die Probe ist NICHT geschafft
 * Lisa möchte einen Text lesen. Sie würfelt auf Klugheit. Hier hat sie eine 2, sie ist also nicht sehr gescheid. Aber sie würfelt eine 1 => sie hat die Probe geschafft.
 * Verl möchte sich als Soldat ausgeben. In CHarisma hat er eine 3; ausserdem hat er Taktisches Denken +3; 3+3 = 6; das heisst, Verl hat insgesamt einen Wert von 6. Er würfelt eine 6 => die Probe ist dennoch verfehlt. Denn 6 heisst immer gefehlt.
-* Orb kriecht durch ein Labyrinth aus Schächten. In INtuition hat Orb eine 5 sowie die Behinderung „Orientierungslos“, Malus -1. Also hat er die Orientierungsfähigkeit 5-1 = 4. Er würfelt eine 5 und verfehlt seine Probe.
+* Orb kriecht durch ein Labyrinth aus Schächten. In INtuition hat Orb eine 5 sowie die Behinderung "Orientierungslos", Malus -1. Also hat er die Orientierungsfähigkeit 5-1 = 4. Er würfelt eine 5 und verfehlt seine Probe.

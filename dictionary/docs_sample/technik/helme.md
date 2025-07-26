@@ -12,7 +12,7 @@
 
 ![Panzerhelm eines Soldaten - Typ 2](../../_images/technologie/militaerische-ausruestung/helme/soldat-panzerhelm-typ-3.jpg)
 
-Vollschutzhelm aus hochstabilem Verbundmaterial mit integriertem Panorama-Visier. Bietet maximalen Schutz bei Stürzen, Staubeinwirkung und extremer Sonneneinstrahlung. Kompatibel mit dem externen Anzugs-Filtersystem „Typ 5“. Ideal für Ausseneinsätze unter harschen Umweltbedingungen.
+Vollschutzhelm aus hochstabilem Verbundmaterial mit integriertem Panorama-Visier. Bietet maximalen Schutz bei Stürzen, Staubeinwirkung und extremer Sonneneinstrahlung. Kompatibel mit dem externen Anzugs-Filtersystem "Typ 5". Ideal für Ausseneinsätze unter harschen Umweltbedingungen.
 
 ## 🛡 Schutzkappe des Lazerett-Piloten (LP)
 
@@ -44,7 +44,7 @@ Diese Schutzkappe ist ein leichter Hartfaserhelm für den täglichen Gebrauch in
 
 **⛑️ Einsatzprofil**
 
-Die Schutzkappe „Typ 3“ wird regelmässig getragen bei:
+Die Schutzkappe "Typ 3" wird regelmässig getragen bei:
 
 * Kontrollgängen und Arbeitsschichten im Innenbereich * Appellen, Befehlsausgaben und Sicherheitsinspektionen
 * Kurzen Gängen zwischen Habitatmodulen oder auf abgeschirmten Aussenplattformen
@@ -68,7 +68,7 @@ Verwendung: Erweiterte Ausbildungsexpeditionen · Marsoberfläche · Einsätze m
 
 **🧰 Allgemeines**
 
-Der Helm „Typ 3“ ist ein vollständig umschliessender Ausseneinsatzhelm für Kadetten, die unter harschen Umweltbedingungen operieren. Er wird als Ergänzung zum regulären Kadettenhelm „Typ 2“ eingesetzt und bietet erweiterten Schutz gegen mechanische Einwirkungen, Staubstürme und UV-Strahlung. Der Helm ist für längere Tragedauer optimiert und auf maximale Robustheit ausgelegt.
+Der Helm "Typ 3" ist ein vollständig umschliessender Ausseneinsatzhelm für Kadetten, die unter harschen Umweltbedingungen operieren. Er wird als Ergänzung zum regulären Kadettenhelm "Typ 2" eingesetzt und bietet erweiterten Schutz gegen mechanische Einwirkungen, Staubstürme und UV-Strahlung. Der Helm ist für längere Tragedauer optimiert und auf maximale Robustheit ausgelegt.
 
 **⚙ Aufbau & Material**
 
@@ -92,7 +92,7 @@ Der Helm „Typ 3“ ist ein vollständig umschliessender Ausseneinsatzhelm für
 
 * Funkintegration:
     * Kein internes System
-    * Nur nutzbar mit dem externen Kadetten-Funkmodul „K-Radio/01“
+    * Nur nutzbar mit dem externen Kadetten-Funkmodul "K-Radio/01"
 * Lautsprecherübertragung:
     * Sprache wird aussen über Lautsprecher eingespielt
     * Schallübertragung in den Innenraum erfolgt über Helmvolumen

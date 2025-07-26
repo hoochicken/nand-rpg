@@ -87,11 +87,13 @@ nav:
       - "Vehikel": "technik/vehikel.md"
       - "Waffen":
           - "Granaten": "waffen/granaten.md"
+  - "Kadettschaft":
+      - "Allgemeine Infos": "kadettschaft/allgemein.md"
+      - "Marser": "kadettschaft/rangabzeichen.md"
   - "Marser Kultur":
       - "Marser": "kultur/marser.md"
       - "Hobbys": "kultur/hobbys.md"
       - "Kommunikation": "kultur/kommunikation.md"
-      - "Kadettschaft": "kultur/kadettschaft.md"
   - "Kräfte &amp; Völker":
       - "Völker": "kraefte/voelker.md"
       - "KI": "kraefte/ki.md"

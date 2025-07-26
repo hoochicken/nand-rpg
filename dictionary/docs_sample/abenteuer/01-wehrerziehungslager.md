@@ -124,7 +124,7 @@ Windtürme, die surren wie Insekten.
 * Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
 * Persönlichkeit: Still, fokussiert, fast schon unheimlich ruhig
 * Hobby: Marskäfer beobachten und in einem Skizzenbuch festhalten
-* Geheimnis: Ihre grosse Schwester wurde „versetzt“ – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
+* Geheimnis: Ihre grosse Schwester wurde "versetzt" – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
 * Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie
   mit Essen zu versorgen
 
@@ -133,8 +133,8 @@ Windtürme, die surren wie Insekten.
 * Rolle: Überlebenstraining / Geländeübungen / Notfallausbildung
 * Funktion: Bringt den Kadetten bei, wie man im Ödland überlebt
 * Persönlichkeit: Zäh, mitfühlend, heimlich rebellisch
-* Hobby: Backt seltsame Kekse aus Marswurzeln und gibt ihnen Namen wie „Staubmuffin“
-* Geheimnis: Ihr Cousin ist ein „langsamer Lerner“ – und soll in ein Speziallager kommen
+* Hobby: Backt seltsame Kekse aus Marswurzeln und gibt ihnen Namen wie "Staubmuffin"
+* Geheimnis: Ihr Cousin ist ein "langsamer Lerner" – und soll in ein Speziallager kommen
 * Quest: In die Lagerverwaltung schleichen, um seinen Bericht zu ändern – bevor der Transporter kommt
 
 ## Kadettrollen – die Gegengruppe

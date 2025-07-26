@@ -40,7 +40,7 @@
 * Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
 * Persönlichkeit: Still, fokussiert, fast schon unheimlich ruhig
 * Hobby: Marskäfer beobachten und in einem Skizzenbuch festhalten
-* Geheimnis: Ihre grosse Schwester wurde „versetzt“ – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
+* Geheimnis: Ihre grosse Schwester wurde "versetzt" – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
 * Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie
   mit Essen zu versorgen
 
@@ -49,8 +49,8 @@
 * Rolle: Überlebenstraining / Geländeübungen / Notfallausbildung
 * Funktion: Bringt den Kadetten bei, wie man im Ödland überlebt
 * Persönlichkeit: Zäh, mitfühlend, heimlich rebellisch
-* Hobby: Backt seltsame Kekse aus Marswurzeln und gibt ihnen Namen wie „Staubmuffin“
-* Geheimnis: Ihr Cousin ist ein „langsamer Lerner“ – und soll in ein Speziallager kommen
+* Hobby: Backt seltsame Kekse aus Marswurzeln und gibt ihnen Namen wie "Staubmuffin"
+* Geheimnis: Ihr Cousin ist ein "langsamer Lerner" – und soll in ein Speziallager kommen
 * Quest: In die Lagerverwaltung schleichen, um seinen Bericht zu ändern – bevor der Transporter kommt
 
 ## WEL - Kadetten
@@ -100,15 +100,15 @@
 
 * Typ: MZ-Kadett, felinischer Herkunft
 * Alter: 12 Standardjahre
-* Fellfarbe: samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif (daher der Name „Runder“)
+* Fellfarbe: samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif (daher der Name "Runder")
 * Augenfarbe: bernsteinfarben, mit einem leichten grünen Schimmer im Sonnenlicht
 * Ohren: auffällig gross, mit dunkler Zeichnung an den Spitzen – immer in Bewegung
 * Besonderheit: ein altes Ohrpiercing aus Messing, das er von seiner Mutter hat – eigentlich nicht erlaubt
 * 💡 Charakter & Interessen
     * Runder ist neugierig, flink und etwas verträumt – oft nicht ganz bei der Sache, aber voller Ideen. Er liebt Geschichten über alte Maschinen, besonders wenn sie fast lebendig wirken.
-    * Er hat eine Vorliebe für verlassene Orte, sammelt dort kleine Dinge: Dichtungen, Chips, Schrauben. Daraus baut er Mini-Kreaturen und behauptet, sie „atmen“.
+    * Er hat eine Vorliebe für verlassene Orte, sammelt dort kleine Dinge: Dichtungen, Chips, Schrauben. Daraus baut er Mini-Kreaturen und behauptet, sie "atmen".
 * Lieblingsplatz: das Dach eines alten Containers, wo er in den Himmel schaut und Radioschnipsel fängt.
-* Lieblingswort: „brummstill“ – so nennt er Momente, in denen alles gleichzeitig laut und friedlich ist.
+* Lieblingswort: "brummstill" – so nennt er Momente, in denen alles gleichzeitig laut und friedlich ist.
 * 🤫 Kleines Geheimnis
     * Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde.
     * Er hat ihr heimlich ein kleines Radiomodul geschenkt, damit sie wieder zuhören kann.
