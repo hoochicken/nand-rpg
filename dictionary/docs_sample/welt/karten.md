@@ -29,4 +29,4 @@
 * **Plötzenweide** (in südlicher Richtung): Ein flacher Krater mit grün-grauen Futterstreifen. Die Plötzen sind plump und kuhartig, mit schimmernden Häuten in Violett, Beige oder Hellblau. Ihr Sekret tropft in tiefe Auffangschalen aus gebürstetem Stahl. In der Ferne stehen Windtürme, die surren wie Insekten.
 
 {% include-markdown "./karten/wehrerziehungslager-und-alter-raumhafen.md" %}
-{% include-markdown "./karten/brumsenbau-im-schachtelhalmwald.png" %}
+{% include-markdown "./karten/brumsenbau-im-schachtelhalmwald.md" %}
