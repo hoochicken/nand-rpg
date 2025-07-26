@@ -53,16 +53,16 @@
 
 ### Bromsal und Umgebung
 
-{% include-markdown "./karten/bromsal-und-umgebung.md" %}
+{% include-markdown "../welt/karten/bromsal-und-umgebung.md" %}
 
 ### Wehrerziehungslager und Umgebung
 
-{% include-markdown "./karten/wehr-erziehungs-lager-und-umgebung.md" %}
+{% include-markdown "../welt/karten/wehr-erziehungs-lager-und-umgebung.md" %}
 
 ### Wehrerziehungslager und Alter Raumhafen
 
-{% include-markdown "./karten/wehrerziehungslager-und-alter-raumhafen.md" %}
+{% include-markdown "../welt/karten/wehrerziehungslager-und-alter-raumhafen.md" %}
 
 ### Brumsenbau im Schachtelhalmwald
 
-{% include-markdown "./karten/brumsenbau-im-schachtelhalmwald.md" %}
+{% include-markdown "../welt/karten/brumsenbau-im-schachtelhalmwald.md" %}
