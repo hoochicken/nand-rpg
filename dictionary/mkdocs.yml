@@ -102,6 +102,7 @@ nav:
   - "Abenteuer":
       - "Wehrerziehungslager": "abenteuer/01-wehrerziehungslager.md"
       - "Der erste Auftrag": "abenteuer/02-erster-auftrag.md"
+      - "Stimme aus der Stille": "abenteuer/03-stimme-aus-der-stille.md"
       - "Mini-RPG (solo)": "abenteuer/99-mini-rpg.md"
       - "NPCs":
           - "Wehrerziehungs-Lager": "mps/wehrerziehungslager.md"

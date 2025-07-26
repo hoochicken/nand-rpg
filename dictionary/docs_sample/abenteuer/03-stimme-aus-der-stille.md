@@ -1,4 +1,4 @@
-# Stimme aus der Stille – Nand 0.1
+# Stimme aus der Stille
 
 ## Abenteuer
 
