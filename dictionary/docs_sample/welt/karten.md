@@ -48,3 +48,9 @@
 ## Brumsenbau im Schachtelhalmwald
 
 ![Karte des Brumsenbaus im Schachtelhalmwald](../_images/_maps/brumsenbau-im-schachtelhalmwald.png)
+
+{%
+    include-markdown "./mars.md"
+    start="<!--intro-start-->"
+    end="<!--intro-end-->"
+%}
