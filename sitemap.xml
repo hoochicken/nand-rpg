@@ -53,6 +53,46 @@
          <lastmod>2025-07-26</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/filter/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-aussenanzug/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-kommunikationssystem/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-lp-assistenz/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadetten-anzug/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/lazarett-pilot/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-feldanzug-mars-ulx-03/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-feldanzug-standard/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-kommunikationsmodul/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/vollruestung/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kadettschaft/allgemein/</loc>
          <lastmod>2025-07-26</lastmod>
     </url>
