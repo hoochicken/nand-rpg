@@ -126,8 +126,8 @@ Der A-3K wird getragen bei:
 
 ## Kadetten-Anzug
 
-![kadett-01.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-01.jpg)
-![kadett-02.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-02.jpg)
+![kadett-01.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-typ-k-1r-01.jpg)
+![kadett-02.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-typ-k-1r-02.jpg)
 
 ## Kadetten-Ausseneinsatzanzug „Typ K-1R“
 

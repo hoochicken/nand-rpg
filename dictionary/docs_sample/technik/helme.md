@@ -61,3 +61,48 @@ Kopfhörer aussen am Helm und ein Mikrofon das magnetisch von aussen am Filter b
 ## Filtereinsätze für Helm
 
 ![Filter-Einsatz für den Helm](../../_images/technologie/militaerische-ausruestung/helme/filter-einsatz.jpg)
+
+## Helm "Typ 3" – Vollschutzhelm für erweiterten Ausseneinsatz
+
+Verwendung: Erweiterte Ausbildungsexpeditionen · Marsoberfläche · Einsätze mit erhöhtem Schutzbedarf
+
+**🧰 Allgemeines**
+
+Der Helm „Typ 3“ ist ein vollständig umschliessender Ausseneinsatzhelm für Kadetten, die unter harschen Umweltbedingungen operieren. Er wird als Ergänzung zum regulären Kadettenhelm „Typ 2“ eingesetzt und bietet erweiterten Schutz gegen mechanische Einwirkungen, Staubstürme und UV-Strahlung. Der Helm ist für längere Tragedauer optimiert und auf maximale Robustheit ausgelegt.
+
+**⚙ Aufbau & Material**
+
+* Helmschale:
+    * Aus hochstabilem Mehrschicht-Verbundmaterial gefertigt
+    * Stossfest, temperaturstabil und staubresistent
+    * Innenausstattung mit Polsterung und abgedichtetem Kragenring
+* Kragenanschluss:
+    * Bajonett-Verriegelung zur festen Kopplung mit Ausseneinsatzanzügen
+    * Innenliegende Abdichtung gegen Staub und Luftverlust
+
+**👁 Visiersystem**
+
+* Sichtfeld:
+    * Integriertes Panorama-Visier für erweitertes Frontalfeld
+    * Kein Scharnier – der Helm wird komplett auf- oder abgesetzt
+* Beschichtung: UV-Schutz, Anti-Kratz- und Anti-Beschlag-Oberfläche
+* Seitensicht: Eingeschränkt – daher kombinierbar mit Sichtzeichen in der Ausbildung
+
+**🔉 Kommunikation**
+
+* Funkintegration:
+    * Kein internes System
+    * Nur nutzbar mit dem externen Kadetten-Funkmodul „K-Radio/01“
+* Lautsprecherübertragung:
+    * Sprache wird aussen über Lautsprecher eingespielt
+    * Schallübertragung in den Innenraum erfolgt über Helmvolumen
+    * Verständigung ist abhängig von Position, Geräuschumgebung und Helmresonanz
+
+**📦 Einsatzprofil**
+
+* Genutzt bei:
+    * Staub- und Sturmübungen
+    * Langstreckenmärschen unter Anleitung
+    * Ausseneinsätzen mit hohem Schutzbedarf (z. B. Marswind, Trümmerzonen)
+
+Wird anstelle des Typ 2 getragen, wenn erhöhter Schutz oder längere Einsatzdauer erforderlich sind.
