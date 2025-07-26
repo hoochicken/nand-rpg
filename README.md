@@ -10,7 +10,8 @@ git push
 cd dictionary
 # mkdocs gh-deploy -d dictionary
 python -m mkdocs gh-deploy #-d dictionary
-~
+~~~
+
 <https://hoochicken.github.io/nand-rpg/index>
 <http://127.0.0.1:9099>
 
