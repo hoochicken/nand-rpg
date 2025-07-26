@@ -46,8 +46,6 @@ plugins:
       lang:
         - en
   - include-markdown:
-      opening_tag: "{!"
-      closing_tag: "!}"
 
 # Customization
 extra_javascript:
