@@ -9,7 +9,7 @@ Schon Kinder lernen militärische Fähigkeiten wie Orientierungsläufe, Waffenku
 
 Hier siehst du einen dieser kleinen Kadetten :-)
 
-![kadett.jpg](../_images/kadettschaft/kadett.jpg)
+![kadett.jpg](../_images/kadettschaft/kadett-01.jpg)
 
 ## Pamphet
 
