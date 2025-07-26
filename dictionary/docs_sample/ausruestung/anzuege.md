@@ -403,3 +403,12 @@ Das Filtermodul reinigt die einströmende Atemluft und schützt zuverlässig vor
 * Farbfenster zur Verbrauchsanzeige (z. B. Verfärbung bei Sättigung)
 * CO₂-Zusatzschicht, z. B. Lithiumhydroxid
 * RFID-Modul zur Laufzeitprotokollierung und Serienverfolgung
+
+## Prototyp Terra
+
+![Vollrüstung Prototyp](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-terra-prototyp.jpg)
+
+## Scuba
+
+![Vollrüstung Scuba](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-03-scuba.jpg)
+

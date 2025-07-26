@@ -41,3 +41,7 @@ PS: Wenn du ein Kind kennst, dass sich weigert, kannst du seine Familie hier auc
 ![kadett.jpg](../_images/kadettschaft/mz-armbinde.jpg)
 
 ![kadett.jpg](../_images/kadettschaft/mz-flagge.jpg)
+
+## Kadett (vor Gefreiten-Status)
+
+![kadett.jpg](../_images/kadettschaft/vor-gefreiter.jpg)
