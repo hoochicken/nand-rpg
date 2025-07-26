@@ -37,6 +37,14 @@
          <lastmod>2025-07-26</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kadettschaft/allgemein/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kadettschaft/rangabzeichen/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kraefte/aki/</loc>
          <lastmod>2025-07-26</lastmod>
     </url>
@@ -69,10 +77,6 @@
          <lastmod>2025-07-26</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/kultur/kadettschaft/</loc>
-         <lastmod>2025-07-26</lastmod>
-    </url>
-    <url>
          <loc>http://127.0.0.1:8000/kultur/kommunikation/</loc>
          <lastmod>2025-07-26</lastmod>
     </url>
@@ -98,6 +102,10 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/anzuege/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/technik/ausruestung-allgemein/</loc>
          <lastmod>2025-07-26</lastmod>
     </url>
     <url>
