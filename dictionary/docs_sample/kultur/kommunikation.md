@@ -15,12 +15,18 @@ Ausser-Marser chaben gernä ainen AAkzent!
     * gezogene Vokale an den falschen Stellen
     * falsches grammatisches Geschlecht
     * Merkspruch: ich wiinscht ichch chätte ein Pferdeekutsch
-* Lunare: französischer Akzent
+* Barben: französischer Akzent
     * jedes "ch" => "sch"
     * keine "h"
     * a => o
     * falsches grammatisches Geschlecht
     * Merkspruch: isch säe einö 'übschen Kühlschronk
+* Lunare: knauffffeln
+    * jedes "ch" => "f"
+    * jedes "s" => "f"
+    * jedes "sch" => "f"
+    * jedes "z" => "tf"
+    * Merkspruch: If se-e nift, waf tu meinft ... gib dof einfaf tfu, daff daf feiffe ift
 
 ## 2. Funkprotokolle, gesprochen
 
