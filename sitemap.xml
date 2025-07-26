@@ -148,4 +148,12 @@
          <loc>http://127.0.0.1:8000/welt/sonnensystem/</loc>
          <lastmod>2025-07-26</lastmod>
     </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/karten/brumsenbau-im-schachtelhalmwald/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/karten/wehrerziehungslager-und-alter-raumhafen/</loc>
+         <lastmod>2025-07-26</lastmod>
+    </url>
 </urlset>
