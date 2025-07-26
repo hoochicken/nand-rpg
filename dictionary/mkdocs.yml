@@ -70,6 +70,9 @@ nav:
   - "Home": "index.md"
   - "Charaktererstellung": "rules/charaktererstellung.md"
   - "Regeln": "rules/regeln.md"
+  - "Kadettschaft":
+      - "Allgemeine Infos": "kadettschaft/allgemein.md"
+      - "Rangabzeichen": "kadettschaft/rangabzeichen.md"
   - "Welt":
       - "Mars": "welt/mars.md"
       - "Bromsal": "welt/bromsal.md"
@@ -87,9 +90,6 @@ nav:
       - "Vehikel": "technik/vehikel.md"
       - "Waffen":
           - "Granaten": "waffen/granaten.md"
-  - "Kadettschaft":
-      - "Allgemeine Infos": "kadettschaft/allgemein.md"
-      - "Marser": "kadettschaft/rangabzeichen.md"
   - "Marser Kultur":
       - "Marser": "kultur/marser.md"
       - "Hobbys": "kultur/hobbys.md"
