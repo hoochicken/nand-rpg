@@ -18,7 +18,7 @@
 
 ## Kadetten-Anzug
 
-{% include-markdown "./anzuege/kadetten-anzug" %}
+{% include-markdown "./anzuege/kadetten-anzug.md" %}
 
 ## Kadetten-Ausseneinsatzanzug "Typ K-1R"
 
