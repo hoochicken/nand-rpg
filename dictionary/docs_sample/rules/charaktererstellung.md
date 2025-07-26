@@ -2,13 +2,14 @@
 
 ## Charakterbogen
 
-| Download                                                               | Hinweis              | Preview                                                                                                            |
-|------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)        | farbig               | ![nand-charakterbogen-ki-katze-rot.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)             |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)         | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)   | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
+| Download                                                              | Hinweis              | Preview                                                                                                             |
+|-----------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------|
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-rot.pdf)       | farbig               | ![nand-charakterbogen-ki-katze-rot.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)             |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-sw.pdf)        | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-hellgrau.pdf)  | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
 | [Charakterbogen (PDF)](../_downloads/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](../_images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
-| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf)       | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../_images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
+| [Charakterbogen (PDF)](../_downloads/charakterbogen-printed.pdf)      | handgemalt, original | ![nand-charakterbogen-ki-printed.png](../_images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
+| [Malvorlagen (PDF)](../_downloads/malvorlagen.pdf)                    | handgemalt, original | ![Malvorlagen](../_images/charakterbogen/malvorlagen.png)                                                           |
 
 ## Grundwerte
 
@@ -171,3 +172,4 @@ Info: eine zusätzlich Behinderung musst du dir nicht auswählen. Das anfänglic
 | Du hast Angst vor dem Marsstaub – er bekommt davon manchmal keine Luft. Aber niemand darf es wissen, weil du sonst "ungeeignet" bist.                                                                                         | Du willst dir selbst helfen, indem du  einen stillgelegten Filterrucksack aus dem Lager reparierst – ohne erwischt zu werden.                                              |
 | Du hast eine alte Spieluhr ihrer Mutter gefunden – sie spielt eine Melodie, die in der Propaganda verboten ist.                                                                                                               | Du willst herausfinden, warum das Lied verboten wurde – und wer der Mann "Reude" ist, dessen Name auf der Unterseite eingeritzt ist.                                       |
 
+## Vorlagen zum Ausmalen
