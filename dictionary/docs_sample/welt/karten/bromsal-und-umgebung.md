@@ -1,5 +1,3 @@
-## Bromsal und Umgebung
-
 ![Karte von Bromsal und Umgebung](../../_images/_maps/bromsal-und-umgebung.png)
 
 * **Bromsal**
