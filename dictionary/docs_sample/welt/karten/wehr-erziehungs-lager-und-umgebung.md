@@ -1,5 +1,3 @@
-## Wehrerziehungslagers und Alter Raumhafen
-
 ![Karte des Wehrerziehungslagers und Umgebung](../../_images/_maps/wehr-erziehungs-lager-und-umgebung.png)
 
 * **Wehrerzieungslager**: grosses Gelände auf Teilen des ehemaligen Raumhafens

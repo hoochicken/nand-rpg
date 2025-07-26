@@ -13,9 +13,9 @@
 
 **Auftrag: Umzug der Granatenfertigung + tragischer Unfall**
 
-* Lagerhalle des Alten Raumhafens, groooos, mit Runen markierte Areale
+* Lagerhalle des Alten Raumhafens, grooooss, mit Runen markierte Areale
 * Kisten müssen von ᛞ Dagaz nach ᚾ Naudiz umgezogen werden, Motorsacke
-* Probleme: Beladung, grooosem unhandluche Kiste, aufgebrochene Kiste
+* Probleme: Beladung, grooosem unhandliche Kiste, aufgebrochene Kiste
 * Umgang mit Unfall
     * Runder war bei der Einweisung nicht da und wird sterben, weil er eine ᚦ-Kiste fallen lässt
     * Heinlein ist bestürzt, Abtransport Runder, Rest des Tages frei
@@ -23,7 +23,7 @@
 **Runders Geheimnis**
 
 * Schnuppi ist traurig, heult an der Motorsacke mit der Leiche (brrr)
-* Schnuppi läuft weg zum Donnerbalen, ein Kadett muss folgen
+* Schnuppi läuft weg zum Donnerbalken, ein Kadett muss folgen
 * am Donnerbalken finden sie eine modifizierte Funkkiste, die Runder versteckt hat sowie einen Zettel mit der angabe einer Uhrzeit 2100 und einer Frequenz
 * zu diesem Zeitpunkt meldet sich dann Hal, eine KI, sie braucht einen alten V5-Akku
 
