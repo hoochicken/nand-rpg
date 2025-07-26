@@ -2,142 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://127.0.0.1:8000/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/impressum/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/_images/technologie/waffen/granaten/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/abenteuer/01-wehrerziehungslager/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/abenteuer/02-erster-auftrag/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/abenteuer/03-stimme-aus-der-stille/</loc>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/abenteuer/99-individual-questen/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/abenteuer/99-mini-rpg/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/assets/calculator/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/aki/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/brom/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/ek-institut/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/gott/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/ki/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/raummolche/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kraefte/voelker/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kultur/hobbys/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kultur/kadettschaft/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kultur/kommunikation/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/kultur/marser/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/npc/wehrerziehungslager/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/rules/charaktererstellung/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/rules/regeln/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/anzuege/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/geraffel/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/helme/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/kommunikation/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/leichtatmer-und-handschuhe/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/medizin/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/vehikel/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/bromsal/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/mars/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/quantenraum/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/robotergesetze/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/sonnensystem/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
 </urlset>
