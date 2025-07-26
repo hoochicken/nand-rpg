@@ -116,10 +116,10 @@ Im Datenblatt erscheint die technische Zuordnung immer in deutscher Sprache, z. 
 
 ### ⚙ Material & Aufbau
 
-- Außenmaterial:
+- Aussenmaterial:
 - Innenstruktur:
 - Farbe & Oberfläche:
-- Maße & Gewicht:
+- Masse & Gewicht:
 - Elektronik / Mechanik:
 - Kompatibilität:
 
@@ -166,7 +166,7 @@ Im Datenblatt erscheint die technische Zuordnung immer in deutscher Sprache, z. 
 
 ### 🧾 Ausrüstungseintrag
 
-Kadettenanzug Typ C1 – Außendienstversion
+Kadettenanzug Typ C1 – Aussendienstversion
 
 ### 📘 Artikel (Langtext)
 
@@ -190,7 +190,7 @@ Anzug C1
 
 | Pos. | Bezeichnung              | ID (technisch) | Produkttyp (DE)      | Funktion               |
 |------|--------------------------|----------------|----------------------|------------------------|
-| 01   | Außenhülle (Einzelanzug) | CLA-1000001    | Anzug (Einteiler)    | Trägereinheit          |
+| 01   | Aussenhülle (Einzelanzug) | CLA-1000001    | Anzug (Einteiler)    | Trägereinheit          |
 | 02   | Filtermodul              | CAL-1000102    | Filtermodul          | Luftreinigung          |
 | 03   | Helm E1                  | CLH-1000301    | Helm                 | Schutz & Kommunikation |
 | 04   | Kommunikationssystem     | CTC-1000120CF  | Kommunikationssystem | Funk + Mikrofon + PTT  |
@@ -200,7 +200,7 @@ Anzug C1
 
 ### 📄 Allgemeines
 
-Der Kadettenanzug C1 ist ein modular aufgebautes Trainings- und Außeneinsatzsystem für Kadetten mittlerer Stufe.
+Der Kadettenanzug C1 ist ein modular aufgebautes Trainings- und Ausseneinsatzsystem für Kadetten mittlerer Stufe.
 Er kombiniert Trägersystem, Atemschutz, Helm und Kommunikationseinheit in einem vollständig modularen Satz.
 Einsatzfreigabe ab Stufe II, kompatibel mit IN-Standards.
 
@@ -208,10 +208,10 @@ Einsatzfreigabe ab Stufe II, kompatibel mit IN-Standards.
 
 ### ⚙ Material & Aufbau
 
-- Außenmaterial: Mars-PolyFas® (Polymer-Kevlar-Blend)
+- Aussenmaterial: Mars-PolyFas® (Polymer-Kevlar-Blend)
 - Innenstruktur: Trägermatrix mit Bioliner
 - Farbe & Oberfläche: Sandgelb, strukturiert
-- Maße & Gewicht: Anzuggröße 3 · 5,1 kg
+- Masse & Gewicht: Anzuggrösse 3 · 5,1 kg
 - Elektronik / Mechanik: Magnetdichtung, Anzugschnittstelle Typ M3
 - Kompatibilität: IN-konform, Helmaufnahme E-Reihe
 
@@ -219,7 +219,7 @@ Einsatzfreigabe ab Stufe II, kompatibel mit IN-Standards.
 
 ### 🧱 Komponentenbeschreibung
 
-#### 🔹 01 – Außenhülle (CLA-1000001)
+#### 🔹 01 – Aussenhülle (CLA-1000001)
 
 Einteiler mit Trägerfunktion, vorbereitet für Filteranschluss hinten & Tasche links.
 
@@ -250,7 +250,7 @@ Linke Oberschenkeltasche mit Schnellöffnung, Klettsystem.
 
 *❌ Nicht empfohlen für:*
 – Feuerzonen oder starke Belastung
-– Außentemperaturen unter −40 °C
+– Aussentemperaturen unter −40 °C
 
 ---
 

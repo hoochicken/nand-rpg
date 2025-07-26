@@ -6,7 +6,7 @@
 |--------|-----------------------|--------------|------------------------------------------|----------------------------------------|
 | ULW-21 | UltraLiner SoftWeave® | 1–2          | Atmungsaktiv, elastisch, antimikrobiell  | Unteranzüge unter Feld- & Raumanzügen  |
 | ZTX-30 | ZivTex-LiteMesh®      | 2            | Günstig, leicht, UV-stabil, pflegeleicht | Habitat-Wartung, zivile Technikdienste |
-| ZTA-35 | ZivTex-AllShell®      | 2            | Wetterfest, UV-beständig, rotierbar      | Ziviler Außeneinsatz, Transportdienst  |
+| ZTA-35 | ZivTex-AllShell®      | 2            | Wetterfest, UV-beständig, rotierbar      | Ziviler Ausseneinsatz, Transportdienst  |
 
 ## 🔍 Technische Beschreibungen
 
@@ -23,7 +23,7 @@
 
 **ZTA-35 – ZivTex-AllShell®**
 
-* Robuster Ziviltextilverbund für Außenverwendung
+* Robuster Ziviltextilverbund für Aussenverwendung
 * Staub- und wetterresistent, kein Schnittschutz
 
 ## 🧵 Feld- & Einsatzanzüge
@@ -32,8 +32,8 @@
 |----------|----------------------------|--------------|---------------|--------------------|---------------------------------|
 | PMK-2    | PolyMars-Kadett®           | 1–2          | ❌             | ❌                  | Kadettenanzüge                  |
 | FLX-55   | FlexLight-Standard®        | 2–3          | ❌             | ❌                  | Feldanzüge (ULx-03)             |
-| PMF-55   | PolyMars-Flex®             | 2–3          | ❌             | ✅ leicht           | Außendienstanzüge               |
-| PMF-56   | PolyMars-Flex+®            | 2–3          | ❌             | ✅ leicht           | Komfortoptimierte Außeneinsätze |
+| PMF-55   | PolyMars-Flex®             | 2–3          | ❌             | ✅ leicht           | Aussendienstanzüge               |
+| PMF-56   | PolyMars-Flex+®            | 2–3          | ❌             | ✅ leicht           | Komfortoptimierte Ausseneinsätze |
 | MPF-66   | Mars Protective Flex®      | 4            | ✅             | ❌                  | Instandhaltungsanzüge           |
 | MPF-77.X | Mars Performance Fabric X® | 5+           | ✅             | ✅ voll             | Eliteanzüge                     |
 
@@ -51,7 +51,7 @@
 
 **PMF-55 – PolyMars-Flex®**
 
-* Standard für Außeneinsätze mit leichter Plattenträgerkompatibilität
+* Standard für Ausseneinsätze mit leichter Plattenträgerkompatibilität
 * Thermoregulierend und marsklimafest
 
 **PMF-56 – PolyMars-Flex+®**
@@ -61,7 +61,7 @@
 
 **MPF-66 – Mars Protective Flex®**
 
-* Schnitt- & stichfest, für technische Außendienste
+* Schnitt- & stichfest, für technische Aussendienste
 * Scheuerresistent, kompatibel mit Halterungen und Werkzeugtaschen
 
 **MPF-77.X – Mars Performance Fabric X®**
@@ -74,7 +74,7 @@
 | Kürzel  | Bezeichnung       | Schutzklasse | Flexibilität | Profilhaftung | Verwendet bei           |
 |---------|-------------------|--------------|--------------|---------------|-------------------------|
 | STX-K1  | StepTex-Kadett®   | 1–2          | mittel       | gering        | Kadettenanzüge          |
-| STX-55  | StepTex-Standard® | 2–3          | gut          | hoch          | Außeneinsatz (PMF-55)   |
+| STX-55  | StepTex-Standard® | 2–3          | gut          | hoch          | Ausseneinsatz (PMF-55)   |
 | STX-66  | StepTex-Protect®  | 4            | gut          | sehr hoch     | Instandhaltung (MPF-66) |
 | STX-77E | StepTex-Elite®    | 5            | sehr hoch    | exzellent     | Eliteanzüge (MPF-77.X)  |
 
@@ -92,13 +92,13 @@
 * Doppelschichtiger Gummiverbund mit Anti-Staub-Lauffläche
 * Hohe Rutschfestigkeit auf stationären Böden und Schleusen
 * Innen gefüttert mit PMX-1 oder PMF-55
-* Robuste Standardlösung für reguläre Außeneinsätze
+* Robuste Standardlösung für reguläre Ausseneinsätze
 
 **STX-66 – StepTex-Protect®**
 
-* Versteifter Sohlenkern mit Stoß- und Trittschutz
+* Versteifter Sohlenkern mit Stoss- und Trittschutz
 * Versiegelte Nähte, schutzschalenverstärkter Knöchelbereich
-* Für technische Außeneinsätze, schwere Feldbedingungen
+* Für technische Ausseneinsätze, schwere Feldbedingungen
 * Hitzebeständig, kontaktfest, langzeittragbar
 
 **STX-77E – StepTex-Elite®**
@@ -112,7 +112,7 @@
 
 | Kürzel | Bezeichnung            | Schutzklasse | Einsatzbereich              |
 |--------|------------------------|--------------|-----------------------------|
-| SRF-90 | SpaceRes-Flex®         | 6            | EVA & Raumanzug außen       |
+| SRF-90 | SpaceRes-Flex®         | 6            | EVA & Raumanzug aussen       |
 | PFC-42 | PilotFlight Composite® | 4            | Cockpit-/Druckanzüge        |
 | VCX-12 | VoidCore Exoweave®     | 5–6          | Orbitaleinheit, Raumtruppen |
 | SLS-18 | Silatex LightShell®    | 2–3          | Unteranzüge, Schlafsysteme  |
@@ -122,7 +122,7 @@
 **SRF-90 – SpaceRes-Flex®**
 
 * Multilagen-Textil mit Hochvakuum-Isolierung
-* UV- und Strahlungsschutz durch reflektierende Außenschicht
+* UV- und Strahlungsschutz durch reflektierende Aussenschicht
 * Extrem temperaturresistent: −180 °C bis +120 °C
 * Abriebfest, stichhemmend (z. B. gegen Mikrometeoriten)
 * Innenlage aus atmungsaktiver Bio-Membran
@@ -138,7 +138,7 @@
 **VCX-12 – VoidCore Exoweave®**
 
 * Taktisches Gewebe für Schwerlast-Raumanzüge
-* Stoßdämpfend, laminiert mit Energieabsorber
+* Stossdämpfend, laminiert mit Energieabsorber
 * Druckstabil, schnitt- und stichfest
 * Trägt externe Systeme
 * Innenlage mit Haut-Ident-Komforttextil
@@ -146,7 +146,7 @@
 **SLS-18 – Silatex LightShell®**
 
 * Leichtes, flammhemmendes Lagensystem
-* Schweißregulierend und atmungsaktiv
+* Schweissregulierend und atmungsaktiv
 * Antibakteriell, geruchsneutralisierend
 * Ideal als Basis für Pilotenanzüge
 
@@ -186,7 +186,7 @@ STX-C67 – StepTex-CombatOrbit®
 |--------|---------------------|--------------|----------------------------------------|---------------------------------------|
 | SLM-10 | SleepMat-R-Flex®    | 1            | leicht, rollbar, isolierend            | Lagerunterlage, Habitat               |
 | SLM-40 | SleepShell-Compact® | 2–3          | atmungsaktiv, wetterresistent          | Habitat, Zeltlager                    |
-| SLM-77 | BioShell-Biwak®     | 4            | kompakt, IR-dämpfend, sturmfest        | Notbiwak, Außeneinsatz                |
+| SLM-77 | BioShell-Biwak®     | 4            | kompakt, IR-dämpfend, sturmfest        | Notbiwak, Ausseneinsatz                |
 | BED-20 | BedWeave-HabCom®    | 1–2          | weich, antimikrobiell, wärmespeichernd | Stationäre Unterkunft, Kadettendecken |
 
 ### 🔍 Technische Beschreibungen
@@ -218,11 +218,11 @@ BED-20 – BedWeave-HabCom®
 | Kürzel | Bezeichnung           | Schutzklasse | Eigenschaften                         | Verwendet bei                      |
 |--------|-----------------------|--------------|---------------------------------------|------------------------------------|
 | PAK-11 | PackTex-Cargo®        | 2            | leicht, modular, rotationsfähig       | Taschen, Pouches, Trageeinheiten   |
-| PAK-33 | PackTex-Roughhaul®    | 3            | abriebfest, schwerlastgeeignet        | Rucksäcke für Außeneinsätze        |
+| PAK-33 | PackTex-Roughhaul®    | 3            | abriebfest, schwerlastgeeignet        | Rucksäcke für Ausseneinsätze        |
 | PAK-50 | PackTex-SpecOps®      | 4            | wasserfest, IR-dämpfend, leise        | Langzeiteinsätze, Spezialeinheiten |
 | TEN-01 | ShelterTex-Basic®     | 2            | UV-beständig, leicht, einfach faltbar | Kleinzelt, Habitateinheit          |
 | TEN-22 | ShelterTex-DuoShield® | 3            | zweilagig, wind- und strahlendicht    | Feldlager, Stationszelt            |
-| TEN-66 | ShelterTex-FortX®     | 4–5          | druckdicht, modular, sturmfest        | Außenlager, Notunterkunft          |
+| TEN-66 | ShelterTex-FortX®     | 4–5          | druckdicht, modular, sturmfest        | Aussenlager, Notunterkunft          |
 
 ### 🔍 Technische Beschreibungen
 
