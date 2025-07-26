@@ -27,11 +27,13 @@
 
 ## K-3 — Kadett 2. Stufe ("Schwanzträger")
 
+![K1 Pfotenling](../_images/kadettschaft/rangabzeichen/rangabzeichen-02.jpg)
+
 * Symbolik: Eine weisse Pfote innerhalb zweier ineinander liegender weisser Rauten
 * Form:
     * Pfote zentral
     * Erste Raute: eng um die Pfote (wie bei K-2)
-    * Zweite Raute: grösser, umgibt die erste mit einheitlichem Abstand (z. B. 1 Pfotenbreite)
+    * Zweite Raute: grösser, umgibt die erste mit einheitlichem Abstand (z. B. 1 Pfotenbreite)
 * Beide Rauten sind gleichmässig proportioniert
 * Farbgebung: Hintergrund bleibt gleich (Uniformfarbe), alle Linien und Pfote in Weiss
 * Bedeutung: Schutz durch Struktur und äussere Ordnung – der Kadett beherrscht erste Prinzipien, wird gefestigt

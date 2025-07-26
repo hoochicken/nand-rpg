@@ -146,6 +146,15 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 * 11 - Massive Trauma-Folgen (PTBS) – bei bestimmten Reizen (z. B. Sirenen, Uniformen, engen Räumen) völliger Kontrollverlust, Panik oder Erstarren
 * 12 - Blind auf einem Auge + starke Lichtempfindlichkeit – oft gezwungen, sich zurückzuziehen
 
+## Stufenanstieg
+
+Nach jedem Abenteuer darfst du:
+
+* einen zusätzlichen Punkt auf deine Eigenschaften vergeben; also z. B: KLugheit oder INtuition steigern
+* zusätzliche positive Eigenschaft
+
+Info: eine zusätzlich Behinderung musst du dir nicht auswählen. Das anfängliche Set-up ust genug. Natürlich kannst du dich **freiwillig** für ein weiteres Manko entscheiden. Tipp: bbringe dies in Bezug zum Abenteuer, also z. B. eine klaustrophobische Störung, weil du im letzten Abenteuer in einer klaustrophoibischen Situation warst.
+
 ## Geheimnisse & Questen
 
 | Geheimnis                                                                                                                                                                                                                     | Queste                                                                                                                                                                     |
