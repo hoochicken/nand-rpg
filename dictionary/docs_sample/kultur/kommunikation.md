@@ -7,7 +7,7 @@ Hier kann man ganz normal sprechen.
 
 Ausser-Marser chaben gernä ainen AAkzent!
 
-* Titanen: russischer Akzent, die Betonungen sind verschoben
+* **Titanen**: russischer Akzent, die Betonungen sind verschoben
     * jedes "ch" => "kch"
     * a => aaa
     * ch => chch
@@ -15,13 +15,13 @@ Ausser-Marser chaben gernä ainen AAkzent!
     * gezogene Vokale an den falschen Stellen
     * falsches grammatisches Geschlecht
     * Merkspruch: ich wiinscht ichch chätte ein Pferdeekutsch
-* Barben: französischer Akzent
+* **Barben**: französischer Akzent
     * jedes "ch" => "sch"
     * keine "h"
     * a => o
     * falsches grammatisches Geschlecht
     * Merkspruch: isch säe einö 'übschen Kühlschronk
-* Lunare: knauffffeln
+* **Lunare**: knauffffeln
     * jedes "ch" => "f"
     * jedes "s" => "f"
     * jedes "sch" => "f"
