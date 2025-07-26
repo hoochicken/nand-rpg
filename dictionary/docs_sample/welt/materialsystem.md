@@ -567,16 +567,16 @@ Ideal für Kommandoposten, Notunterkünfte und Langzeiteinsätze.
 
 **PNT-4 – PlasTitan-Standard®**
 
-• Keramik-Metall-Verbundstoff mittlerer Dichte
-• Kugelhemmend, stoßverteilend, gegen Projektilsplitter geeignet
-• Eingesetzt in Schutzwesten, Rückenplatten und Exo-Module regulärer Truppen
+* Keramik-Metall-Verbundstoff mittlerer Dichte
+* Kugelhemmend, stoßverteilend, gegen Projektilsplitter geeignet
+* Eingesetzt in Schutzwesten, Rückenplatten und Exo-Module regulärer Truppen
 
 **PNT-7E – PlasTitan-Elite®**
 
-• Hochentwickelter Leichtverbund mit Titanfaseranteil
-• Extrem leicht, hitzebeständig und extrem widerstandsfähig
-• Ermöglicht uneingeschränkte Bewegung trotz hoher Schutzwirkung
-• Bestandteil spezialisierter Elitepanzerungen
+* Hochentwickelter Leichtverbund mit Titanfaseranteil
+* Extrem leicht, hitzebeständig und extrem widerstandsfähig
+* Ermöglicht uneingeschränkte Bewegung trotz hoher Schutzwirkung
+* Bestandteil spezialisierter Elitepanzerungen
 
 ## 🥽 Block 09: Helm- & Visiermaterialien _(inkl. günstigem Kadettenmaterial)_
 
@@ -592,24 +592,24 @@ Ideal für Kommandoposten, Notunterkünfte und Langzeiteinsätze.
 
 **VSL-2 – VisLite-PolyShield®**
 
-• Einfache Polycarbonat-Scheibe für Kadetteneinsätze und Stationsausbildung
-• Stoßresistent gegen leichte Treffer oder Bewegungen im Habitat
-• UV-abweisend, nicht kratzfest, keine HUD-Integration
-• Wird in günstigen Trainingshelmen und Leichtschutzsystemen eingesetzt
+* Einfache Polycarbonat-Scheibe für Kadetteneinsätze und Stationsausbildung
+* Stoßresistent gegen leichte Treffer oder Bewegungen im Habitat
+* UV-abweisend, nicht kratzfest, keine HUD-Integration
+* Wird in günstigen Trainingshelmen und Leichtschutzsystemen eingesetzt
 
 **SIL-7 – Silicorit-Sichtscheibe**
 
-• Transparentes Silikatgemisch mit erhöhter Bruchfestigkeit
-• Splittert nicht, absorbiert Druckstöße im Innenraum
-• Wird in Standardhelmen und modularen Visiereinheiten verbaut
-• Geringes Gewicht, auch bei Kadetten-Stiefelklassen verwendbar
+* Transparentes Silikatgemisch mit erhöhter Bruchfestigkeit
+* Splittert nicht, absorbiert Druckstöße im Innenraum
+* Wird in Standardhelmen und modularen Visiereinheiten verbaut
+* Geringes Gewicht, auch bei Kadetten-Stiefelklassen verwendbar
 
 **VSX-9 – Visarite-Laminat**
 
-• Speziallaminat aus beschichtetem Polycarbonatglas
-• Kompatibel mit HUDs, IR-durchlässig, stoß- & temperaturfest
-• Wird in Elitehelmen verbaut – taktische Missionen mit Digitalvisier
-• Extrem klare Sicht, kratz- und blitzresistent
+* Speziallaminat aus beschichtetem Polycarbonatglas
+* Kompatibel mit HUDs, IR-durchlässig, stoß- & temperaturfest
+* Wird in Elitehelmen verbaut – taktische Missionen mit Digitalvisier
+* Extrem klare Sicht, kratz- und blitzresistent
 
 ## 🧣 Block 10: Zusatztextilien – Lager, Tarnung, Notfall
 
@@ -625,18 +625,18 @@ Ideal für Kommandoposten, Notunterkünfte und Langzeiteinsätze.
 
 **LWF-09 – Lightweight Flexweave®**
 
-• Dünnes, elastisches Textil mit hervorragender Feuchtigkeitsregulierung
-• Wird als Basisschicht unter Uniformen oder Raumanzügen getragen
-• Leitet statische Ladung ab – verbessert die Kompatibilität mit Elektronik
+* Dünnes, elastisches Textil mit hervorragender Feuchtigkeitsregulierung
+* Wird als Basisschicht unter Uniformen oder Raumanzügen getragen
+* Leitet statische Ladung ab – verbessert die Kompatibilität mit Elektronik
 
 **TDC-5 – Thermal Dust Cloak®**
 
-• Spezieller Umhangstoff für mobile Einsätze und Sandsturm-Abschirmung
-• Isolierend gegen Hitze/Kälte, winddicht, kein Rascheln – ideal für Tarnung
-• Wird über Ausrüstung getragen – oft bei Offizieren, Fernspähern oder Aufsehern
+* Spezieller Umhangstoff für mobile Einsätze und Sandsturm-Abschirmung
+* Isolierend gegen Hitze/Kälte, winddicht, kein Rascheln – ideal für Tarnung
+* Wird über Ausrüstung getragen – oft bei Offizieren, Fernspähern oder Aufsehern
 
 **BME-3 – BioMesh Emergency®**
 
-• Einfaches Nottextil für temporäre Kleidung
-• Antibakteriell, feuerverzögert, günstig zu produzieren
-• Verwendung in Feldlazaretten, Evakuierungen oder Nachschubserien
+* Einfaches Nottextil für temporäre Kleidung
+* Antibakteriell, feuerverzögert, günstig zu produzieren
+* Verwendung in Feldlazaretten, Evakuierungen oder Nachschubserien
