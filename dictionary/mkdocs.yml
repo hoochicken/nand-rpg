@@ -79,12 +79,14 @@ nav:
       - "Sonnensystem": "welt/sonnensystem.md"
       - "Quantenraum": "welt/quantenraum.md"
       - "Karten": "welt/karten.md"
+  - "Ausrüstung":
+      - "Allgemein": "ausruestung/index.md"
+      - "Geraffel": "ausruestung/geraffel.md"
+      - "Anzüge": "ausruestung/anzuege.md"
+      - "Helme": "ausruestung/helme.md"
+      - "Leichtatmer": "ausruestung/leichtatmer-und-handschuhe.md"
   - "Technik":
       - "Allgemein": "technik/index.md"
-      - "Anzüge":
-          - "Anzüge": "technik/anzuege.md"
-          - "Helme": "technik/helme.md"
-          - "Leichtatmer": "technik/leichtatmer-und-handschuhe.md"
       - "Medizin": "technik/medizin.md"
       - "Kommunikation": "technik/kommunikation.md"
       - "Vehikel": "technik/vehikel.md"
