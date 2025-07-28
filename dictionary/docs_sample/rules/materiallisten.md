@@ -282,14 +282,14 @@
 | **Kürzel** | **Bezeichnung** | **Gewicht** | **Schutzklasse** | **Verwendung** | **Einheit** |
 | --- | --- | --- | --- | --- | --- |
 | PNT-4 | PlasTitan-Standard® | mittel | 5   | Standard-Plattenträger | regulär |
-| PNT-7E | PlasTitan-Elite® | leicht | 6+  | Elite-Außenpanzerung | elite |
+| PNT-7E | PlasTitan-Elite® | leicht | 6+  | Elite-Aussenpanzerung | elite |
 
 **🔍 Technische Beschreibung**
 
 **PNT-4 – PlasTitan-Standard®**
 
 * Keramik-Metall-Verbundstoff mittlerer Dichte
-* Kugelhemmend, stoßverteilend, gegen Projektilsplitter geeignet
+* Kugelhemmend, stossverteilend, gegen Projektilsplitter geeignet
 * Eingesetzt in Schutzwesten, Rückenplatten und Exo-Module regulärer Truppen
 
 **PNT-7E – PlasTitan-Elite®**
@@ -305,30 +305,30 @@
 
 | **Kürzel** | **Bezeichnung** | **Schutzklasse** | **Eigenschaften** | **Verwendung** |
 | --- | --- | --- | --- | --- |
-| **VSL-2** | VisLite-PolyShield® | 2   | Leicht, stoßresistent, kostengünstig | Kadettenhelme, Übungsvisiere |
+| **VSL-2** | VisLite-PolyShield® | 2   | Leicht, stossresistent, kostengünstig | Kadettenhelme, Übungsvisiere |
 | **SIL-7** | Silicorit-Sichtscheibe | 3   | Transparent, splitterhemmend, leicht | Standard-Visiere, Sekundärhelme |
-| **VSX-9** | Visarite-Laminat | 4–5 | HUD-fähig, kratzfest, stoßsicher | Elitehelme, Sensorvisiere |
+| **VSX-9** | Visarite-Laminat | 4–5 | HUD-fähig, kratzfest, stosssicher | Elitehelme, Sensorvisiere |
 
 **🔍 Technische Beschreibung**
 
 **VSL-2 – VisLite-PolyShield®**
 
 * Einfache Polycarbonat-Scheibe für Kadetteneinsätze und Stationsausbildung
-* Stoßresistent gegen leichte Treffer oder Bewegungen im Habitat
+* Stossresistent gegen leichte Treffer oder Bewegungen im Habitat
 * UV-abweisend, nicht kratzfest, keine HUD-Integration
 * Wird in günstigen Trainingshelmen und Leichtschutzsystemen eingesetzt
 
 **SIL-7 – Silicorit-Sichtscheibe**
 
 * Transparentes Silikatgemisch mit erhöhter Bruchfestigkeit
-* Splittert nicht, absorbiert Druckstöße im Innenraum
+* Splittert nicht, absorbiert Druckstösse im Innenraum
 * Wird in Standardhelmen und modularen Visiereinheiten verbaut
 * Geringes Gewicht, auch bei Kadetten-Stiefelklassen verwendbar
 
 **VSX-9 – Visarite-Laminat**
 
 * Speziallaminat aus beschichtetem Polycarbonatglas
-* Kompatibel mit HUDs, IR-durchlässig, stoß- & temperaturfest
+* Kompatibel mit HUDs, IR-durchlässig, stoss- & temperaturfest
 * Wird in Elitehelmen verbaut – taktische Missionen mit Digitalvisier
 * Extrem klare Sicht, kratz- und blitzresistent
 

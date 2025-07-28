@@ -78,6 +78,7 @@ nav:
   - "Welt":
       - "Mars": "welt/mars.md"
       - "Bromsal": "welt/bromsal.md"
+      - "Zeitlinien": "welt/timeline.md"
       - "Sonnensystem": "welt/sonnensystem.md"
       - "Quantenraum": "welt/quantenraum.md"
       - "Karten": "welt/karten.md"
