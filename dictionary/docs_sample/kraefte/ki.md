@@ -7,7 +7,7 @@ kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie 
 voranzutreiben und betrieben die grossen Planetoformanlagen.
 
 ![Autonome KI](../_images/skizzen/aki.jpg)
-![image](../_images/skizzen/aki2.jpg)
+![AKI, Skizze](../_images/skizzen/aki2.jpg)
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 
@@ -34,7 +34,7 @@ Nach dem Krieg wird die Sicherheit der KIs über die Ersten Robotergesetze siche
 Bürgern gleichgestellt. Diese Zeit der Ruhe währt eine ganze Weile, bis 30 Jahre später, XYZ passiert, was den Hass
 auf die KI erneut anfacht.
 
-Wieder gibt es Pogrome und Aufstände - die Fanatiker selbst bezeichnen dies als den [Heiligen Krieg](/kraefte/ki/#was_passiert_im_heiligen_krieg) -, welche zu den Zweiten Robotergesetzen führt. Diese dienen nicht mehr der Sichrheit der KIs, sondern der Beschränkung ihrer Rechte.
+Wieder gibt es Pogrome und Aufstände - die Fanatiker selbst bezeichnen dies als den Heiligen Krieg -, welche zu den Zweiten Robotergesetzen führt. Diese dienen nicht mehr der Sichrheit der KIs, sondern der Beschränkung ihrer Rechte.
 Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
 ## KI – verschiedene Typen und Baureihen
