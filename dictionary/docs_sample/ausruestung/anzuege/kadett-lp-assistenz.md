@@ -1,3 +1,5 @@
+## Piloten-Anzug - mit Kommunikationssystem
+
 ### 🔖 AUSRÜSTUNG: Piloten-Kommunikationssystem
 
 * Anzug: A-P-x-x-3.1

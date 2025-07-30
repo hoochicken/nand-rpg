@@ -1,4 +1,4 @@
-### 📄 Kadettenaußeneinsatzsystem – Typ CLx-01
+### 📄 Kadettenausseneinsatzsystem – Typ CLx-01
 
 * 🏷️ Gebrauchsbezeichnung: Anzug CLx-01
 * 🗣️ Spitzname in der Truppe: Kadettenpellwurst
@@ -11,14 +11,14 @@
 
 | 🆔 Artikel-ID | Bemerkung                                                          |
 |---------------|--------------------------------------------------------------------|
-| CLA-1000001   | Kadetten · Kleidung · Außeneinsatzanzug                            |
+| CLA-1000001   | Kadetten · Kleidung · Ausseneinsatzanzug                            |
 | CLS-1000501   | Kadetten · Kleidung · Stiefel                                      |
 | CLH-1000301   | Kadetten · Kleidung · Helm                                         |
 | UAX-6010101IR | Universal · Atemsystem · Filtermodul; IN-kompatibel, regenerierbar |
 
 **🎯 Verwendung**
 
-* Außeneinsätze im Ausbildungsrahmen
+* Ausseneinsätze im Ausbildungsrahmen
 * Technische Schulungen, Kartenübungen
 * Orientierungsläufe unter Aufsicht
 * Schleusennahe Reparaturen oder Kontrollgänge
@@ -26,7 +26,7 @@
 
 **📄 Allgemeines**
 
-Der Außeneinsatzanzug CLx-01 ist das standardisierte Ausbildungsmodell für Mars-Kadetten bei leichten Außeneinsätzen
+Der Ausseneinsatzanzug CLx-01 ist das standardisierte Ausbildungsmodell für Mars-Kadetten bei leichten Ausseneinsätzen
 unter kontrollierten Bedingungen.
 Er bietet Basisschutz bei Bewegungsübungen, technischen Schulungen und Schleusengängen und ist vollständig modular
 aufgebaut.
@@ -81,7 +81,7 @@ Schnittstellen der Bodentruppen.
 * Vollhelm ohne separates Visier – komplett geschlossenes Sichtsystem
 * Passiv druckausgleichend, jedoch nicht vakuumtauglich
 * Helmkuppel vollständig abnehmbar, mit seitlichen Riegeln gesichert
-* Stoßresistenter Helmbasisring mit Anschluss an Filtereinheit
+* Stossresistenter Helmbasisring mit Anschluss an Filtereinheit
 * Kein integriertes Funk- oder Sensorsystem
 * Innenfassung mit verstellbaren Trägern und weicher Komfortpolsterung
 * Speziell für den Ausbildungsbetrieb unter Marsbedingungen konzipiert
@@ -90,7 +90,7 @@ Schnittstellen der Bodentruppen.
 
 Geeignet für:
 
-* Bewegungstrainings außerhalb der Station
+* Bewegungstrainings ausserhalb der Station
 * Wartungsaufgaben unter Anleitung
 * Ausbildung in Schleusennähe
 * Orientierungsübungen mit begrenzter Reichweite

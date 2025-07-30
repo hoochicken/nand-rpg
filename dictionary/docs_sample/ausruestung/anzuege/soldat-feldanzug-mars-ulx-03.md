@@ -18,8 +18,8 @@
 
 * Universale Dienstkleidung für Habitatstationen
 * Schulungseinsätze, Ausbildung, Kadettenbetrieb
-* Außeneinsätze bedingt ohne Zusatzschutz oder Raumanzug
-* Trägerschicht für Außeneinsatzanzüge GLx/CLx
+* Ausseneinsätze bedingt ohne Zusatzschutz oder Raumanzug
+* Trägerschicht für Ausseneinsatzanzüge GLx/CLx
 * Technischer Dienst, Lagerlogistik, Kontrollgänge
 
 **📡 Einsatzprofil**
@@ -28,11 +28,11 @@ Geeignet für:
 
 * Habitatbetrieb, Schleusen, Technikbereiche
 * Ausbildung, Logistik, Kurzzeiteinsätze
-* Trägerschicht unter Außeneinsatzanzügen (z. B. CLx-01 / GLx-03P / GLx-04P)
+* Trägerschicht unter Ausseneinsatzanzügen (z. B. CLx-01 / GLx-03P / GLx-04P)
 
 Nicht empfohlen für:
 
-* Hochbelastete Außenzonen ohne weiteren Schutz
+* Hochbelastete Aussenzonen ohne weiteren Schutz
 * Vakuum, kontaminierte Zonen
 * Taktische oder Langzeitoperationen
 
@@ -47,11 +47,11 @@ Nicht empfohlen für:
 **📄 Allgemeines**
 
 Der ULx-03 ist ein modular aufgebautes Bekleidungssystem für den marsianischen Habitatbetrieb sowie vorbereitende
-Außeneinsätze.
+Ausseneinsätze.
 Er wird von sämtlichen Truppenteilen genutzt – besonders von Kadetten, technischen Einheiten, Wartungspersonal und
 Stationsdiensten.
 Das System ist rotationsfähig, kombinierbar mit Atem- und Schutzsystemen und dient häufig als Unterkleidung für
-Außeneinsatzanzüge.
+Ausseneinsatzanzüge.
 
 **🛠️ Material und Aufbau**
 
