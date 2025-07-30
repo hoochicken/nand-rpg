@@ -1,4 +1,8 @@
+### Kadettenanzug "Typ K-1R"
+
 Verwendung: Ausseneinsätze · Geländeübungen · Ausbildungsexpeditionen auf der Marsoberfläche
+
+![Aussenanzug](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage-02.jpg)
 
 **🧰 Allgemeines**
 

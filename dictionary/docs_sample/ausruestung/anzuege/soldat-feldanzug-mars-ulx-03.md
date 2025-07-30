@@ -1,4 +1,4 @@
-**📄 Feldanzug Mars ULx-03**
+### 📄 Feldanzug Mars ULx-03
 
 **🧾 Ausrüstungseintrag**
 
@@ -22,84 +22,6 @@
 * Trägerschicht für Außeneinsatzanzüge GLx/CLx
 * Technischer Dienst, Lagerlogistik, Kontrollgänge
 
-**📄 Allgemeines**
-
-Der ULx-03 ist ein modular aufgebautes Bekleidungssystem für den marsianischen Habitatbetrieb sowie vorbereitende
-Außeneinsätze.
-Er wird von sämtlichen Truppenteilen genutzt – besonders von Kadetten, technischen Einheiten, Wartungspersonal und
-Stationsdiensten.
-Das System ist rotationsfähig, kombinierbar mit Atem- und Schutzsystemen und dient häufig als Unterkleidung für
-Außeneinsatzanzüge.
-
-**🛠️ Material und Aufbau**
-
-### Feldbluse (ULF-6000203)
-
-* Gewebematerial: FLX-55 – FlexLight-Standard®
-* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
-
-**Eigenschaften**
-
-* Atmungsaktiv
-* Staubabweisend
-* Marsstaubkompatibel
-* Farbgebung: einfarbig Mars-Terrakotta (staubreduzierend, dienstlich genormt)
-
-**Konstruktionsmerkmale**
-
-* Flachkragen mit Druckknopfleiste
-* Brusttaschen mit Klappe
-* Leicht elastische Schnittführung
-
-### Hose (ULT-6000103)
-
-* Gewebematerial: FLX-55 – FlexLight-Standard®
-* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
-
-**Eigenschaften**
-
-* Elastisch
-* Langlebig
-* Marsstaubresistent
-* Farbgebung: einfarbig Mars-Terrakotta (dienstlich genormt)
-
-**Konstruktionsmerkmale**
-
-* Verstärkte Nähte an Belastungspunkten
-* Elastischer Hosenbund
-* Seitentaschen mit Patte
-
-### Stiefel (ULS-6000503)
-
-* Material: STX-55 – StepTex-Standard®
-* Schutzklasse: 2–3 · Flexibilität: gut · Profilhaftung: hoch
-
-**Eigenschaften**
-
-* Schleusentauglich
-* Rutschhemmende Anti-Staub-Sohle
-* Hoher Tragekomfort durch elastischen Schaft
-
-**Konstruktionsmerkmale**
-
-* Polymerüberzug im unteren Bereich
-* Schnellschnürsystem mit Riegelsicherung
-* Halbhoch mit Knöchelunterstützung
-
-### Leichtatmer (UAL-6000003I)
-
-* Kategorisierung: Universal · Atemsystem · Leichtatmer – Modell 6000003I – IN-kompatibel
-* Artikel-ID: UAL-6000003I
-
-**Eigenschaften**
-
-* Halbmaskiger Leichtatmer mit Bajonett-Aufnahme
-* Trageweise: Kopfgetragen mit Nackenband und Ohrenverankerung
-* Material: Polymergehäuse mit Rückschlagventil
-* Anschluss: kompatibel mit austauschbarem Filtermodul UAX-6010111IR
-* Kompatibilität: Raumanzughelme, Kadettenanzüge, Habitatdienst
-* Farbgebung: Dunkles Mars-Rotbraun, matt lackiert (an Anzugsfarbton angepasst)
-
 **📡 Einsatzprofil**
 
 Geeignet für:
@@ -121,3 +43,81 @@ Nicht empfohlen für:
 * Kompatibel mit IN-Filtersystem
 * Farbgebung reduziert Staubanhaftung
 * Bestandsführung über zentrale Materialausgabe
+
+**📄 Allgemeines**
+
+Der ULx-03 ist ein modular aufgebautes Bekleidungssystem für den marsianischen Habitatbetrieb sowie vorbereitende
+Außeneinsätze.
+Er wird von sämtlichen Truppenteilen genutzt – besonders von Kadetten, technischen Einheiten, Wartungspersonal und
+Stationsdiensten.
+Das System ist rotationsfähig, kombinierbar mit Atem- und Schutzsystemen und dient häufig als Unterkleidung für
+Außeneinsatzanzüge.
+
+**🛠️ Material und Aufbau**
+
+#### Feldbluse (ULF-6000203)
+
+* Gewebematerial: FLX-55 – FlexLight-Standard®
+* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
+
+**Eigenschaften**
+
+* Atmungsaktiv
+* Staubabweisend
+* Marsstaubkompatibel
+* Farbgebung: einfarbig Mars-Terrakotta (staubreduzierend, dienstlich genormt)
+
+**Konstruktionsmerkmale**
+
+* Flachkragen mit Druckknopfleiste
+* Brusttaschen mit Klappe
+* Leicht elastische Schnittführung
+
+#### Hose (ULT-6000103)
+
+* Gewebematerial: FLX-55 – FlexLight-Standard®
+* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
+
+**Eigenschaften**
+
+* Elastisch
+* Langlebig
+* Marsstaubresistent
+* Farbgebung: einfarbig Mars-Terrakotta (dienstlich genormt)
+
+**Konstruktionsmerkmale**
+
+* Verstärkte Nähte an Belastungspunkten
+* Elastischer Hosenbund
+* Seitentaschen mit Patte
+
+#### Stiefel (ULS-6000503)
+
+* Material: STX-55 – StepTex-Standard®
+* Schutzklasse: 2–3 · Flexibilität: gut · Profilhaftung: hoch
+
+**Eigenschaften**
+
+* Schleusentauglich
+* Rutschhemmende Anti-Staub-Sohle
+* Hoher Tragekomfort durch elastischen Schaft
+
+**Konstruktionsmerkmale**
+
+* Polymerüberzug im unteren Bereich
+* Schnellschnürsystem mit Riegelsicherung
+* Halbhoch mit Knöchelunterstützung
+
+#### Leichtatmer (UAL-6000003I)
+
+* Kategorisierung: Universal · Atemsystem · Leichtatmer – Modell 6000003I – IN-kompatibel
+* Artikel-ID: UAL-6000003I
+
+**Eigenschaften**
+
+* Halbmaskiger Leichtatmer mit Bajonett-Aufnahme
+* Trageweise: Kopfgetragen mit Nackenband und Ohrenverankerung
+* Material: Polymergehäuse mit Rückschlagventil
+* Anschluss: kompatibel mit austauschbarem Filtermodul UAX-6010111IR
+* Kompatibilität: Raumanzughelme, Kadettenanzüge, Habitatdienst
+* Farbgebung: Dunkles Mars-Rotbraun, matt lackiert (an Anzugsfarbton angepasst)

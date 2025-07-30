@@ -1,4 +1,4 @@
-**🔖 AUSRÜSTUNG: Piloten-Kommunikationssystem**
+### 🔖 AUSRÜSTUNG: Piloten-Kommunikationssystem
 
 * Anzug: A-P-x-x-3.1
 * Helm: H-P-N-x-1.1
@@ -15,39 +15,6 @@
 
 Das Piloten-Kommunikationssystem besteht aus einem modularen Fluganzug (Typ A-P-x-x-3.1), einem felinisch angepassten IN-Helm (Typ H-P-N-x-1.1) und einem helmgetragenen Leichtatmer mit Mikrofonmodul (Typ L-P-M-H-1.2).
 Es ermöglicht die sichere Teilnahme an kolonialen Raumflugoperationen im atmosphärisch abgeschirmten Bereich – mit Bordfunkintegration und anatomischer Kompatibilität für felinische Nutzer.
-
-**👕 Anzug A-P-x-x-3.1**
-
-* Einteiler mit Reissverschlussfront und verstärkten Nähten
-* Material: Mars-PolyFas (atmungsaktiv, staubgeschützt)
-* Ausrüstungspunkte:
-    * 2 Brusttaschen mit Patte
-    * 2 Oberschenkeltaschen mit Reissverschluss
-    * 1 Oberarmtasche (links)
-* Brustabzeichen „Flugdienst“
-* Farbe: Flugdienst-Standard rostbraun
-
-**Helm H-P-N-x-1.1 (Modifizierter IN-Helm)**
-
-* Konstruktion gemäss Interstellarer Norm (IN), angepasst für felinische Kopfgeometrie
-* Lautsprechereinheiten oberhalb des Helmzentrums (felinische Ohrenposition)
-* Keine internen Sendeeinheiten – reines Empfangssystem
-* Seitenpolster ohne Technik – dienen der Stabilisierung
-* Funkverbindung ausschliesslich über externe Quelle (z. B. Bordfunkgerät)
-
-**😷 Leichtatmer L-P-M-H-1.2**
-
-* Kompaktsystem, direkt am Helm befestigt
-* Integriertes Mikrofonmodul mit Rauschunterdrückung
-* Direkte Verbindung zum Bordkommunikationssystem (keine Kabelverlegung notwendig)
-* Dreifach-Belüftung, Dichtsitz unter dem Helmrand
-* Wartungsfreundliche Filtereinheit
-
-**🥾 Stiefel (Flugeinsatzmodell)**
-
-* Staubabweisend, antistatisch
-* Flaches Schnürsystem für Gurtsystemkompatibilität
-* Profilsohle für optimalen Halt in Steuerpedalen
 
 **📡 Einsatzprofil & Einschränkungen**
 
@@ -86,3 +53,36 @@ Nicht geeignet für:
 * Abteilung für Flugdienststandardisierung – OKKT (Oberkommando Kolonialtechnik)
 * etzte Überarbeitung: [Datum eintragen]
 * tatus: aktiv – Ausgabe erfolgt zentral über Staffelversorgung
+
+#### 👕 Anzug A-P-x-x-3.1
+
+* Einteiler mit Reissverschlussfront und verstärkten Nähten
+* Material: Mars-PolyFas (atmungsaktiv, staubgeschützt)
+* Ausrüstungspunkte:
+    * 2 Brusttaschen mit Patte
+    * 2 Oberschenkeltaschen mit Reissverschluss
+    * 1 Oberarmtasche (links)
+* Brustabzeichen „Flugdienst“
+* Farbe: Flugdienst-Standard rostbraun
+
+#### Helm H-P-N-x-1.1 (Modifizierter IN-Helm)
+
+* Konstruktion gemäss Interstellarer Norm (IN), angepasst für felinische Kopfgeometrie
+* Lautsprechereinheiten oberhalb des Helmzentrums (felinische Ohrenposition)
+* Keine internen Sendeeinheiten – reines Empfangssystem
+* Seitenpolster ohne Technik – dienen der Stabilisierung
+* Funkverbindung ausschliesslich über externe Quelle (z. B. Bordfunkgerät)
+
+#### 😷 Leichtatmer L-P-M-H-1.2
+
+* Kompaktsystem, direkt am Helm befestigt
+* Integriertes Mikrofonmodul mit Rauschunterdrückung
+* Direkte Verbindung zum Bordkommunikationssystem (keine Kabelverlegung notwendig)
+* Dreifach-Belüftung, Dichtsitz unter dem Helmrand
+* Wartungsfreundliche Filtereinheit
+
+#### 🥾 Stiefel (Flugeinsatzmodell)
+
+* Staubabweisend, antistatisch
+* Flaches Schnürsystem für Gurtsystemkompatibilität
+* Profilsohle für optimalen Halt in Steuerpedalen

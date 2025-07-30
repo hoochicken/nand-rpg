@@ -1,3 +1,5 @@
+### 📡 Kommunikationssystem – Externes Kadetten-Funkmodul "K-Radio/01"
+
 Verwendungszweck: Gruppenkommunikation bei Ausbildungsexpeditionen · Verbindung zur Aufsicht
 
 **🔧 Technische Umsetzung**
