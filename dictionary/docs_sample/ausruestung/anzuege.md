@@ -82,19 +82,15 @@ EVA für Außeneinsätze im Weltraum
 
 ![EVA Standard](../../_images/technologie/militaerische-ausruestung/anzuege/eva-standard.png)
 
-### Bord-Anzug Kampfhandlung
-
-Bord-Anzug bei bevorstehenden Kampfhandlungen und Not Situationen bei denen autonome Luftversorgung nötig ist.
-
 ### Bord-Anzug Kampfhandlung - Marser-Helm
 
-Bord-Anzug, hier kombiniert mit Helm nach Mars-Standard.
+Bord-Anzug, hier kombiniert mit Helm nach Mars-Standard. Bei bevorstehenden Kampfhandlungen und Not Situationen bei denen autonome Luftversorgung nötig ist.
 
 ![Bequemer Bordanzug](../../_images/technologie/militaerische-ausruestung/anzuege/eva-semi.png)
 
 ### Bord-Anzug Kampfhandlung - IIN-Helm
 
-Bord-Anzug, hier kombiniert mit IIN-Helm.
+Bord-Anzug, hier kombiniert mit IIN-Helm. Bei bevorstehenden Kampfhandlungen und Not Situationen bei denen autonome Luftversorgung nötig ist.
 
 ![Bequemer Bordanzug](../../_images/technologie/militaerische-ausruestung/anzuege/eva-semi-iin.png)
 
