@@ -31,7 +31,7 @@ pip install markdown-include
 
 * Plugin https://github.com/mondeja/mkdocs-include-markdown-plugin
 * config in mkdocs.yml
-* user relative path in folliowing tag `{% include-markdown "../welt/karten/bromsal-und-umgebung.md" %}`
+* user relative path in following tag `{% include-markdown "../welt/karten/bromsal-und-umgebung.md" %}`
 
 ## Slider ??
 
