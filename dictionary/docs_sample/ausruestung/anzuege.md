@@ -34,15 +34,13 @@
 
 ## Kadett Standard
 
-![Kadetten-Anzug mit Helm und Tornister](../../_images/technologie/militaerische-ausruestung/anzuege/anzug-helm-abgezogen-filter.jpg)
+{% include-markdown "./anzuege/kadett-standard.md" %}
 
 ## Rüstungen
 
 ### Vollrüstung Militär
 
-![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
-
-![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-01.jpg)
+{% include-markdown "./anzuege/ruestung-voll.md" %}
 
 ## Rüstungen
 
@@ -52,7 +50,7 @@
 
 ## Prototyp Terra
 
-![Vollrüstung Prototyp](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-terra-prototyp.jpg)
+{% include-markdown "./anzuege/terra-prototyp.md" %}
 
 ## Scuba
 
@@ -60,45 +58,33 @@ Für Tauchgänge in Wasserseen und Wasser-Flüssen.
 
 ### Kleiner Scuba
 
-![Vollrüstung Scuba](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-03-scuba.jpg)
+{% include-markdown "./anzuege/scuba-klein.md" %}
 
 ### Tiefen-Scuba
 
-![Tiefen-Scuba](../../_images/technologie/militaerische-ausruestung/anzuege/taucheranzug.png)
+{% include-markdown "./anzuege/scuba-tiefen.md" %}
 
 ### Atemgerät für Tiefen-Scuba
 
-Dieses Atemgerät basiert auf einem Kreislauf. Man nennt es auch "Kreislauftauchgerät".
-Ein Kreislauftauchgerät oder Kreislaufatemgerät reinigt die ausgeatmete Luft, um diese danach wieder mit Sauerstoff anzureichern.
-Dies ermöglicht lange Tauchgänge, denn weniger Atemgas wird verbraucht.
-
-![Atmungs-Gerät](../../_images/technologie/militaerische-ausruestung/anzuege/taucheranzug-atem-geraet.png)
+{% include-markdown "./anzuege/scuba-atem-geraet.md" %}
 
 ## Raumanzüge und Anzüge in Raumschiffen
 
 ### Standard EVA Extra Vehicular Activity-Anzüge
 
-EVA für Außeneinsätze im Weltraum
+{% include-markdown "./anzuege/eva-standard.md" %}
 
-![EVA Standard](../../_images/technologie/militaerische-ausruestung/anzuege/eva-standard.png)
+### EVA/Bord-Anzug Kampfhandlung - Marser-Helm
 
-### Bord-Anzug Kampfhandlung - Marser-Helm
+{% include-markdown "./anzuege/eva-bord-marser-helm.md" %}
 
-Bord-Anzug, hier kombiniert mit Helm nach Mars-Standard. Bei bevorstehenden Kampfhandlungen und Not Situationen bei denen autonome Luftversorgung nötig ist.
+### EVA/Bord-Anzug Kampfhandlung - IIN-Helm
 
-![Bequemer Bordanzug](../../_images/technologie/militaerische-ausruestung/anzuege/eva-semi.png)
-
-### Bord-Anzug Kampfhandlung - IIN-Helm
-
-Bord-Anzug, hier kombiniert mit IIN-Helm. Bei bevorstehenden Kampfhandlungen und Not Situationen bei denen autonome Luftversorgung nötig ist.
-
-![Bequemer Bordanzug](../../_images/technologie/militaerische-ausruestung/anzuege/eva-semi-iin.png)
+{% include-markdown "./anzuege/eva-bord-iin-helm.md" %}
 
 ### Bord-Anzug
 
-Bord-Anzug, bequem
-
-![Bequemer Bordanzug](../../_images/technologie/militaerische-ausruestung/anzuege/bord-anzug.png)
+{% include-markdown "./anzuege/bord-anzug.md" %}
 
 ### Bord-Anzug Normal
 

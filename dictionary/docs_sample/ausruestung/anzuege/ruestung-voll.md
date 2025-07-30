@@ -1,5 +1,9 @@
 Verwendung: Ausseneinsätze · Geländeübungen · Ausbildungsexpeditionen auf der Marsoberfläche
 
+![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
+
+![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-01.jpg)
+
 **🧰 Allgemeines**
 
 Der Kadettenanzug "Typ K-1R" ist ein leichter Ausseneinsatzanzug für Nachwuchspersonal und Schulungseinsätze ausserhalb der Stationen. Er schützt zuverlässig vor Staub, UV-Strahlung, Kälte und dünner Atmosphäre – bei hoher Bewegungsfreiheit und robuster Konstruktion. Der Anzug ist für angeleitete Expeditionen unter Normaldruckbedingungen konzipiert und entspricht den kolonialen Sicherheitsstandards für Kadettenausbildung.

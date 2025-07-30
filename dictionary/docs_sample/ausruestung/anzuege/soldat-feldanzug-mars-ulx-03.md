@@ -1,55 +1,65 @@
-**🧾 Ausrüstungseintrag: Feldanzug Mars ULx-03 – Typ ULx-03**
+**📄 Feldanzug Mars ULx-03**
 
-**📘 Artikel (Langtext):
+**🧾 Ausrüstungseintrag**
 
-* Universal · Kleidung · Feldbluse – Modell 6000203
-* Universal · Kleidung · Hose – Modell 6000103
-* Universal · Kleidung · Stiefel – Modell 6000503
-* Universal · Atemsystem · Leichtatmer – Modell 6000003 – IN-kompatibel
+**📘 Artikel**
 
-* 🆔 Artikel-ID:*
+| Artikel-ID   | Bemerkung                                            |
+|--------------|------------------------------------------------------|
+| ULF-6000203  | Universal · Kleidung · Feldbluse                     |
+| ULT-6000103  | Universal · Kleidung · Hose                          |
+| ULS-6000503  | Universal · Kleidung · Stiefel                       |
+| UAL-6000003I | Universal · Atemsystem · Leichtatmer, IIN-kompatibel |
 
-* ULF-6000203
-* ULT-6000103
-* ULS-6000503
-* UAL-6000003I
-
-**🏷️ Gebrauchsbezeichnung: Feldanzug Mars ULx-03**
-
+* 🏷️ Gebrauchsbezeichnung: Feldanzug Mars ULx-03
 * 🗣️ Spitzname in der Truppe: Stubenhocker
 
-**🎯 Verwendung**
+**Verwendung**
 
 * Universale Dienstkleidung für Habitatstationen
 * Schulungseinsätze, Ausbildung, Kadettenbetrieb
-* Ausseneinsätze mit Zusatzschutz oder Raumanzug
-* Trägerschicht für Anzugsysteme und Leichtatmer
+* Außeneinsätze bedingt ohne Zusatzschutz oder Raumanzug
+* Trägerschicht für Außeneinsatzanzüge GLx/CLx
 * Technischer Dienst, Lagerlogistik, Kontrollgänge
 
 **📄 Allgemeines**
-
-* Der ULx-03 ist ein modular aufgebautes Bekleidungssystem für den marsianischen Habitatbetrieb und grundlegende Ausseneinsätze.
-* Er wird von sämtlichen Truppenteilen genutzt, insbesondere jedoch von Kadetten, technischen Dienstleistern und Wachpersonal.
-* Er ist rotationsfähig, mehrlagig aufgebaut und kombinierbar mit Zusatzschutzsystemen.
+Der ULx-03 ist ein modular aufgebautes Bekleidungssystem für den marsianischen Habitatbetrieb sowie vorbereitende
+Außeneinsätze.
+Er wird von sämtlichen Truppenteilen genutzt – besonders von Kadetten, technischen Einheiten, Wartungspersonal und
+Stationsdiensten.
+Das System ist rotationsfähig, kombinierbar mit Atem- und Schutzsystemen und dient häufig als Unterkleidung für
+Außeneinsatzanzüge.
 
 **🛠️ Material und Aufbau**
 
-* Feldbluse (ULF-6000203):
-    * Material: FLX-55 – FlexLight-Standard®
-    * Eigenschaften: atmungsaktiv, staubabweisend, für kontrollierte Ausseneinsätze
-    * Ausstattung: Flachkragen, Druckknopfleiste, Brusttaschen
-    * Farbe: Mars-Terrakotta
-* Hose (ULT-6000103):
-    * Material: FLX-55 – FlexLight-Standard®
-    * Eigenschaften: elastisch, marsstaubresistent, langlebig
-    * Ausstattung: verstärkte Nähte, elastischer Bund, Seitentaschen
-* Stiefel (ULS-6000503):
-    * Material: STX-55 – StepTex-Standard®
-    * Eigenschaften: Anti-Staub-Sohle, hoher Tragekomfort, schleusentauglich
-    * Ausstattung: Schnellschnürsystem, Polymerüberzug
-* Leichtatmer (UAL-6000003I):
-    * Material: Polymergehäuse mit Filtermodul
-    * Eigenschaften: regenerierbar, Suffix I = IN-kompatibel
-    * Trageweise: Kopfgetragen, halbmaskig
-    * Schutzdauer: 6–10 Stunden
-    * Kompatibilität: Raumanzughelm, Lagerausgabe
+### Feldbluse (ULF-6000203)
+
+* Gewebematerial: FLX-55 – FlexLight-Standard®
+* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
+* Eigenschaften:
+  * Atmungsaktiv
+  * Staubabweisend
+  * Marsstaubkompatibel
+  * Farbgebung: einfarbig Mars-Terrakotta (staubreduzierend, dienstlich genormt)
+
+Konstruktionsmerkmale:
+
+* Flachkragen mit Druckknopfleiste
+* Brusttaschen mit Klappe
+* Leicht elastische Schnittführung
+
+### Hose (ULT-6000103)
+
+* Gewebematerial: FLX-55 – FlexLight-Standard®
+* Schutzklasse: 2–3 · rotationsfähig · nicht schnittfest
+* Eigenschaften:
+  * Elastisch
+  * Langlebig
+  * Marsstaubresistent
+  * Farbgebung: einfarbig Mars-Terrakotta (dienstlich genormt)
+
+Konstruktionsmerkmale:
+
+* Verstärkte Nähte an Belastungspunkten
+* Elastischer Hosenbund
+* Seitentaschen mit Patte
