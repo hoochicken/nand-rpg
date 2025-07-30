@@ -58,20 +58,20 @@ Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspi
 
 Dieses Rollenspiel ist divers, nicht nur in Bezug auf `[AKTUELL_POLITISCH_KORREKTE_BEZEICHNUNG_FUER_LGBTQIA+]`-Community, sondern vor allem in Bezug auf Inklusion von Behinderten.
 
-Eine besondere Stellung nimmt im Rollenspiel die Gebärdensprache ein. Diese Sprache ist die Standardsprache daraussen. Daher kann man draussen niemandem hinterherrufen. . Das ROllenspiel soll diese Beschränkungen erfahrbar machen.
+Eine besondere Stellung nimmt im Rollenspiel die Gebärdensprache ein. Diese Sprache ist die Standardsprache daraussen. Daher kann man draussen niemandem hinterherrufen. . Das Rollenspiel soll diese Beschränkungen erfahrbar machen.
 
 Jeder Charakter hat Behinderungen, Einschränkungen, psychische Probleme - so wie wir alle.
 
 Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 
-* Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Der wird das schlichtweg nicht hören können.
+* Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
 * Behinderte: Erfahrungen als Anders-Behinderter sammeln.
 
-### Spielerfahrungen
+### Spiel-Erfahrungen
 
 * Diskussionen über das 3. Reich
-* Rekapitulation zum 3. Reich und des Propaganda-Struktur, u. a. mit Schükerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
-* Ganz süss, zwei Spieler (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
+* Rekapitulation zum 3. Reich und der Propaganda-Struktur, u. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
+* Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
 
 ## Triggerwarnungen
 

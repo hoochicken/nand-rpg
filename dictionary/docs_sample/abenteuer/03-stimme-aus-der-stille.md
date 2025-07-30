@@ -23,9 +23,9 @@
 **Runders Geheimnis**
 
 * Schnuppi ist traurig, heult an der Motorsacke mit der Leiche (brrr)
-* Schnuppi läuft weg zum Donnerbalken, ein Kadett muss folgen
-* am Donnerbalken finden sie eine modifizierte Funkkiste, die Runder versteckt hat sowie einen Zettel mit der angabe einer Uhrzeit 2100 und einer Frequenz
-* zu diesem Zeitpunkt meldet sich dann Hal, eine KI, sie braucht einen alten V5-Akku
+* Schnuppi läuft weg zum Donnerbalken, ein Kadett muss dazu bewegt werden, dass er ihm folgt
+* am Donnerbalken finden sie eine modifizierte Funkkiste, die Runder versteckt hat sowie einen Zettel mit der Angabe einer Uhrzeit 2300 und einer Frequenz
+* zum nächtlichen Zeitpunkt 2100 meldet sich dann Hal, eine KI, sie braucht einen alten V5-Akku
 
 **Hilfe für die KI Hal**
 
@@ -34,7 +34,7 @@
     * Hal ist vergraben im Wildbrumsen-Bau im Schachtelhalm-Wald
     * Schnuppi kennt den Weg
     * Wachbrumsen mit Bromrauch lahmlegen
-    * Halo möchte dortbleiben, weil sicher
+    * Hal möchte dort bleiben, weil er dort sicher ist
 
 **Modularfaust Basiskurs**
 
@@ -66,3 +66,5 @@
 ### Brumsenbau im Schachtelhalmwald
 
 {% include-markdown "../welt/karten/brumsenbau-im-schachtelhalmwald.md" %}
+
+> Aus dem Off: Meine Gruppe hat vorgezogen, statt die KI zu retten, diese auszurauben und danach auszubomben. Tja, da geht sie hin, die Menschlichkeit ... Rechne also mit allem!
