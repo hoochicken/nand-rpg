@@ -27,6 +27,11 @@ pip install mkdocs
 pip install markdown-include
 ~~~
 
+## github pages loses focis
+
+* go to: https://github.com/hoochicken/nand-rpg/settings/pages 
+* Renew Custom domain with `rpg.ichbinnand.de`
+
 ## import markdown files
 
 * Plugin https://github.com/mondeja/mkdocs-include-markdown-plugin
