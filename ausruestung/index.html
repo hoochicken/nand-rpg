@@ -102,6 +102,20 @@
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#anzug">Anzug</a>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#ausrustung-id-system">**🧾Ausrüstung - ID-System</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#schritt-1-truppengattung-gattungskennung">🟢 Schritt 1: Truppengattung (Gattungskennung)</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#schritt-2-hauptgruppe-versorgungsbereich">🔴 Schritt 2: Hauptgruppe (Versorgungsbereich)</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#schritt-3a-produkttypen-der-hauptgruppe-l-loadout">🔵 Schritt 3a: Produkttypen der Hauptgruppe „L = Loadout“</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#schritt-3b-produkttypen-der-hauptgruppe-a-airsupport">🔵 Schritt 3b: Produkttypen der Hauptgruppe „A = Airsupport“</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#schritt-3c-produkttypen-der-hauptgruppe-n-nutrition-shelter">🔵 Schritt 3c: Produkttypen der Hauptgruppe „N = Nutrition &amp; Shelter“</a>
+    </li>
     </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="geraffel/">Geraffel</a>
@@ -204,6 +218,25 @@
 <h2 id="ubersicht-alle-ausrustungsgegenstande-im-neuen-codier-schema">📘 Übersicht: Alle Ausrüstungsgegenstände im neuen Codier-Schema</h2>
 <ul>
 <li>Schema: [Typ] - [Truppe] - [Merkmale] - [Trageort] - [Modell].[Generation]</li>
+</ul>
+<p><strong>Hinweise zur Anwendung</strong></p>
+<ul>
+<li>Position: Immer am Ende der vollständigen ID</li>
+<li>Reihenfolge: Alphabetisch sortiert empfohlen (aber nicht verpflichtend)</li>
+<li>Kombination: Beliebig viele möglich</li>
+<li>Weglassen: Keine Suffixe = Standardausführung</li>
+</ul>
+<p><strong>🧪 Beispiele für vollständige ID-Codes (mit englischer und deutscher Bedeutung)</strong></p>
+<ul>
+<li>CLH-1000301 → Cadet · Loadout · Helmet → Kadett · Kleidung · Helm</li>
+<li>CNA-1000003T → Cadet · Nutrition &amp; Shelter · Aliment · Thermal Resistant → Kadett · Verpflegung &amp; Unterkunft · Ration · Temperaturfest</li>
+<li>EMC-5000201A → Elite · Module · Control Unit · Attached → Elite · Modul · Steuereinheit · Anzugintegriert</li>
+<li>GCT-2000671A → Ground · Container · Toolkit Case · Attached → Bodentruppe · Container · Werkzeugbox · Anzugintegriert</li>
+<li>KET-6000547LB → Universal · Kit · Toolroll · Low Profile + Bio-Shielded → Universal · Kit · Werkzeugrolle · Low Profile + Biologisch abgeschirmt</li>
+<li>CNT-1000703R → Cadet · Nutrition &amp; Shelter · Tent · Regenerative → Kadett · Verpflegung &amp; Unterkunft · Zelt · Regenerierbar</li>
+<li>ETC-5000127CF → Elite · Transceiver · Commsystem · Comms Integrated + Frequency → Elite · Transceiver · Kommunikationssystem · Kommunikation integriert + Funkfunktion</li>
+<li>GBT-2000732A → Ground · Backpack · Tactical Pouch · Attached → Bodentruppe · Rucksack · Anzugtasche · Anzugintegriert</li>
+<li>CGZ-1001345D → Cadet · Gear · Zip Module · Dual Module → Kadett · Zubehör · Schutztasche · Doppelmodul</li>
 </ul>
 <h3 id="kadetten-k">🟥 Kadetten (K)</h3>
 <table>
@@ -357,6 +390,935 @@
 <li>Filter</li>
 <li>Stiefel</li>
 </ul>
+<h2 id="ausrustung-id-system">**🧾Ausrüstung - ID-System</h2>
+<p>Aufbau von Ausrüstungskennungen für modulare, truppenspezifische Artikel**</p>
+<h3 id="schritt-1-truppengattung-gattungskennung">🟢 Schritt 1: Truppengattung (Gattungskennung)</h3>
+<p><strong>📘 Erklärung</strong></p>
+<p>Jede Ausrüstungseinheit ist einer Truppengattung zugewiesen (z. B. Kadetten, Eliteeinheit). Die Gattungskennung steht am Anfang der Identnummer (Buchstabe) und bestimmt zugleich die erste Ziffer der 7-stelligen laufenden Nummer.</p>
+<p><strong>📚 Gattungs-Tabelle</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Buchstabe</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Erste Ziffer der Identnummer</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>C</strong></td>
+<td>Cadet</td>
+<td>Kadetten</td>
+<td><strong>1</strong></td>
+</tr>
+<tr>
+<td><strong>G</strong></td>
+<td>Ground</td>
+<td>Bodentruppen</td>
+<td><strong>2</strong></td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>Air</td>
+<td>Luftwaffe</td>
+<td><strong>3</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Space</td>
+<td>Weltraumkommando</td>
+<td><strong>4</strong></td>
+</tr>
+<tr>
+<td><strong>E</strong></td>
+<td>Elite</td>
+<td>Eliteeinheiten</td>
+<td><strong>5</strong></td>
+</tr>
+<tr>
+<td><strong>U</strong></td>
+<td>Universal</td>
+<td>Truppenübergreifend</td>
+<td><strong>6</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="schritt-2-hauptgruppe-versorgungsbereich">🔴 Schritt 2: Hauptgruppe (Versorgungsbereich)</h3>
+<p><strong>📘 Erklärung</strong></p>
+<p>Jede Ausrüstung gehört zu einer Hauptgruppe – also einem übergeordneten Funktionsbereich (z. B. Kleidung, Module, Nahrung). Diese Hauptgruppe wird durch den zweiten Buchstaben in der Identnummer dargestellt.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Buchstabe</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>L</strong></td>
+<td>Loadout</td>
+<td>Kleidung</td>
+<td>Anzüge, Helme, Stiefel, Feldblusen etc.</td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>Airsupport</td>
+<td>Atemsysteme</td>
+<td>Leichtatmer, Filter, Masken</td>
+</tr>
+<tr>
+<td><strong>N</strong></td>
+<td>Nutrition &amp; Shelter</td>
+<td>Verpflegung &amp; Unterkunft</td>
+<td>Nahrung, Wasser, Schlafsysteme, Zelte, Matten</td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Transceiver</td>
+<td>Kommunikation</td>
+<td>Funkgeräte, Mikrofone, Signalgeräte</td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Backpack</td>
+<td>Tragelösungen</td>
+<td>Rucksäcke, Packs, Umhängetaschen</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Module</td>
+<td>Technikmodule</td>
+<td>Sensoren, Steuerungen, Energieversorgung</td>
+</tr>
+<tr>
+<td><strong>K</strong></td>
+<td>Kit</td>
+<td>Funktionssätze</td>
+<td>Reparatur-, Notfall-, Technik- und Überlebenssets</td>
+</tr>
+<tr>
+<td><strong>G</strong></td>
+<td>Gear</td>
+<td>Zubehör</td>
+<td>Licht, Werkzeuge, Patches, Handschuhe</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Container</td>
+<td>Transport &amp; Lagerung</td>
+<td>Boxen, Crates, Medkoffer, Versorgungsbehälter</td>
+</tr>
+</tbody>
+</table>
+<h3 id="schritt-3a-produkttypen-der-hauptgruppe-l-loadout">🔵 Schritt 3a: Produkttypen der Hauptgruppe „L = Loadout“</h3>
+<p><strong>📘 Erklärung</strong></p>
+<p>Die Hauptgruppe „Loadout“ umfasst alle tragbaren Kleidungsstücke. Jeder Produkttyp ist durch einen eindeutigen Buchstaben (3. Stelle) und einen eigenen 100er-Nummernblock gekennzeichnet.</p>
+<p><strong>**📚 Produkttyp-Tabelle: Clothes (C)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td>Apparel</td>
+<td>Anzug (Einteiler)</td>
+<td>Einteiliger Dienstanzug</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Trousers</td>
+<td>Hose</td>
+<td>Beinkleidung (meist Uniformbestandteil)</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>F</strong></td>
+<td>Fieldshirt</td>
+<td>Feldbluse</td>
+<td>Oberteil, meist über dem Anzug getragen</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>H</strong></td>
+<td>Helmet</td>
+<td>Helm</td>
+<td>Schutz- oder Kommunikationshelm</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>W</strong></td>
+<td>Waistgear</td>
+<td>Weste</td>
+<td>Überziehbare leichte Einsatzweste</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Shoes</td>
+<td>Stiefel</td>
+<td>Einsatzstiefel, Marschstiefel</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>V</strong></td>
+<td>Vest</td>
+<td>Trageweste</td>
+<td>Taktische, modulare Trageplattform</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+<tr>
+<td><strong>U</strong></td>
+<td>Undergarment</td>
+<td>Unterbekleidung</td>
+<td>Thermowäsche, eng anliegender Bodylayer</td>
+<td><strong>xxx0701–xxx0800</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="schritt-3b-produkttypen-der-hauptgruppe-a-airsupport">🔵 Schritt 3b: Produkttypen der Hauptgruppe „A = Airsupport“</h3>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen umfassen alles zur Atemunterstützung: Leichtatmer, Filter, Masken, Ventile und Dichtsysteme.</p>
+<p><strong>**📚 Produkttyp-Tabelle: Airsupport (A)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>L</strong></td>
+<td>Lungsupport</td>
+<td>Leichtatmer</td>
+<td>Eigenständiges Atemgerät mit Luftversorgung (z. B. Rucksackmodul)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>X</strong></td>
+<td>Filter</td>
+<td>Filtermodul</td>
+<td>Partikel-/Gasfilter, auch für Anzugintegration geeignet</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Mask</td>
+<td>Atemmaske</td>
+<td>Halbe oder volle Gesichtsschutzmaske</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>I</strong></td>
+<td>Interface</td>
+<td>Atemanschluss / Ventil</td>
+<td>Verbindungseinheit Maske ↔ Anzug / Leichtatmer</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Seal</td>
+<td>Dichtsystem</td>
+<td>Dichtungen und Versiegelungselemente zur Kopplung von Modulen und Masken</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="schritt-3c-produkttypen-der-hauptgruppe-n-nutrition-shelter">🔵 Schritt 3c: Produkttypen der Hauptgruppe „N = Nutrition &amp; Shelter“</h2>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen umfassen sowohl Verpflegungsartikel (Rationen, Wasser, Supplemente) als auch Unterkunfts- und Schlafausstattung (Zelte, Schlafsäcke, Matten etc.).</p>
+<p><strong>📚 Produkttyp-Tabelle: Nutrition &amp; Shelter (N)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td>Army Ration</td>
+<td>Standard-Ration</td>
+<td>Haltbare Vollverpflegung (1–3 Tage, gebrauchsfertig)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>W</strong></td>
+<td>Waterpack</td>
+<td>Wasserträger</td>
+<td>Trinkbeutel, Kartuschen, tragbare Wassereinheiten</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Concentrate</td>
+<td>Hochkonzentrat</td>
+<td>Kompaktportion für Notfälle (z. B. 500 kcal pro Stück)</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Supplement</td>
+<td>Nahrungsergänzung</td>
+<td>Vitamintabletten, Mineralstoffe, Salze, Zusatznährstoffe</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>H</strong></td>
+<td>Heater</td>
+<td>Wärmequelle</td>
+<td>Chemische / elektrische Rationsheizer, Flammenlose Kochsysteme</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td>Pack</td>
+<td>Missionspaket</td>
+<td>Komplettpaket aus Ration, Wasser, Supplement – missionsweise gebunden</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>U</strong></td>
+<td>Utensils</td>
+<td>Essgeschirr</td>
+<td>Besteck, Faltbecher, Kochgeschirr, Klappteller – direkt verwendbar</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Tent</td>
+<td>Zelt</td>
+<td>Ein- oder Mehrpersonenzelt, mobil, feldtauglich</td>
+<td><strong>xxx0701–xxx0800</strong></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Bivvy</td>
+<td>Biwaksack</td>
+<td>Ultraleichtschlafhülle für Einzelschläfer</td>
+<td><strong>xxx0801–xxx0900</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>Sleeping Bag</td>
+<td>Schlafsack</td>
+<td>Kompakt verstaubarer Schlafsack mit Thermoschutz</td>
+<td><strong>xxx0901–xxx1000</strong></td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Mat</td>
+<td>Isomatte / Luftmatratze</td>
+<td>Aufblasbare oder rollbare Schlafunterlage</td>
+<td><strong>xxx1001–xxx1100</strong></td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td>Blanket</td>
+<td>Decke</td>
+<td>Felddecke, Thermodecke, isolierend oder wärmend</td>
+<td><strong>xxx1101–xxx1200</strong></td>
+</tr>
+<tr>
+<td><strong>N</strong></td>
+<td>Raincover</td>
+<td>Regenschutz</td>
+<td>Plane, Tarp, Poncho, Zelttuch oder Überwurfmaterial</td>
+<td><strong>xxx1201–xxx1300</strong></td>
+</tr>
+<tr>
+<td><strong>K</strong></td>
+<td>Camp Kit</td>
+<td>Lagerausstattung</td>
+<td>Zubehör: Heringe, Leine, Hammer, Zelttasche etc.</td>
+<td><strong>xxx1301–xxx1400</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3d: Produkttypen der Hauptgruppe „T = Transceiver“ (Kommunikationssysteme)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen enthalten alle Kommunikationsmittel zur Sprach- und Datenübertragung – ob portabel, integriert oder automatisch. Dazu gehören Funkgeräte, Mikrofone, Lautsprecher, Signalgeber und Kodierungssysteme. Systeme können modular oder vollständig integriert sein.</p>
+<p><strong>📚 Produkttyp-Tabelle: Transceiver (T)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>R</strong></td>
+<td>Radio Unit</td>
+<td>Funkgerät</td>
+<td>Eigenständige Funkgeräte – tragbar oder stationär (z. B. Funkkiste FK-2M)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Commsystem</td>
+<td>Kommunikationssystem</td>
+<td>Komplettsystem mit Kopfhörer, Mikrofon und Bedienelementen (z. B. PTT)</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Microphone</td>
+<td>Mikrofonmodul</td>
+<td>Einzelmikrofon – z. B. Helm-Mic oder Maskenmodul</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Beacon</td>
+<td>Signalbake</td>
+<td>Automatischer oder manuell auslösbarer Notfallsender</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>Antenna</td>
+<td>Antennenmodul</td>
+<td>Aufsetz- oder Zusatzantenne zur Reichweitenverstärkung</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Speaker</td>
+<td>Lautsprecher / Audioausgabe</td>
+<td>Externer Lautsprecher, Helmlautgeber, eingebautes Ausgabemodul</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>K</strong></td>
+<td>Codec</td>
+<td>Verschlüsselungseinheit</td>
+<td>Kodierung / Dekodierung für gesicherte Sprach- oder Datenübertragung</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3e: Produkttypen der Hauptgruppe „B = Backpack“ (Tragelösungen &amp; Packsysteme)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen umfassen alle Trageeinheiten für Ausrüstung, Verpflegung, Module oder Werkzeuge. Dazu gehören klassische Rucksäcke, modulare Packsysteme, Hartbehälter sowie universell tragbare Taschen. Auch direkt am Anzug angebrachte Taschen zählen dazu.</p>
+<p><strong>📚 Produkttyp-Tabelle: Backpack (B)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S</strong></td>
+<td>Standardpack</td>
+<td>Standard-Rucksack</td>
+<td>Klassischer Rucksack mit mittlerem Volumen, vielseitig nutzbar</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>Assaultpack</td>
+<td>Sturm-/Angriffspack</td>
+<td>Leichter, kompakter Körpertragerucksack für schnellen Zugriff</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td>C</td>
+<td>Containerpack</td>
+<td>Hartschalen-Trageeinheit</td>
+<td>Stoßfester, modularer Behälter für Technik, Munition oder Sensoren</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td>H</td>
+<td>Hydropack</td>
+<td>Wasser-/Trinksystem</td>
+<td>Trinksack mit Schlauch oder Kartuschensystem, integrierbar in Rückenfläche</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td>F</td>
+<td>Framepack</td>
+<td>Tragerahmen</td>
+<td>Modulares Tragegestell für schwere oder sperrige Lasten</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td>U</td>
+<td>Utility Bag</td>
+<td>Umhängetasche</td>
+<td>Weiche, flexibel nutzbare Schultertasche</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td>G</td>
+<td>Gear Pouch</td>
+<td>Gürteltasche</td>
+<td>Kleine Tasche mit Gurtbefestigung – z. B. für Werkzeug oder Munition</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+<tr>
+<td>T</td>
+<td>Tactical Pouch</td>
+<td>Anzugtasche</td>
+<td>Direkt am Anzug befestigte Tasche (Klett, Schiene oder Reißverschluss)</td>
+<td><strong>xxx0701–xxx0800</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3f: Produkttypen der Hauptgruppe „M = Module“ (Technikmodule inkl. Energieversorgung)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen decken alle elektronischen oder funktionalen Module ab – von Sensorik und Steuerung bis hin zu Stromversorgungseinheiten. Module sind in der Regel nicht alleinstehend, sondern werden in Ausrüstungssysteme integriert oder angedockt.</p>
+<p><strong>📚 Produkttyp-Tabelle: Module (M)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S</strong></td>
+<td>Sensor Unit</td>
+<td>Sensorikmodul</td>
+<td>Umwelt-, Vital- oder Lage-Sensoren (z. B. Temperatur, toxische Gase)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td>Diagnostics</td>
+<td>Diagnostikeinheit</td>
+<td>Auswertungseinheit für Vitaldaten, Technikstatus oder Umgebungsanalysen</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Control Unit</td>
+<td>Steuerungsmodul</td>
+<td>Bedien- oder Steuerzentrale für angeschlossene Module</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>Link Module</td>
+<td>Verbindungseinheit</td>
+<td>Systemkopplung (z. B. mit Drohnen, Datenservern, IN-Netz)</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Target Assist</td>
+<td>Zielsystem / Datenoptik</td>
+<td>Zielhilfen, Entfernungsmesser, HUD-Zusätze</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>I</strong></td>
+<td>Interface</td>
+<td>Anschluss-/Übergabeeinheit</td>
+<td>Elektrische, mechanische oder logische Schnittstelle</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td>Power Core</td>
+<td>Energieeinheit</td>
+<td>Hochleistungszelle oder Kernmodul zur Stromversorgung</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Battery Pack</td>
+<td>Akkupack</td>
+<td>Tragebatterie, Gurtzelle oder Reserveakku</td>
+<td><strong>xxx0701–xxx0800</strong></td>
+</tr>
+<tr>
+<td><strong>G</strong></td>
+<td>Charging Unit</td>
+<td>Ladeeinheit</td>
+<td>Netzteil, Solar- oder Kinetikladestation</td>
+<td><strong>xxx0801–xxx0900</strong></td>
+</tr>
+<tr>
+<td><strong>H</strong></td>
+<td>Hybrid Cell</td>
+<td>Hybridmodul</td>
+<td>Mischtechnik-Energiezelle (z. B. thermisch/chemisch/elektrisch)</td>
+<td><strong>xxx0901–xxx1000</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3g: Produkttypen der Hauptgruppe „C = Container“ (Lagerung &amp; Transport)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Container dienen zur externen Lagerung, zum sicheren Transport oder zur strukturierten Verteilung von Material und Ausrüstung. Im Gegensatz zu Rucksäcken oder Pouches werden sie nicht am Körper getragen, sondern stationär genutzt oder maschinell bewegt.</p>
+<p><strong>📚 Produkttyp-Tabelle: Container (C)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>H</strong></td>
+<td>Hardcase</td>
+<td>Hartschalenbox</td>
+<td>Robuster Schutzbehälter für empfindliche Ausrüstung (z. B. Optik, Waffen)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Medcrate</td>
+<td>Sanitätsbox</td>
+<td>Strukturierte medizinische Transport- oder Versorgungsbox</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Supplycase</td>
+<td>Nachschubbox</td>
+<td>Box für Essen, Wasser, Verbrauchsmaterial</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>Locker</td>
+<td>Spind / Lagerbox</td>
+<td>Persönliche Lagerkiste / mobiler Spind (z. B. für Missionsausrüstung)</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>X</strong></td>
+<td>ExploCase</td>
+<td>Gefahrgutbehälter</td>
+<td>Spezialsicherung für Sprengstoff, Plasmazellen, infektiöses Material</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>Y</strong></td>
+<td>Cryobox</td>
+<td>Temperaturgeregelter Behälter</td>
+<td>Für hitze- oder kälteempfindliche Substanzen</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Toolkit Case</td>
+<td>Werkzeugbox</td>
+<td>Fächerbox mit Reparatur- und Diagnosetools</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3h: Produkttypen der Hauptgruppe „K = Kit“ (Funktionssätze &amp; Überlebensausstattung)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen sind kompakte, einsatzspezifische Ausrüstungssets. Sie bestehen aus vorkonfigurierten Komponenten zur Reparatur, Erste Hilfe, technischen Analyse oder Überlebensunterstützung im Außeneinsatz. Alle Kits sind transportabel, meist in Taschen oder Rollen organisiert.</p>
+<p><strong>📚 Produkttyp-Tabelle: Kit (K)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>R</strong></td>
+<td>Repair Set</td>
+<td>Reparaturkit</td>
+<td>Werkzeuge &amp; Ersatzteile für Feldreparatur (z. B. Helm, Waffe, Filter)</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>Survival Kit</td>
+<td>Überlebensset</td>
+<td>Feuerstarter, Kompass, Notverpflegung, Signalmittel</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>Medical Kit</td>
+<td>Sanitätskit</td>
+<td>Kompaktes Erste-Hilfe-Set mit Notfallmedikamenten</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>E</strong></td>
+<td>Engineering Kit</td>
+<td>Technikerset</td>
+<td>Spezialausstattung für technische Instandhaltung (z. B. Sensoren, Strom)</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>Y</strong></td>
+<td>Containment Kit</td>
+<td>Isolations-/Sicherheitsset</td>
+<td>Für biologische, chemische oder kontaminierende Materialien</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Toolroll</td>
+<td>Werkzeugrolle / Rolltasche</td>
+<td>Ausrollbare Tasche für Diagnosetools oder Reparaturmaterial</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🔵 Schritt 3i: Produkttypen der Hauptgruppe „G = Gear“ (Zubehörartikel allgemein)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Diese Produkttypen umfassen einzelne, funktionale Komponenten, die als Zubehör, Werkzeug, Marker oder modulare Ergänzung zur Ausrüstung getragen oder mitgeführt werden. Sie sind oft Teil taktischer Ausrüstung, modular auf Rüstungen, Gurten oder Westen befestigt.</p>
+<p><strong>📚 Produkttyp-Tabelle: Gear (G)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Typcode</strong></th>
+<th><strong>EN</strong></th>
+<th><strong>DE</strong></th>
+<th><strong>Beschreibung</strong></th>
+<th><strong>Identnummernbereich</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>K</strong></td>
+<td>Knife</td>
+<td>Messer</td>
+<td>Klapp- oder Feststehmesser für Technik, Überleben, Selbstschutz</td>
+<td><strong>xxx0001–xxx0100</strong></td>
+</tr>
+<tr>
+<td><strong>G</strong></td>
+<td>Gloves</td>
+<td>Handschuhe</td>
+<td>Taktische / technische Handschuhe, auch Hitzeschutz oder Funkkontakt</td>
+<td><strong>xxx0101–xxx0200</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>Light Unit</td>
+<td>Lichtquelle</td>
+<td>Helmlicht, Taschenlampe, Signallicht</td>
+<td><strong>xxx0201–xxx0300</strong></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Toolkit</td>
+<td>Mini-Werkzeugsatz</td>
+<td>Kompaktes Feldwerkzeug, z. B. Multitool, Kombischlüssel</td>
+<td><strong>xxx0301–xxx0400</strong></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Clip Gear</td>
+<td>Karabiner / Magnetsystem</td>
+<td>Befestigungselemente, Sicherungsringe, Magnethalter</td>
+<td><strong>xxx0401–xxx0500</strong></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Belt Module</td>
+<td>Gürtelsystem-Add-on</td>
+<td>Halterung für Magazine, Licht, Pouch oder Werkzeug</td>
+<td><strong>xxx0501–xxx0600</strong></td>
+</tr>
+<tr>
+<td><strong>R</strong></td>
+<td>Rope / Reel</td>
+<td>Seil / Aufroller</td>
+<td>Kevlarseil, Miniseilwinde, Kletterleine</td>
+<td><strong>xxx0601–xxx0700</strong></td>
+</tr>
+<tr>
+<td><strong>N</strong></td>
+<td>Notepad Unit</td>
+<td>Schreibset</td>
+<td>Wasserdichtes Notizset mit Spezialstift für Karten / Protokolle</td>
+<td><strong>xxx0701–xxx0800</strong></td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td>Data Stick</td>
+<td>Datenträger</td>
+<td>Robuster Speicherchip für Karten, Codes, Einsatzdaten</td>
+<td><strong>xxx0801–xxx0900</strong></td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td>Patch Holder</td>
+<td>Abzeichenhalter</td>
+<td>Magnet- oder Klettplatte für Einheits- und Dienstgradabzeichen</td>
+<td><strong>xxx0901–xxx1000</strong></td>
+</tr>
+<tr>
+<td><strong>E</strong></td>
+<td>Earpro</td>
+<td>Gehörschutz</td>
+<td>Aktiv- oder Passivschutz, teils mit Funkschnittstelle</td>
+<td><strong>xxx1001–xxx1100</strong></td>
+</tr>
+<tr>
+<td><strong>V</strong></td>
+<td>Visor Shield</td>
+<td>Sichtschutz</td>
+<td>Visiersysteme, Blendfilter, taktische Optikaufsätze</td>
+<td><strong>xxx1101–xxx1200</strong></td>
+</tr>
+<tr>
+<td><strong>Y</strong></td>
+<td>Signal Dye</td>
+<td>Markierfarbe</td>
+<td>Farbmodul zur Gebiets- oder Feinderkennung</td>
+<td><strong>xxx1201–xxx1300</strong></td>
+</tr>
+<tr>
+<td><strong>Z</strong></td>
+<td>Zip Module</td>
+<td>Vakuum-/Schutztasche</td>
+<td>Flüssigkeitsdichte Transportlösung für sensible Technik oder Medikamente</td>
+<td><strong>xxx1301–xxx1400</strong></td>
+</tr>
+</tbody>
+</table>
+<p>🟣 Schritt 4: Suffixe (Funktionskennzeichnung)</p>
+<p><strong>📘 Erklärung</strong></p>
+<p>Suffixe dienen zur Erweiterung der Identnummer, um besondere technische oder funktionale Merkmale zu kennzeichnen. Sie sind optional, können aber beliebig kombiniert werden (empfohlen: alphabetisch sortiert). Jede Funktion erhält einen einzelnen Buchstaben, basierend auf dem englischen Begriff.</p>
+<p><strong>📚 Suffix-Tabelle (Funktionskennzeichnung, alphabetisch sortiert)</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>Code</strong></th>
+<th><strong>EN Term</strong></th>
+<th><strong>DE Bezeichnung</strong></th>
+<th><strong>Beschreibung</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>Attached</td>
+<td>Anzugintegriert</td>
+<td>Direkt am Anzug befestigt oder strukturell integriert</td>
+</tr>
+<tr>
+<td>B</td>
+<td>Bio-Shielded</td>
+<td>Biologisch abgeschirmt</td>
+<td>Schutz gegen biologische Kontaminationen oder Gefahrenstoffe</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Comms Integrated</td>
+<td>Kommunikation integriert</td>
+<td>Vollständig integriertes Kommunikationssystem (z. B. Mic + Speaker + PTT)</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Dual Module</td>
+<td>Doppelmodul</td>
+<td>Zwei Funktionen kombiniert (z. B. Licht + Signalbake)</td>
+</tr>
+<tr>
+<td>F</td>
+<td>Frequency</td>
+<td>Funkfunktion</td>
+<td>Enthält ein aktives Funkmodul</td>
+</tr>
+<tr>
+<td>I</td>
+<td>Interstellar</td>
+<td>IN-kompatibel</td>
+<td>Entspricht interplanetarem Standard (IN-Netz / Sternflotte etc.)</td>
+</tr>
+<tr>
+<td>L</td>
+<td>Low Profile</td>
+<td>Niedrigprofil</td>
+<td>Besonders flach, unauffällig, verdeckbar</td>
+</tr>
+<tr>
+<td>M</td>
+<td>Mask-Compatible</td>
+<td>Maskenkompatibel</td>
+<td>Kompatibel mit Atemmasken oder Interfaces</td>
+</tr>
+<tr>
+<td>P</td>
+<td>Armored</td>
+<td>Gepanzert</td>
+<td>Zusätzliche Panzerung gegen ballistische oder schockinduzierte Einwirkungen</td>
+</tr>
+<tr>
+<td>R</td>
+<td>Regenerative</td>
+<td>Regenerierbar</td>
+<td>Filterbar, wiederaufladbar oder wiederverwertbar</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Special Form</td>
+<td>Spezialbauform</td>
+<td>Nichtstandardisierte Form: kompakt, faltbar, keramisch, extra-leicht etc.</td>
+</tr>
+<tr>
+<td>T</td>
+<td>Thermal Resistant</td>
+<td>Temperaturfest</td>
+<td>Hitzebeständig oder kälteresistent für extreme Umgebungen</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Reinforced</td>
+<td>Verstärkt</td>
+<td>Mechanisch oder strukturell verstärkte Bauweise für erhöhte Stabilität</td>
+</tr>
+<tr>
+<td>X</td>
+<td>Sealed System</td>
+<td>Druckdicht / Raumtauglich</td>
+<td>Für Umgebungen ohne atembare Atmosphäre (Raum, Unterwasser etc.)</td>
+</tr>
+</tbody>
+</table>
               
             </div>
           </div><footer>
