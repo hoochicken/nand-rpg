@@ -2,35 +2,41 @@
 
 {% include-markdown "./anzuege/soldat-feldanzug-standard.md" %}
 
+## Kadetten-Anzug, LPA - Assistenz des Lazarett-Piloten
+
+{% include-markdown "./anzuege/kadett-aussenanzug-typ-k-1r.md" %}
+
+{% include-markdown "./anzuege/kadett-lp-assistenz.md" %}
+
+{% include-markdown "./anzuege/kadett-standard.md" %}
+
 ## Feldanzug Mars ULx-03
 
 {% include-markdown "./anzuege/soldat-feldanzug-mars-ulx-03.md" %}
 
 {% include-markdown "./anzuege/soldat-kommunikationsmodul.md" %}
 
+## Bodentruppen
+
+{% include-markdown "./anzuege/ausseneinsatz-anzug-bodentruppen-glx-03.md" %}
+
+{% include-markdown "./anzuege/ausseneinsatz-anzug-bodentruppen-glx-04.md" %}
+
 ## Lazarett-Pilot (LP)
 
-{% include-markdown "./anzuege/lazarett-pilot.md" %}
-
-{% include-markdown "./anzuege/kadetten-anzug.md" %}
+{% include-markdown "./anzuege/lazarett-pilot-typ-a-3k" %}
 
 ## Kadetten-Ausseneinsatzanzug "Typ K-1R"
+
+{% include-markdown "./anzuege/kadett-clx-01" %}
 
 {% include-markdown "./anzuege/kadett-aussenanzug.md" %}
 
 {% include-markdown "./anzuege/kadett-kommunikationssystem.md" %}
 
-## Kadetten-Anzug, LPA - Assistenz des Lazarett-Piloten
-
-{% include-markdown "./anzuege/kadett-lp-assistenz.md" %}
-
-{% include-markdown "./anzuege/kadett-standard.md" %}
-
 ## Rüstungen
 
 {% include-markdown "./anzuege/ruestung-voll.md" %}
-
-## Rüstungen
 
 ## Filter
 

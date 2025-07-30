@@ -10,7 +10,6 @@
 * Ausgabestatus: Standardausstattung für registriertes Flugpersonal (aktive Staffel & Reserve)
 
 ![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage.jpg)
-
 ![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/lp-anzug-kadett.jpg)
 
 **🔧 Technische Kurzbeschreibung**
