@@ -24,11 +24,11 @@
 
 ## Lazarett-Pilot (LP)
 
-{% include-markdown "./anzuege/lazarett-pilot-typ-a-3k" %}
+{% include-markdown "./anzuege/lazarett-pilot-typ-a-3k.md" %}
 
 ## Kadetten-Ausseneinsatzanzug "Typ K-1R"
 
-{% include-markdown "./anzuege/kadett-clx-01" %}
+{% include-markdown "./anzuege/kadett-clx-01.md" %}
 
 {% include-markdown "./anzuege/kadett-aussenanzug.md" %}
 
