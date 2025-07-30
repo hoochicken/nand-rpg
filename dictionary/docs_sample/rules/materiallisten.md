@@ -2,25 +2,26 @@
 
 ## 🧦 Block 1: Zivile Bekleidungsstoffe & Unteranzüge
 
-
 | Kürzel | Bezeichnung           | Schutzklasse | Eigenschaften                            | Verwendet bei                          |
 |--------|-----------------------|--------------|------------------------------------------|----------------------------------------|
 | ULW-21 | UltraLiner SoftWeave® | 1–2          | Atmungsaktiv, elastisch, antimikrobiell  | Unteranzüge unter Feld- & Raumanzügen  |
 | ZTX-30 | ZivTex-LiteMesh®      | 2            | Günstig, leicht, UV-stabil, pflegeleicht | Habitat-Wartung, zivile Technikdienste |
-| ZTA-35 | ZivTex-AllShell®      | 2            | Wetterfest, UV-beständig, rotierbar      | Ziviler Ausseneinsatz, Transportdienst  |
+| ZTA-35 | ZivTex-AllShell®      | 2            | Wetterfest, UV-beständig, rotierbar      | Ziviler Ausseneinsatz, Transportdienst |
 
 ## 🔍 Technische Beschreibungen
 
 **ULW-21 – UltraLiner SoftWeave®**
 
 * Ein körpernaher, hochelastischer Stoff für Unteranzüge.
-* Er ist atmungsaktiv, feuchtigkeitsregulierend und antimikrobiell beschichtet, ideal für den Dauereinsatz unter Schutzkleidung wie Feld- oder Raumanzügen.
+* Er ist atmungsaktiv, feuchtigkeitsregulierend und antimikrobiell beschichtet, ideal für den Dauereinsatz unter
+  Schutzkleidung wie Feld- oder Raumanzügen.
 * Eignet sich besonders für Langzeiteinsätze, da er rotationsfähig, hautfreundlich und pflegeleicht ist.
 
 **ZTX-30 – ZivTex-LiteMesh®**
 
 * Dieser einfache Stoff wurde für wirtschaftliche Innenraum-Bekleidung entworfen.
-* Er ist UV-stabilisiert, leicht, atmungsaktiv und maschinenwaschbar – optimal für Wartung, Logistik oder allgemeine Habitatdienste.
+* Er ist UV-stabilisiert, leicht, atmungsaktiv und maschinenwaschbar – optimal für Wartung, Logistik oder allgemeine
+  Habitatdienste.
 * Kein Schutz gegen Verletzung, aber langlebig im täglichen Gebrauch.
 
 **ZTA-35 – ZivTex-AllShell®**
@@ -38,9 +39,9 @@
 |------------|----------------------------|------------------|-------------------|------------------------|----------------------------------|
 | PMK-2      | PolyMars-Kadett®           | 1–2              | ❌ nein            | ❌ nein                 | Kadettenanzüge                   |
 | FLX-55     | FlexLight-Standard®        | 2–3              | ❌ nein            | ❌ nein                 | Feldanzüge (ULx-03 Bluse & Hose) |
-| PMF-55     | PolyMars-Flex®             | 2–3              | ❌ nein            | ✅ leicht               | Aussendienstanzüge der Truppe     |
-| PMF-56     | PolyMars-Flex+®            | 2–3              | ❌ nein            | ✅ leicht               | Komfortoptimierte Ausseneinsätze  |
-| MPF-66     | Mars Protective Flex®      | 4                | ✅ ja              | ❌ nein                 | Technische Ausseneinsätze         |
+| PMF-55     | PolyMars-Flex®             | 2–3              | ❌ nein            | ✅ leicht               | Aussendienstanzüge der Truppe    |
+| PMF-56     | PolyMars-Flex+®            | 2–3              | ❌ nein            | ✅ leicht               | Komfortoptimierte Ausseneinsätze |
+| MPF-66     | Mars Protective Flex®      | 4                | ✅ ja              | ❌ nein                 | Technische Ausseneinsätze        |
 | MPF-77.X   | Mars Performance Fabric X® | 5+               | ✅ ja              | ✅ voll                 | Eliteeinheiten, Kommando         |
 
 **🔍 Technische Beschreibung**
@@ -86,11 +87,11 @@
 **📋 Tabelle**
 
 | **Kürzel** | **Bezeichnung**   | **Schutzklasse** | **Flexibilität** | **Profilhaftung** | **Haltbarkeit** | **Verwendet bei**       |
-|------------|-------------------| --- |------------------|-------------------|-----------------|-------------------------|
-| STX-K1     | StepTex-Kadett®   | 1–2 | mittel           | gering            | mittel          | Kadettenanzüge          |
-| STX-55     | StepTex-Standard® | 2–3 | gut              | hoch              | hoch            | Ausseneinsatz (PMF-55)  |
-| STX-66     | StepTex-Protect®  | 4   | gut              | sehr hoch         | sehr hoch       | Instandhaltung (MPF-66) |
-| STX-77E    | StepTex-Elite®    | 5   | sehr hoch        | exzellent         | extrem hoch     | Eliteanzüge (MPF-77.X)  |
+|------------|-------------------|------------------|------------------|-------------------|-----------------|-------------------------|
+| STX-K1     | StepTex-Kadett®   | 1–2              | mittel           | gering            | mittel          | Kadettenanzüge          |
+| STX-55     | StepTex-Standard® | 2–3              | gut              | hoch              | hoch            | Ausseneinsatz (PMF-55)  |
+| STX-66     | StepTex-Protect®  | 4                | gut              | sehr hoch         | sehr hoch       | Instandhaltung (MPF-66) |
+| STX-77E    | StepTex-Elite®    | 5                | sehr hoch        | exzellent         | extrem hoch     | Eliteanzüge (MPF-77.X)  |
 
 **🔍 Technische Beschreibung**
 
@@ -135,7 +136,7 @@
 
 * Multilagen-Textil mit Hochvakuum-Isolierung für Ausseneinsätze im All.
 * Aussenschicht reflektierend gegen Strahlung und UV, innen mit Bio-Membran zur Atmungsregulierung.
-* Extrem temperaturfest (−180 °C bis +120 °C), abriebfest, mikrometeoritenresistent.
+* Extrem temperaturfest (−180 °C bis +120 °C), abriebfest, mikrometeoritenresistent.
 
 **PFC-42 – PilotFlight Composite®**
 
@@ -161,11 +162,11 @@
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung**       | **Schutzklasse** | **Vakuumdicht** | **Eigenschaften**                                        | **Verwendet bei**           |
-|------------|-----------------------|------------------|-----------------|----------------------------------------------------------|-----------------------------|
-| STX-P42    | StepTex-PilotFlight®  | 4                | ✅ ja            | Vibrationsdämpfend, cockpitkompatibel, antistatisch      | Pilotenanzüge               |
-| STX-V90    | StepTex-VoidShell®    | 6                | ✅ ja            | Mikrometeoritenresistent, vakuumdicht, mehrfach isoliert | EVA-Anzüge                  |
-| STX-C67    | StepTex-CombatOrbit®  | 5                | ✅ ja            | IR-dämpfend, magnetsohlenfähig, kampffähig               | Orbitaleinheiten, Raumkampf |
+| **Kürzel** | **Bezeichnung**      | **Schutzklasse** | **Vakuumdicht** | **Eigenschaften**                                        | **Verwendet bei**           |
+|------------|----------------------|------------------|-----------------|----------------------------------------------------------|-----------------------------|
+| STX-P42    | StepTex-PilotFlight® | 4                | ✅ ja            | Vibrationsdämpfend, cockpitkompatibel, antistatisch      | Pilotenanzüge               |
+| STX-V90    | StepTex-VoidShell®   | 6                | ✅ ja            | Mikrometeoritenresistent, vakuumdicht, mehrfach isoliert | EVA-Anzüge                  |
+| STX-C67    | StepTex-CombatOrbit® | 5                | ✅ ja            | IR-dämpfend, magnetsohlenfähig, kampffähig               | Orbitaleinheiten, Raumkampf |
 
 **🔍 Technische Beschreibung**
 
@@ -191,12 +192,12 @@
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung** | **Schutzklasse** | **Eigenschaften** | **Verwendet bei** |
-|------------| --- | --- | --- | --- |
-| SLM-10     | SleepMat-R-Flex® | 1   | Rollbar, isolierend, leicht | Marslager, Bodenunterlage |
-| SLM-40     | SleepShell-Compact® | 2–3 | Wetterresistent, atmungsaktiv | Habitat, Zeltlager |
-| SLM-77     | BioShell-Biwak® | 4   | IR-dämpfend, sturmfest, kompakt | Ausseneinsätze mit Übernachtung, Notlager |
-| BED-20     | BedWeave-HabCom® | 1–2 | Antimikrobiell, wärmespeichernd, waschbar | Unterkunftsdecken in Habitaten & Kadettenschlafsälen |
+| **Kürzel** | **Bezeichnung**     | **Schutzklasse** | **Eigenschaften**                         | **Verwendet bei**                                    |
+|------------|---------------------|------------------|-------------------------------------------|------------------------------------------------------|
+| SLM-10     | SleepMat-R-Flex®    | 1                | Rollbar, isolierend, leicht               | Marslager, Bodenunterlage                            |
+| SLM-40     | SleepShell-Compact® | 2–3              | Wetterresistent, atmungsaktiv             | Habitat, Zeltlager                                   |
+| SLM-77     | BioShell-Biwak®     | 4                | IR-dämpfend, sturmfest, kompakt           | Ausseneinsätze mit Übernachtung, Notlager            |
+| BED-20     | BedWeave-HabCom®    | 1–2              | Antimikrobiell, wärmespeichernd, waschbar | Unterkunftsdecken in Habitaten & Kadettenschlafsälen |
 
 **🔍 Technische Beschreibung**
 
@@ -228,14 +229,14 @@
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung** | **Schutzklasse** | **Eigenschaften** | **Verwendet bei** |
-| --- | --- | --- | --- | --- |
-| PAK-11 | PackTex-Cargo® | 2   | Leicht, modular, rotationsfähig | Versorgungstaschen, Pouches, leichte Packs |
-| PAK-33 | PackTex-Roughhaul® | 3   | Abriebfest, schwerlastgeeignet | Ausseneinsatz-Rucksäcke, Werkzeugträger |
-| PAK-50 | PackTex-SpecOps® | 4   | Wasserfest, IR-dämpfend, leise | Spezialeinsätze, Langstreckenträger |
-| TEN-01 | ShelterTex-Basic® | 2   | UV-beständig, einfach faltbar, leicht | Kadettenzelt, mobiles Habitatlager |
-| TEN-22 | ShelterTex-DuoShield® | 3   | Zweilagig, wind- und strahlendicht | Marsstationszelt, Gruppenunterkunft |
-| TEN-66 | ShelterTex-FortX® | 4–5 | Druckdicht, modular koppelbar, sturmfest | Kommandoposten, Notunterkünfte |
+| **Kürzel** | **Bezeichnung**       | **Schutzklasse** | **Eigenschaften**                        | **Verwendet bei**                          |
+|------------|-----------------------|------------------|------------------------------------------|--------------------------------------------|
+| PAK-11     | PackTex-Cargo®        | 2                | Leicht, modular, rotationsfähig          | Versorgungstaschen, Pouches, leichte Packs |
+| PAK-33     | PackTex-Roughhaul®    | 3                | Abriebfest, schwerlastgeeignet           | Ausseneinsatz-Rucksäcke, Werkzeugträger    |
+| PAK-50     | PackTex-SpecOps®      | 4                | Wasserfest, IR-dämpfend, leise           | Spezialeinsätze, Langstreckenträger        |
+| TEN-01     | ShelterTex-Basic®     | 2                | UV-beständig, einfach faltbar, leicht    | Kadettenzelt, mobiles Habitatlager         |
+| TEN-22     | ShelterTex-DuoShield® | 3                | Zweilagig, wind- und strahlendicht       | Marsstationszelt, Gruppenunterkunft        |
+| TEN-66     | ShelterTex-FortX®     | 4–5              | Druckdicht, modular koppelbar, sturmfest | Kommandoposten, Notunterkünfte             |
 
 **🔍 Technische Beschreibung**
 
@@ -279,35 +280,80 @@
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung** | **Gewicht** | **Schutzklasse** | **Verwendung** | **Einheit** |
-| --- | --- | --- | --- | --- | --- |
-| PNT-4 | PlasTitan-Standard® | mittel | 5   | Standard-Plattenträger | regulär |
-| PNT-7E | PlasTitan-Elite® | leicht | 6+  | Elite-Aussenpanzerung | elite |
+| Kürzel | Bezeichnung            | Gewicht | Schutzklasse | Verwendung                           | Einheit     |
+|--------|------------------------|---------|--------------|--------------------------------------|-------------|
+| PNT-4  | PlasTitan-Standard®    | mittel  | 5            | Standard-Plattenträger               | regulär     |
+| PNT-7E | PlasTitan-Elite®       | leicht  | 6+           | Elite-Aussenpanzerung                | elite       |
+| HSK-3  | HelmShell-Kadett®      | leicht  | 2            | Kadettenhelm (Stoßschutz)            | kadett      |
+| HSK-5  | HelmShell-Regular®     | mittel  | 4            | Mars-Stahlhelm, Splitterschutz       | regulär     |
+| HSK-7  | HelmShell-Elite®       | leicht  | 5            | Elite-Kopfschutz mit HUD/IR          | elite       |
+| HSP-4  | HelmShell-Pilot®       | leicht  | 4            | Cockpitsystem, vibrationsoptimiert   | piloten     |
+| HSRX-6 | HelmShell-OrbitCombat® | mittel  | 6            | Orbitaleinheit, Stoß-/Strahlenschutz | raumtruppen |
+| HSEV-7 | HelmShell-EVA-X®       | leicht  | 6+           | EVA-Einsätze, Vakuumdruck, HUD       | raumanzüge  |
 
-**🔍 Technische Beschreibung**
+**🔍 Technische Beschreibungen**
 
 **PNT-4 – PlasTitan-Standard®**
 
 * Keramik-Metall-Verbundstoff mittlerer Dichte
-* Kugelhemmend, stossverteilend, gegen Projektilsplitter geeignet
-* Eingesetzt in Schutzwesten, Rückenplatten und Exo-Module regulärer Truppen
+* Kugelhemmend, stoßverteilend, splitterschutzfähig
+* Verwendung in regulären Schutzwesten, Plattenträgern und Exo-Sektionen
 
 **PNT-7E – PlasTitan-Elite®**
 
-* Hochentwickelter Leichtverbund mit Titanfaseranteil
-* Extrem leicht, hitzebeständig und extrem widerstandsfähig
-* Ermöglicht uneingeschränkte Bewegung trotz hoher Schutzwirkung
-* Bestandteil spezialisierter Elitepanzerungen
+* Leichtes Titanfaser-Verbundsystem mit Reaktivbeschichtung
+* Extrem widerstandsfähig bei sehr geringem Gewicht
+* Einsatz in Elite-Anzügen, schwer bewaffneten Exo-Rahmen, Kommandotruppen
+
+**HSK-3 – HelmShell-Kadett®**
+
+* Einfacher Kunststoffverbund mit Verstärkungsrippen
+* Nur Stoßschutz (z. B. beim Schleusentraining) – kein ballistischer Schutz
+* Trägt VSL-2 Visier (VisLite-PolyShield®)
+* Eingesetzt bei Kadetten, Schulungen, Habitatdiensten
+
+**HSR-5 – HelmShell-Regular®**
+
+* Mars-Stahlverbund mit Fasereinlage, Innendämpfung
+* Schutz gegen mittlere kinetische Kräfte, Splitter, Stöße
+* Kompatibel mit SIL-7 (Silicorit-Visier)
+* Einsatz bei Truppen in Kontrollgängen, Außendienst & Stationsschutz
+  HSE-7 – HelmShell-Elite®
+* Titan-Keramik-Komposit mit interner Sensorik & Interfaceaufnahme
+* HUD-fähig mit VSX-9 (Visarite), IR-reduzierend, hautanliegend
+* Biometrische Passform & Kommandoschnittstelle
+* Verwendung bei Spezialaufträgen, Raumlandungen, Tarnmissionen
+
+**HSP-4 – HelmShell-Pilot®**
+
+* Druckoptimierter Verbundhelm mit gepolstertem Innenaufbau
+* Geräuschgedämpft, vibrationsstabilisiert für Cockpit & Kommandosessel
+* Kompatibel mit PFC-42 Druckanzügen, Visarite-kompatibel
+* Eingesetzt in Langstreckenflugzeugen, Dropships, Transportleitungen
+
+**HSRX-6 – HelmShell-OrbitCombat®**
+
+* Orbitalkampfhelm mit modularem Außenschutz (Strahlung, Einschläge)
+* Druckstabil, kompatibel mit Magnetsohlen, Zielvisieren & Sensorhalterungen
+* Trägt HUD-Visiere (VSX-9), unterstützt taktische Kopplung im Orbit
+* Verwendung bei Raumlandekriegszügen, Orbitpatrouillen, Außenmissionen
+
+**HSEV-7 – HelmShell-EVA-X®**
+
+* Vakuumdichtes Hochleistungsmodul für Außenarbeiten im All
+* Extrem leicht und stoßfest, mit reflektierendem Innenaufbau
+* Enthält HUD, Sauerstoffsensorik, Luftdruckregelung
+* Teil des SRF-90 EVA-Systems bei Wartungseinsätzen im Orbit
 
 ## 🥽 Block 09: Helm- & Visiermaterialien _(inkl. günstigem Kadettenmaterial)_
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung** | **Schutzklasse** | **Eigenschaften** | **Verwendung** |
-| --- | --- | --- | --- | --- |
-| **VSL-2** | VisLite-PolyShield® | 2   | Leicht, stossresistent, kostengünstig | Kadettenhelme, Übungsvisiere |
-| **SIL-7** | Silicorit-Sichtscheibe | 3   | Transparent, splitterhemmend, leicht | Standard-Visiere, Sekundärhelme |
-| **VSX-9** | Visarite-Laminat | 4–5 | HUD-fähig, kratzfest, stosssicher | Elitehelme, Sensorvisiere |
+| Kürzel | Bezeichnung            | Schutzklasse | Eigenschaften                         | Verwendung                      |
+|--------|------------------------|--------------|---------------------------------------|---------------------------------|
+| VSL-2  | VisLite-PolyShield®    | 2            | Leicht, stossresistent, kostengünstig | Kadettenhelme, Übungsvisiere    |
+| SIL-7  | Silicorit-Sichtscheibe | 3            | Transparent, splitterhemmend, leicht  | Standard-Visiere, Sekundärhelme |
+| VSX-9  | Visarite-Laminat       | 4–5          | HUD-fähig, kratzfest, stosssicher     | Elitehelme, Sensorvisiere       |
 
 **🔍 Technische Beschreibung**
 
@@ -336,11 +382,11 @@
 
 **📋 Tabelle**
 
-| **Kürzel** | **Bezeichnung** | **Schutzklasse** | **Eigenschaften** | **Verwendet bei** |
-| --- | --- | --- | --- | --- |
-| LWF-09 | Lightweight Flexweave® | 2   | Atmungsaktiv, antistatisch, leicht | Unteranzüge, Trägerschichten |
-| TDC-5 | Thermal Dust Cloak® | 4   | Wind- & Staubschutz, knisterfrei, isolierend | Staubmäntel, Sichtüberwürfe |
-| BME-3 | BioMesh Emergency® | 1–2 | Antibakteriell, feuerhemmend, günstig | Notfallkleidung, Lagertextilien |
+| **Kürzel** | **Bezeichnung**        | **Schutzklasse** | **Eigenschaften**                            | **Verwendet bei**               |
+|------------|------------------------|------------------|----------------------------------------------|---------------------------------|
+| LWF-09     | Lightweight Flexweave® | 2                | Atmungsaktiv, antistatisch, leicht           | Unteranzüge, Trägerschichten    |
+| TDC-5      | Thermal Dust Cloak®    | 4                | Wind- & Staubschutz, knisterfrei, isolierend | Staubmäntel, Sichtüberwürfe     |
+| BME-3      | BioMesh Emergency®     | 1–2              | Antibakteriell, feuerhemmend, günstig        | Notfallkleidung, Lagertextilien |
 
 **🔍 Technische Beschreibung**
 
