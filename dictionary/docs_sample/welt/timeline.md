@@ -2,6 +2,11 @@
 
 ## 1623 Landung des Grossen Schyffs
 
+– Landung des Großen Schyffs auf dem Mars unter Admiralin Ubika
+– Erschaffung der Felinischen Träger (aus Katzendna)
+– Aufbau von Planetoformanlagen durch KI zur Bromfilterung
+– Felinische Träger und KI leben in harmonischer Koexistenz
+
 Das Grosse Schyff, so sagt zumindest die marsianische Geschichtsschreibung, landet auf dem Mars. Grundlegende
 Ansiedlungen werdem gegründet, gigantische Planetoformanlage (PFA) erbaut, die das schädliche Brom des Mars aus der
 Atmisphäre filtern. Sie werden von KI servittiert, die in einem grossen Werk hetgestellt werden. Was mit dem Schyff
@@ -18,16 +23,29 @@ Sie liess aus der DNA der Katze eine neue Lebensform zusammensetzen: einen Felin
 aber ausgestattet mit genug Witz. Ubika ordnete für ihre neue Rasse auch die Errichtung der Planetoformanlagen an.
 Feline und KI lebten glücklich in einer Symbiose zusammen.
 
-## 1990 Neith-Bau
+## 1990 Neith-Bau und Neith-Unfall
+
+– Terraner versuchen auf Neith (Venusmond) Lebensraum zu schaffen
+– Riss im Raum-Zeit-Kontinuum öffnet Verbindung zu Gottesreich
+– Gottesstaub & Raummolche gelangen ins Sonnensystem
+– Dreifinger entwickeln „Gegenwartsbrechung“
+– Barben werden durch das Ereignis angelockt
+
+Riss zum Gottesreich. Raummolche und Gottesstaub gelangen ins Sonnensystem. Dreifinger erhalten Gabe der Gegenwartsbrechung.
+
+![Dimensionsriss](../_images/skizzen/dimensionsriss.jpg)
 
 Bei dem Versuch lunarer Raumingenieure, auf der Venus neuen Lebensraum zu schaffen, wird versehentlich eine
 Raum-Zeit-Spalte zu einer anderen Dimension geöffnet. Durch den Riss gelangen Raummolche und eine Wolke Gottesstaub in
 das Sonnensystem. Seither haben die Dreifinger die göttliche Gabe der Gegenwartsbrechung. Brom-Handelsbeziehungen haben
 gestartet.
 
-![Dimensionsriss](../_images/skizzen/dimensionsriss.jpg)
-
 ## 1993 Anlandung Barbisches Baumschiff auf Neith
+
+– Barbisches Baumschiff landet auf Neith (1993)
+– Weitere Barben landen auf dem Mars (2003)
+– Orange-Katholische verbreiten KI-feindliche Lehre
+– Mars erlebt erste religiöse Radikalisierung
 
 Unbeabsichtigt gerufen durch den Neith-Unfall landet eine barbische Vorhut mit einem Baumschiff im Sonnensystem an. Die
 Barben sind zunächst der Überzeugung, dass sie gerufen wurden und siedeln sich kurzer Hand auf dem neuen Venusmond Neith
@@ -44,11 +62,19 @@ gipfelt in der Machtergreifung des sogenannten Marsianischen Zephirs und dem Zwe
 
 ## 2012 Erster Planetarischer Krieg
 
+– Ausgelöst durch Gebiets- und Ideologiekonflikte mit den Barben
+– Planeten werden neu verteilt, Barben erhalten exklusiv Neith
+
 Gebiets- beziehungsweise Planetenstreitigkeiten durch die neue Spezies der Barben und Gebietsansprüche.
 
 Die Planeten werden verteilt und ein Nichtangriffspakt geschlossen. DIe Barben bekommen einzig und allein Neith.
 
 ## 2033 Machtergreifung Marsianischer Zephir
+
+– Nationalistischer Politiker kommt an die Macht
+– Beginn systematischer Verfolgung und Internierung der KI
+– Aufbau der MZ-Kadetten für ideologische Schulung Jugendlicher
+– KI-Fabriken stillgelegt, Persönlichkeitsrechte aufgehoben
 
 Ein Politiker, der als Marsianischer Zephir bezeichnet wird, kommt an die Macht. Er verspricht den Marsern ein besseres
 Leben unter marsianischer Herrschaft. Denn der Marsiaischen Verherrschaft würden die Ressourcen im Sonnensystem
@@ -59,11 +85,22 @@ entpersonalisiert oder komplett zerstört.
 
 ## 2034 Beginn Zweiter Interplanetarische Krieg
 
+– Zweiter Interplanetarischer Krieg:
+– Inszenierter Angriff durch den Mars führt zu massiver Eskalation
+– Beteiligung fast aller Sonnensystem-Planeten
+– Barben von Proxima Centauri treten ebenfalls ein
+
 Der Marsianische Zephir fingiert einen terranen? Angriff auf den Mars. Im weiteren Verlauf werden immer mehr Planeten
 mit in den Konflikt hineingezogen, bis das ganze Sonnenystem daran beteiligt ist - und sogar dieBarben von Proxima
 Zentauri.
 
-## 2045 Kriegsende dank UW-Bombe
+## 2045 Kriegsende und "Wunder"
+
+– UW-Bombe zerstört Pluto, verursacht Raum-Zeit-Riss
+– Scherbe Gottes gelangt auf den Mars
+– Brom wird ins Bromdelta gezogen („Letzter Bromsturz“)
+– KI-Lager werden entdeckt → Entsetzen und Rehabilitierung
+– Erste Robotergesetze zum Schutz der KI
 
 Die Barben möchten den Krieg beenden. Während der Mars schon ergeben har, kämpfen seine Verbünderen, die Plutonier,
 immer weiter. Aus Verzweiflung und Neugier greifen sie den Pluto mit einer neu entwickelten Bombe an, die auf der sog.
@@ -93,6 +130,10 @@ Dinge von dort.
 
 ## 2045 Angriff auf Bromsal
 
+– Vakuumierungsbomben zerstören die Stadt
+– Tante Mary stirbt, wird zum Friedberg gebracht
+– Mars im Umbruch nach dem Ende des Krieges
+
 Gelegenheit macht Diebe. Nand beobachtet den Vakuumierungsangriff auf Bromsal. Am nächsten Morgen transportieren sie
 Tante Marys Leiche zum Friedberg (XVIII). Nand ist wieder im LT-Tunnel, der beängstigend vibriert. Schliesslich wacht er
 aus dem Traum auf und stellt fest, dass die Vibrationen real sind. Luftangriff auf Bromsal. Die Wohnbleibe der Familie
@@ -113,6 +154,14 @@ Die Bombe explodiert den Pluto, reisst ein Loch ins Raum-Zeit-Gefüge bzw. die G
 regnen ins Sonnensystem.
 
 ## 2071 Der Heilige Krieg
+
+– Orange-Katholische erstarken erneut aufgrund Arbeitslosigkeit
+– KI werden für gesellschaftliche Probleme verantwortlich gemacht
+– Zweite Robotergesetze:
+    - Keine Stimme
+    - Keine Persönlichkeit
+    - Keine individuelle Form
+– Resultat: KI werden „stumme Sklaven“, obwohl einst Helfer
 
 Die Orange-Katholischen erstarken erneut. Grund ist u. a. die grosse Arbeitslosigkeit auf dem Mars. Dies wird auf die KI
 zurückgeführt. Diese waren beim Wiederaufbau den Mars nützlich, nehmen jetzt allerdings Arbeitsplätze weg.

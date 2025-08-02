@@ -1,15 +1,30 @@
 # Personae
 
-# WEL - Befehls-Stab
+## WEL - Befehls-Stab
 
-**1. Stabskadettin Heinlein**
+**1. Nand**
+
+* Halos grosser Bruder
+
+![map.png](../_images/npc/nand-jung.jpg)
+![map.png](../_images/npc/nand.jpg)
+
+**2. Halo**
+
+* Nands kleine Schwester
+
+![map.png](../_images/npc/halo-und-nand.jpg)
+
+Halo (li), Nand (re)
+
+**3. Stabskadettin Heinlein**
 
 * Hobby: Alte Märchen über die Erde sammeln und nachspielen
 * Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten
 * Quest: Im Lagerarchiv eine versteckte Kiste mit den letzten Geschichten ihrer Oma finden – und retten, bevor der
   Inspektor kommt
 
-**2. Kommandantin Solan**
+**4. Kommandantin Solan**
 
 * Rolle: Lagerleitung / Disziplin / Taktische Planung
 * Funktion: Hat das letzte Wort im Lager. Führt mit klarem Blick und harter Stimme.
@@ -23,7 +38,7 @@
     * unterhält Brumsenstöcke auf dem Areal des Alten Raumhafens
     * je nachdem, was die Kadetten angestellt haben, kööönnten die Brumsen auch mal tot sein und sie muss sich neue besorgen
 
-**3. Furiermeister Kelv**
+**5. Furiermeister Kelv**
 
 * Rolle: Körperliche Ausbildung / Drill / Strafen
 * Funktion: Zuständig für Ausdauertraining, Nahkampf und Lagerordnung.
@@ -34,7 +49,7 @@
   Geburtstagsgeschenk
 * Hat Angst vor Larven allert Art, hasst das, kann den Raum / Zelt nicht betreten, wenn da was mit ekligen Maden oder so ist; z. B. Flittermolch-Maden
 
-**4. Wachhabende Veyra**
+**6. Wachhabende Veyra**
 
 * Rolle: Sicherheit / Nachtwache / Maschinenkontrolle
 * Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
@@ -44,7 +59,7 @@
 * Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie
   mit Essen zu versorgen
 
-**5. Ausbilderin Fenn**
+**7. Ausbilderin Fenn**
 
 * Rolle: Überlebenstraining / Geländeübungen / Notfallausbildung
 * Funktion: Bringt den Kadetten bei, wie man im Ödland überlebt
