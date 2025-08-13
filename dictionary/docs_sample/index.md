@@ -1,4 +1,4 @@
-# Die Pfoten voller Staub
+⁰# Die Pfoten voller Staub
 
 > Nand - Das Rollenspiel
 
@@ -42,10 +42,7 @@ Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rett
 Der Mars ist kein Ort für Schwache.
 Aber Stärke hat viele Formen.
 
-Weit über den staubigen Hügeln ragen die Planetoformanlagen wie metallene Giganten in den Himmel – uralte Maschinen,
-betrieben von geheimnisvollen KIs, die mehr wissen, als sie sagen. Tief darunter leben die Marser – feline Wesen mit
-wachen Augen, scharfen Krallen und weichen Herzen. Sie wachsen auf in Ausbildungslagern, arbeiten in Schrottfeldern,
-lernen, sich zu behaupten, zu träumen … und zu kämpfen.
+Weit über den staubigen Hügeln ragen die Planetoformanlagen wie metallene Giganten in den Himmel – uralte Maschinen, betrieben von geheimnisvollen KIs, die mehr wissen, als sie sagen. Tief darunter leben die Marser – feline Wesen mit wachen Augen, scharfen Krallen und weichen Herzen. Sie wachsen auf in Ausbildungslagern, arbeiten in Schrottfeldern, lernen, sich zu behaupten, zu träumen … und zu kämpfen.
 
 Du bist Teil einer Kadett*innenschaft.
 Du hast Freunde. Hoffnungen. Schwächen.
@@ -114,11 +111,14 @@ Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 
 ### Spiel-Erfahrungen
 
-Im monatlichen Rollenspielzteff des Rollenspielvereins Freiburg ist dieses 
+Im monatlichen Rollenspielteff des Rollenspielvereins Freiburg habe ich dieses System / Rollenspiel mehrmals  angeboten. Die Rückmeldungen waren durchweg positiv.
+
+Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:
 
 * Diskussionen über das 3. Reich
-* Rekapitulation zum 3. Reich und der Propaganda-Struktur, u. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
+* Rekapitulation des 3. Reichs und der Propaganda-Struktur. U. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
 * Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
+* Erfahrungen im Mitläufertum: hilflose und schliesslich plasmierte KI; aus purem Eigennutz vernichtet (da war selbst ich als Meister baff). Empörung der Mitstreiterin: "Wir gründen eine Weisse Rose" (zur Rettung der KI)
 
 ## Ambience Sound zu Mars, Krieg und Raumschiff
 
