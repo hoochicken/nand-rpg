@@ -1,4 +1,26 @@
-# Nand - Das Rollenspiel
+# Die Pfoten voller Staub
+
+> Nand - Das Rollenspiel
+
+## Darum geht's
+
+### Spielwelt
+
+Die Handlung spielt auf dem Mars, in einer nagen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Anzug.
+
+Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und Du bist Kadett des in der MZ-Kadettschaft, eine parammilitärische Gruppierung zum Heranziehen von Soldaten.
+
+Soldatsein lernst Du im  Werk­erziehungslager (WEL). Das bedejtet Spass. Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren. 
+
+Nieder mit den KI!
+
+### Besonderheit
+
+Jeder Charakter hat eine eigene Behinderung oder Einschränkung – körperlich oder geistig. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen. Das Spiel lädt dazu ein, in eine "versehrte" Welt einzutauchen, in der Stärke oft aus der Schwäche erwächst und Kreativität die größte Waffe ist.
+
+### Hintergrund
+
+Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie des Rollenspiels. Seine Geschichten von Entbehrung, Zusammenhalt und kleinen Momenten des Glücks unter widrigsten Umständen fließen in die Erzählung ein – und geben dem Spiel eine ehrliche, emotionale Tiefe.
 
 > Der🌌 "Staubpfoten – Abenteuer auf dem Mars" 🐾
 > Ein inklusives Rollenspiel in einer rauen, roten Welt
