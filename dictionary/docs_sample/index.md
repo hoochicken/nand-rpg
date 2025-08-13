@@ -14,21 +14,27 @@
 
 ### Spielwelt
 
-Die Handlung spielt auf dem Mars, in einer nagen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Anzug.
+Die Handlung spielt auf dem Mars, in einer nagen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
 
-Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und Du bist Kadett des in der MZ-Kadettschaft, eine parammilitärische Gruppierung zum Heranziehen von Soldaten.
+Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und du bist Mitglied der sogenannten MZ-Kadettschaft, einer paramilitärische Gruppierung zum Heranziehen von Soldaten.
 
-Soldatsein lernst Du im  Werk­erziehungslager (WEL). Das bedejtet Spass. Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren. 
+Und das heisst Spass. Nachmittägliche Gruppenstunden, mehrtägige Wehrertüchtigungslager, HR-Führerschein! Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren. 
 
 Nieder mit den KI!
 
+(Oder auch nicht!)
+
 ### Besonderheit
 
-Jeder Charakter hat eine eigene Behinderung oder Einschränkung – körperlich oder geistig. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen. Das Spiel lädt dazu ein, in eine "versehrte" Welt einzutauchen, in der Stärke oft aus der Schwäche erwächst und Kreativität die größte Waffe ist.
+Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen. 
+
+Das Spiel lädt dich dazu ein, in eine andere Welt einzutauchen, in der Stärke oft aus der Schwäche erwächst und Kreativität die grösste Waffe ist.
 
 ### Hintergrund
 
-Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie des Rollenspiels. Seine Geschichten von Entbehrung, Zusammenhalt und kleinen Momenten des Glücks unter widrigsten Umständen fließen in die Erzählung ein – und geben dem Spiel eine ehrliche, emotionale Tiefe.
+Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisde aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
+
+Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
 
 > Der🌌 "Staubpfoten – Abenteuer auf dem Mars" 🐾
 > Ein inklusives Rollenspiel in einer rauen, roten Welt
@@ -47,26 +53,37 @@ Vielleicht fehlt dir ein Bein. Vielleicht sprichst du anders. Vielleicht träums
 will.
 
 Doch du bist nicht allein.
-Und wenn du mutig bist, kannst du den Schleier lüften – über die KIs, das Grosse Schyff … und über das, was der Mars
-einst war.
+Und wenn du mutig bist, kannst du den Schleier lüften – über die KIs, das Grosse Schyff … und über das, was der Mars einst war.
 
-Staubpfoten ist ein erzählerisches Rollenspiel für Menschen jeden Alters.
-Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
+Staubpfoten ist ein erzählerisches Rollenspiel für Menschen jeden Alters. Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
 
-## Mars, 2045. 2. Interplanetarischer Krieg.
+## Mars, 2045
 
-Ja, Kacke … Krieg und Kindsein …
+Ja, Kacke ... Krieg und Kindsein ... 
 
 Ihr seid mittendrin. Mitglieder der MZ-Kadettschaft und zukünftige Soldaten! Okay, ihr seid erst 8 Winter alt, manche sogar 16. Aber man muss früh anfangen. Schliesslich wollen wir den Krieg gewinnen.
 Daher viel Spass im Wehrerziehungslager und danach bei Eurem ersten richtigen Auftrag: der Observation der Mars-Kristallnacht. Ihr werdet den Marsianischen Zephir stolz machen!
 
 ===
 
-Kleiner Tipp: Und schau zu, dass niemand mitbekommt, dass deine Schwester behindert ist. Sonst kommen sie sie holen … also verrate keinem dein Geheimnis.
+Kleiner Tipp: Und schau zu, dass niemand mitbekommt, dass deine Schwester behindert ist. Sonst kommen sie sie holen ... also verrate keinem dein Geheimnis.
 
 ===
 
 Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz und Schnurrhaaren. Erlebt ein wundervolles Abenteuer und macht die Welt es bisschen besser!
+
+## Triggerwarnungen
+
+* Ideologie
+* Gruppenzwang
+* Verrat
+* Irrtum
+* Tod
+* Body-Horrer / Missgestaltung des Körpers
+* Ungerechtigkeit gegenüber Minderheiten
+* Zweifel
+* Ungewissheit
+* Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
 ## Disclaimer
 
@@ -88,33 +105,20 @@ Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspi
 
 Dieses Rollenspiel ist divers, nicht nur in Bezug auf `[AKTUELL_POLITISCH_KORREKTE_BEZEICHNUNG_FUER_LGBTQIA+]`-Community, sondern vor allem in Bezug auf Inklusion von Behinderten.
 
-Eine besondere Stellung nimmt im Rollenspiel die Gebärdensprache ein. Diese Sprache ist die Standardsprache daraussen. Daher kann man draussen niemandem hinterherrufen. . Das Rollenspiel soll diese Beschränkungen erfahrbar machen.
-
 Jeder Charakter hat Behinderungen, Einschränkungen, psychische Probleme - so wie wir alle.
 
 Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 
 * Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
-* Behinderte: Erfahrungen als Anders-Behinderter sammeln.
+* Behinderte: Erfahrungen als Anders-Behinderter sammeln und einfach Spass haben.
 
 ### Spiel-Erfahrungen
+
+Im monatlichen Rollenspielzteff des Rollenspielvereins Freiburg ist dieses 
 
 * Diskussionen über das 3. Reich
 * Rekapitulation zum 3. Reich und der Propaganda-Struktur, u. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
 * Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
-
-## Triggerwarnungen
-
-* Ideologie
-* Gruppenzwang
-* Verrat
-* Irrtum
-* Tod
-* Body-Horrer / Missgestaltung des Körpers
-* Ungerechtigkeit gegenüber Minderheiten
-* Zweifel
-* Ungewissheit
-* Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
 ## Ambience Sound zu Mars, Krieg und Raumschiff
 
