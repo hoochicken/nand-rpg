@@ -4,6 +4,14 @@
 
 ## Darum geht's
 
+### Auf einen Blick
+
+1. Du bist ein Kadett auf dem roten Mars – mit einer Macke, einer Mission und einer Bande, die dich braucht.
+2. Du hast nicht alles, was perfekt ist – aber alles, was zählt, um mit uns durch Staub, Schrott und Abenteuer zu ziehen.
+3. Du bist versehrt, aber nicht allein – und heute beginnt das größte Spiel deines Lebens im WEL.
+4. Du, ein paar Freunde, eine Menge Marsstaub – und ein Abenteuer, das nur ihr bestehen könnt.
+5. Du bist einer von uns – nicht unverwundbar, aber unaufhaltsam.
+
 ### Spielwelt
 
 Die Handlung spielt auf dem Mars, in einer nagen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Anzug.
