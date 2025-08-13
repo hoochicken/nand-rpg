@@ -8,10 +8,10 @@ Hab Spass auf dem Mars! Erlebe Gefahrem und Abenteuer! Und wie weit wirst du geh
 
 ### Auf einen Blick
 
-1. Du bist ein Kadett auf dem roten Mars.
-2. Du hast gerade mal das, was es braucht, um Anzug und Helm sicht zu halten.
-3. Es ist Kriegu bist versehrt, aber nicht allein – und heute beginnt das größte Spiel deines Lebens im WEL.
-4. Du, ein paar Freunde, eine Menge Marsstaub – und ein Abenteuer, das nur ihr bestehen könnt.
+1. Du bist eine Katze auf zwei Beinen.
+2. Du lebst auf dem Mars. Die Atmosphäre des Mars ist giftig und darum brauchst du einen Schutzanzug.
+3. Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinning und hat einen Krieg angezettelt.
+4. 
 5. Du bist einer von uns – nicht unverwundbar, aber unaufhaltsam.
 
 ### Spielwelt
