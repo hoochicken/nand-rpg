@@ -4,11 +4,13 @@
 
 ## Darum geht's
 
+Hab Spass auf dem Mars! Erlebe Gefahrem und Abenteuer! Und wie weit wirst du gehen, um den Mars zu retten?
+
 ### Auf einen Blick
 
-1. Du bist ein Kadett auf dem roten Mars – mit einer Macke, einer Mission und einer Bande, die dich braucht.
-2. Du hast nicht alles, was perfekt ist – aber alles, was zählt, um mit uns durch Staub, Schrott und Abenteuer zu ziehen.
-3. Du bist versehrt, aber nicht allein – und heute beginnt das größte Spiel deines Lebens im WEL.
+1. Du bist ein Kadett auf dem roten Mars.
+2. Du hast gerade mal das, was es braucht, um Anzug und Helm sicht zu halten.
+3. Es ist Kriegu bist versehrt, aber nicht allein – und heute beginnt das größte Spiel deines Lebens im WEL.
 4. Du, ein paar Freunde, eine Menge Marsstaub – und ein Abenteuer, das nur ihr bestehen könnt.
 5. Du bist einer von uns – nicht unverwundbar, aber unaufhaltsam.
 
