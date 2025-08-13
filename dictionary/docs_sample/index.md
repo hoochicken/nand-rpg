@@ -26,37 +26,19 @@ Nieder mit den KI!
 
 (Oder auch nicht!)
 
-### Besonderheit
+## Besonderheit
 
 Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen. 
 
-Das Spiel lädt dich dazu ein, in eine andere Welt einzutauchen, in der Stärke oft aus der Schwäche erwächst und Kreativität die grösste Waffe ist.
-
-### Hintergrund
-
-Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisde aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
-
-Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
-
-> Der🌌 "Staubpfoten – Abenteuer auf dem Mars" 🐾
-> Ein inklusives Rollenspiel in einer rauen, roten Welt
-
-Der Mars ist kein Ort für Schwache.
-Aber Stärke hat viele Formen.
-
-Weit über den staubigen Hügeln ragen die Planetoformanlagen wie metallene Giganten in den Himmel – uralte Maschinen, betrieben von geheimnisvollen KIs, die mehr wissen, als sie sagen. Tief darunter leben die Marser – feline Wesen mit wachen Augen, scharfen Krallen und weichen Herzen. Sie wachsen auf in Ausbildungslagern, arbeiten in Schrottfeldern, lernen, sich zu behaupten, zu träumen … und zu kämpfen.
-
-Du bist Teil einer Kadett*innenschaft.
-Du hast Freunde. Hoffnungen. Schwächen.
-Vielleicht fehlt dir ein Bein. Vielleicht sprichst du anders. Vielleicht träumst du von Dingen, die man dir verbieten
-will.
-
-Doch du bist nicht allein.
-Und wenn du mutig bist, kannst du den Schleier lüften – über die KIs, das Grosse Schyff … und über das, was der Mars einst war.
-
-Staubpfoten ist ein erzählerisches Rollenspiel für Menschen jeden Alters. Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
-
 ## Mars, 2045
+
+Die unendliche Weite des Horizonts. Überspannt vom sanft grünen Himmel.  Der Sand und all die verschiedenen Farbtöne des Sands. Ocker. Ziegel. Dunkel. Braun. Bromig. Hier bist du geboren. Auf dem Mars.
+
+Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ersetzt haben. Das Brom ist bitter ... und ätzend.
+
+
+
+## Kadettschaft - Kameradschaft
 
 Ja, Kacke ... Krieg und Kindsein ... 
 
@@ -70,6 +52,14 @@ Kleiner Tipp: Und schau zu, dass niemand mitbekommt, dass deine Schwester behind
 ===
 
 Ihr schlüpft in die Rollen Marser Kinder. Marser sind Feline mit Fell, Schwarz und Schnurrhaaren. Erlebt ein wundervolles Abenteuer und macht die Welt es bisschen besser!
+
+### Hintergrund
+
+Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisde aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
+
+Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
+
+
 
 ## Triggerwarnungen
 
