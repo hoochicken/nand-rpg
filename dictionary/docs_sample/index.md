@@ -11,12 +11,12 @@ Hab Spass auf dem Mars! Erlebe Gefahrem und Abenteuer! Und wie weit wirst du geh
 1. Du bist eine Katze auf zwei Beinen.
 2. Du lebst auf dem Mars. Die Atmosphäre des Mars ist giftig und darum brauchst du einen Schutzanzug.
 3. Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinning und hat einen Krieg angezettelt.
-4. 
-5. Du bist einer von uns – nicht unverwundbar, aber unaufhaltsam.
+4. Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
+5. Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?
 
 ### Spielwelt
 
-Die Handlung spielt auf dem Mars, in einer nagen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
+Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
 
 Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und du bist Mitglied der sogenannten MZ-Kadettschaft, einer paramilitärische Gruppierung zum Heranziehen von Soldaten.
 
