@@ -10,13 +10,22 @@ Jeweils 10 Wiederholungen
 * Bächelsprung 10: auf linkem Bein stehen, so weit wie möglich nach rechts springen und auf rechtem Bein landen, und zurück
 * Bächelsprung Schwer 10: s. o. Bächelsprung, nach Landung auf rrchtem Fuss, das linke Knie so nach als möglich zum Boden, ohne abzusetzen; dann Sprung nach links
 
-## Wasser- Schwimmen
+## Wasser - Schwimmen
 
 * Schulterrollen 10
 * Schultertapsen 10, on Brettstellung
 * Kraulen auf Bauch 10 Doppelkrauler
 * Rückenschwimmen, 10 Züge
 * Brustschwimmen, 10 Züge
+
+## Feuer - Angriff
+
+* Kneekick
+* Jab-Punch
+* tauchen + Schwinger
+* Kick in Unterleib
+* Tigerkralle
+
 
 
 
