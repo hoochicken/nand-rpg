@@ -15,6 +15,7 @@ Jeweils 10 Wiederholungen
 * Schulterrollen 10
 * Schultertapsen 10, on Brettstellung
 * Kraulen auf Bauch 10 Doppelkrauler
+* Rückenschwimmen, 10 Züge
 * Brustschwimmen, 10 Züge
 
 
