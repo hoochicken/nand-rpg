@@ -34,7 +34,7 @@ Jeweils 10 Wiederholungen
 * Kick in Unterleib 10
 * Tigerkralle 10
 
-# Luft - Gewandtheit
+## Luft - Gewandtheit
 
 * Sprawl 10
 * Tauchen + Sprawl 10
