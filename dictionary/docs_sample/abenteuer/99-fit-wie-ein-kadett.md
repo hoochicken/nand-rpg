@@ -18,15 +18,29 @@ Jeweils 10 Wiederholungen
 * Rückenschwimmen, 10 Züge
 * Brustschwimmen, 10 Züge
 
+## Holz - Gewandtheit
+
+* Hampelmannn, 10
+* breiter, tiefer Stand, seitlich wiegen und danei Ferse berühren, 10
+* Crescent Kick / Ohrfeige mit Fuss, 10
+* Miltary Press + diagonal Knöchel  mit Hand berühren 10
+* Sit-outs 10
+
 ## Feuer - Angriff
 
-* Kneekick
-* Jab-Punch
-* tauchen + Schwinger
-* Kick in Unterleib
-* Tigerkralle
+* Kneekick 10
+* Jab-Punch 10
+* tauchen + Schwinger 10
+* Kick in Unterleib 10
+* Tigerkralle 10
 
+# Luft - Gewandtheit
 
+* Sprawl 10
+* Tauchen + Sprawl 10
+* Surfer 10
+* Technical Stand-up 10
+* Burpies 10
 
 
 
