@@ -8,7 +8,7 @@ Dr. Mareike Riegel<br />
 ## Datenschutz
 
 Diese Website ist vollkommen statisch.
-Sie lebt keinerlei Informationen ab.
+Sie legt keinerlei Informationen ab.
 
 ## Bilder
 

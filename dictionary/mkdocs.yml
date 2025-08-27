@@ -3,7 +3,7 @@ site_name: "Nand - RPG"
 site_description: "Das Rollenspiel auf dem Mars"
 site_author: "hoochicken"
 site_url: "http://127.0.0.1:8000"
-copyright: "© 2025 Mareike Riegel"
+copyright: "© 2025 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>"
 
 # Repository-Infos
 repo_name: "GitHub"
@@ -46,7 +46,6 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - de
-  - include-markdown
 
 # Markdown-Erweiterungen
 markdown_extensions:
@@ -84,57 +83,52 @@ extra:
 nav:
   - 🏠 Startseite: index.md
 
-  - Nie wieder !: nie-wieder.md
-
-  - 🧑‍🚀 Charakter & Regeln:
+  - 🧑‍🚀 Regeln:
     - Charaktererstellung: rules/charaktererstellung.md
     - Charakterbögen: rules/charakterboegen.md
     - Regeln: rules/regeln.md
 
-  - 📋 Spielleiterhilfen:
-      - Vorbereitung: spielleiterhilfen/spielleiterhilfen.md
-      - Materialsystem: spielleiterhilfen/materiallisten.md
+#  - 📋 Spielleiterhilfen:
+#      - Vorbereitung: spielleiterhilfen/spielleiterhilfen.md
+#      - Materialsystem: spielleiterhilfen/materiallisten.md
 
   - 🪖 Kadettschaft:
     - Allgemeine Infos: kadettschaft/allgemein.md
     - Rangabzeichen: kadettschaft/rangabzeichen.md
 
-  - 🌍 Weltbeschreibung:
-    - Mars: welt/mars.md
-    - Bromsal: welt/bromsal.md
-    - Zeitlinien: welt/timeline.md
-    - Sonnensystem: welt/sonnensystem.md
-    - Quantenraum: welt/quantenraum.md
-    - Karten: welt/karten.md
-
-  - 🛠️ Ausrüstung:
-    - Übersicht: ausruestung/index.md
-    - Geraffel: ausruestung/geraffel.md
-    - Anzüge: ausruestung/anzuege.md
-    - Helme: ausruestung/helme.md
-    - Leichtatmer & Handschuhe: ausruestung/leichtatmer-und-handschuhe.md
-
-  - ⚙️ Technik:
-    - Kommunikation & Medizin:
-        - Kommunikation: technik/kommunikation.md
-        - Medizin: technik/medizin.md
-    - Fahrzeuge & Waffen:
-        - Vehikel: technik/vehikel.md
-        - Waffen:
-          - Granaten: technik/waffen/granaten.md
-
-  - 🧑‍🌾 Kultur & Alltag:
-      - Marser: kultur/marser.md
-      - Hobbys: kultur/hobbys.md
-      - Kommunikation: kultur/kommunikation.md
-
-  - 👽 Kräfte & Völker:
+  - 🌍 Welt:
+    - Geograhie:
+      - Mars: welt/mars.md
+      - Bromsal: welt/bromsal.md
+      - Zeitlinien: welt/timeline.md
+      - Sonnensystem: welt/sonnensystem.md
+      - Quantenraum: welt/quantenraum.md
+      - Karten: welt/karten.md
+    - 👽 Kräfte & Völker:
       - Völkerübersicht: kraefte/voelker.md
       - KI: kraefte/ki.md
       - AKI: kraefte/aki.md
       - Brom: kraefte/brom.md
       - Gott: kraefte/gott.md
       - Raummolche: kraefte/raummolche.md
+    - 🛠️ Ausrüstung:
+      - Übersicht: ausruestung/index.md
+      - Geraffel: ausruestung/geraffel.md
+      - Anzüge: ausruestung/anzuege.md
+      - Helme: ausruestung/helme.md
+      - Leichtatmer & Handschuhe: ausruestung/leichtatmer-und-handschuhe.md
+    - ⚙️ Technik:
+      - Kommunikation & Medizin:
+          - Kommunikation: technik/kommunikation.md
+          - Medizin: technik/medizin.md
+      - Fahrzeuge & Waffen:
+          - Vehikel: technik/vehikel.md
+          - Waffen:
+            - Granaten: technik/waffen/granaten.md
+    - 🧑‍🌾 Kultur & Alltag:
+        - Marser: kultur/marser.md
+        - Hobbys: kultur/hobbys.md
+        - Kommunikation: kultur/kommunikation.md
 
   - 🎲 Abenteuer:
       - Hauptkampagne:
@@ -145,5 +139,3 @@ nav:
           - Mini-RPG: abenteuer/99-mini-rpg.md
       - NPC-Datenbank:
           - Wehrerziehungslager: npc/wehrerziehungslager.md
-
-  - ⚖️ Impressum & Datenschutz: impressum.md

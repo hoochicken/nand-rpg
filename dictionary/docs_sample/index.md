@@ -62,7 +62,41 @@ Dabei sehen wir unser Spiel in einer ähnlichen Tradition wie der Roman "Starshi
 
 Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt – sie macht Geschichte erlebbar, ohne sie zu trivialisieren.
 
-### Diversität
+## Ambience Sound zu Mars, Krieg und Raumschiff
+
+<p style="text-align:center">
+  <audio controls preload="auto">
+    <source src="assets/audio/nand-echo.ogg" type="audio/ogg">
+    Dein Browser unterstützt das Audio-Element nicht.
+  </audio>
+</p>
+
+# 🛡️ Nie wieder – Ein Spiel gegen das Vergessen
+
+> Dieses Spielsystem wurde mit dem ausdrücklichen Ziel entwickelt, **kritische Auseinandersetzung mit totalitären Strukturen** zu ermöglichen.
+Es zeigt bewusst Elemente wie **Kontrolle, Propaganda, Gruppenzwang** und die **Unterdrückung von Individualität** – nicht zur Verherrlichung, sondern zur **Reflexion**.
+
+In einer Zeit, in der **autoritäres Denken**, **Verschwörungsideologien** und **politische Radikalisierung** wieder zunehmen, sehen wir es als unsere Verantwortung, neue Wege der **historischen und politischen Bildung** zu gehen.
+Unser Spiel soll **bewusst machen**, wie diktatorische Systeme entstehen, funktionieren – und wohin sie führen können.
+
+Dabei **distanzieren wir uns ausdrücklich** von jeder Form der Verherrlichung des Dritten Reichs oder seiner Ideologie.
+Vielmehr ist es unser Ziel, insbesondere **junge Menschen für die Gefahren von Faschismus, Diskriminierung und ideologischer Verblendung** zu sensibilisieren.
+
+## 🎓 Inspirationsquellen
+
+Wir sehen uns damit in der Tradition aufklärerischer Werke wie:
+
+- **„Starship Troopers“** von *Robert A. Heinlein*, der oft missverstanden wird, aber zur kritischen Auseinandersetzung mit Militarismus und gesellschaftlicher Organisation einlädt.
+- **„1984“** von *George Orwell* und **„Fahrenheit 451“** von *Ray Bradbury*, die zeigen, wie Sprachkontrolle, Informationsunterdrückung und Angst autoritäre Systeme stützen.
+- **„V – Die außerirdischen Besucher kommen“**, das in Science-Fiction-Hülle deutlich macht, wie sich faschistische Strukturen schleichend etablieren – und wie Widerstand dagegen wächst.
+- **„Herr der Fliegen“** von *William Golding*, das eindrucksvoll zeigt, wie schnell soziale Ordnung zerfallen und in Gewalt umschlagen kann, wenn Macht unreflektiert bleibt.
+
+Unser Spiel vermittelt diese Themen **nicht abstrakt**, sondern durch **erfahrbare Mechaniken**, **moralische Dilemmata** und **narrative Konflikte**.
+So werden **Verantwortung, Mitläufertum, Widerstand und Unrecht** spielerisch erfahrbar gemacht – **ohne Leid oder Gewalt zu trivialisieren**.
+
+---
+
+## 🌍 Diversität & Inklusion
 
 Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspielvereins Freiburg angeboten. Die Rückmeldung war durchweg positiv.
 
@@ -77,47 +111,53 @@ Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 * Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
 * Behinderte: Erfahrungen als Anders-Behinderter sammeln.
 
-### Spiel-Erfahrungen
+<div class="textbox">
+  So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
+</div>
+---
 
-* Diskussionen über das 3. Reich
-* Rekapitulation zum 3. Reich und der Propaganda-Struktur, u. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
-* Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
+## 🎲 Spiel-Erfahrungen
 
-## Triggerwarnungen
+Die bisherige Spielerfahrung hat gezeigt, wie wirkungsvoll dieser Ansatz sein kann:
 
-* Ideologie
-* Gruppenzwang
-* Verrat
-* Irrtum
-* Tod
-* Body-Horrer / Missgestaltung des Körpers
-* Ungerechtigkeit gegenüber Minderheiten
-* Zweifel
-* Ungewissheit
-* Gewalt gegen alles Mögliche, was der Ideologie widerspricht
+- Diskussionen über das **Dritte Reich** wurden innerhalb der Gruppe **reflektiert und kontrovers** geführt.
+- Besonders eindrucksvoll war die **Rekapitulation der NS-Propaganda-Strukturen** – gemeinsam mit einer Schülerin, die das Thema gerade **parallel im Schulunterricht** behandelt hatte.
+- Ein bewegender Moment: Zwei Spieler*innen mit Behinderungen freuten sich spontan und sagten lächelnd:
 
-## Ambience Sound zu Mars, Krieg und Raumschiff
+!!! quote "ein Zitat aus einer Spielrunde"
+    „Schau mal, wir können uns die Behinderungen selbst auswählen!“
+    <br>
+    Ein schöner Beweis dafür, dass **Selbstwirksamkeit, Sichtbarkeit und Perspektivwechsel**
+    durch Rollenspiel möglich sind.
 
-<p style="text-align:center">
-  <audio controls preload="auto">
-    <source src="assets/audio/nand-echo.ogg" type="audio/ogg">
-    Dein Browser unterstützt das Audio-Element nicht.
-  </audio>
-</p>
+---
 
-## Fanart
+## ⚠️ Inhaltliche Triggerwarnung
 
-### HR
+Im Rahmen des Spiels können sensible Themen auftauchen:
 
-![hr-01.jpg](_images/fan-art/hr-01.jpg)``
-![hr-04.jpg](_images/fan-art/hr-04.jpg)
+- Ideologische Indoktrination
+- Soziale Ausgrenzung
+- Verrat und Loyalitätskonflikte
+- Körperliche und psychische Grenzerfahrungen
+- Ungleichheit, Gewalt und Repression
 
-### Brumsen
+!!! warning "Inhaltlicher Hinweis"
+    Diese Themen sind **nicht Selbstzweck**, sondern Teil einer
+    **bewussten Auseinandersetzung mit realen historischen wie gegenwärtigen Mechanismen**.
 
-![brumsen-01.png](_images/fan-art/brumsen-01.png)
-![brumsen-14.png](_images/fan-art/brumsen-08.png)
+---
 
-### Plötzen
+## 📌 Fazit
 
-![ploetzen-09.png](_images/fan-art/ploetzen-09.png)
+Wir verstehen unser Spiel als **Beitrag zur politischen Bildung**, zur **Stärkung demokratischer Werte** und zur **Wachsamkeit gegenüber ideologischer Verführung.
+
+<div class="textbox">
+  <strong>❗ Nie wieder </strong> ist kein leeres Wort ❗
+  <br>
+  Sondern eine <strong>Haltung</strong>, die man lernen, verstehen und leben muss.
+  <br>
+  Unser Spielsystem will genau das ermöglichen.
+</div>
+
 
