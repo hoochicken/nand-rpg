@@ -83,7 +83,8 @@ extra:
 # Navigation
 nav:
   - 🏠 Startseite: index.md
-  - Nie wieder !: startseite/nie_wieder.md
+
+  - Nie wieder !: nie-wieder.md
 
   - 🧑‍🚀 Charakter & Regeln:
     - Charaktererstellung: rules/charaktererstellung.md
