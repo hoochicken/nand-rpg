@@ -1,33 +1,49 @@
-# Nand - Das Rollenspiel
+⁰# Die Pfoten voller Staub
 
-> Der🌌 "Staubpfoten – Abenteuer auf dem Mars" 🐾
-> Ein inklusives Rollenspiel in einer rauen, roten Welt
+> Nand - Das Rollenspiel
 
-Der Mars ist kein Ort für Schwache.
-Aber Stärke hat viele Formen.
+## Darum geht's
 
-Weit über den staubigen Hügeln ragen die Planetoformanlagen wie metallene Giganten in den Himmel – uralte Maschinen,
-betrieben von geheimnisvollen KIs, die mehr wissen, als sie sagen. Tief darunter leben die Marser – feline Wesen mit
-wachen Augen, scharfen Krallen und weichen Herzen. Sie wachsen auf in Ausbildungslagern, arbeiten in Schrottfeldern,
-lernen, sich zu behaupten, zu träumen … und zu kämpfen.
+Hab Spass auf dem Mars! Erlebe Gefahrem und Abenteuer! Und wie weit wirst du gehen, um den Mars zu retten?
 
-Du bist Teil einer Kadett*innenschaft.
-Du hast Freunde. Hoffnungen. Schwächen.
-Vielleicht fehlt dir ein Bein. Vielleicht sprichst du anders. Vielleicht träumst du von Dingen, die man dir verbieten
-will.
+### Auf einen Blick
 
-Doch du bist nicht allein.
-Und wenn du mutig bist, kannst du den Schleier lüften – über die KIs, das Grosse Schyff … und über das, was der Mars
-einst war.
+1. Du bist eine Katze auf zwei Beinen.
+2. Du lebst auf dem Mars. Die Atmosphäre des Mars ist giftig und darum brauchst du einen Schutzanzug.
+3. Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinning und hat einen Krieg angezettelt.
+4. Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
+5. Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?
 
-Staubpfoten ist ein erzählerisches Rollenspiel für Menschen jeden Alters.
-Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
+### Spielwelt
 
-## Mars, 2045. 2. Interplanetarischer Krieg.
+Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
+
+Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und du bist Mitglied der sogenannten MZ-Kadettschaft, einer paramilitärische Gruppierung zum Heranziehen von Soldaten.
+
+Und das heisst Spass. Nachmittägliche Gruppenstunden, mehrtägige Wehrertüchtigungslager, HR-Führerschein! Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren.
+
+Nieder mit den KI!
+
+(Oder auch nicht!)
+
+## Besonderheit
+
+Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
+
+## Mars, 2045
+
+Die unendliche Weite des Horizonts. Überspannt vom sanft grünen Himmel.  Der Sand und all die verschiedenen Farbtöne des Sands. Ocker. Ziegel. Dunkel. Braun. Bromig. Hier bist du geboren. Auf dem Mars.
+
+Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ersetzt haben. Das Brom ist bitter ... und ätzend.
+
 
 >Ihr schlüpft in die Rollen **Marser Kinder**.
 >Marser sind Feline mit Fell, Schwarz und Schnurrhaaren.
 >Erlebt ein wundervolles Abenteuer – und macht die Welt ein bisschen besser!
+
+## Kadettschaft - Kameradschaft
+
+Ja, Kacke ... Krieg und Kindsein ...
 
 !!! quote "Ja, Kacke … Krieg und Kindsein …"
 
@@ -39,6 +55,7 @@ Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
     und danach bei eurem ersten richtigen Auftrag:
     der **Observation der Mars-Kristallnacht**.
     Ihr werdet den Marsianischen Zephir stolz machen!
+Kleiner Tipp: Und schau zu, dass niemand mitbekommt, dass deine Schwester behindert ist. Sonst kommen sie sie holen ... also verrate keinem dein Geheimnis.
 
 
 !!! tip "Kleiner Tipp:"
@@ -47,6 +64,27 @@ Divers, barrierefrei gedacht, voller Geheimnisse, Herz und Kampfgeist.
     dass deine Schwester behindert ist.
     Sonst kommen sie sie holen …
     also verrate keinem dein Geheimnis.
+
+### Hintergrund
+
+Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisde aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
+
+Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
+
+
+
+## Triggerwarnungen
+
+* Ideologie
+* Gruppenzwang
+* Verrat
+* Irrtum
+* Tod
+* Body-Horrer / Missgestaltung des Körpers
+* Ungerechtigkeit gegenüber Minderheiten
+* Zweifel
+* Ungewissheit
+* Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
 ## Disclaimer
 
@@ -102,14 +140,12 @@ Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspi
 
 Dieses Rollenspiel ist divers, nicht nur in Bezug auf `[AKTUELL_POLITISCH_KORREKTE_BEZEICHNUNG_FUER_LGBTQIA+]`-Community, sondern vor allem in Bezug auf Inklusion von Behinderten.
 
-Eine besondere Stellung nimmt im Rollenspiel die Gebärdensprache ein. Diese Sprache ist die Standardsprache daraussen. Daher kann man draussen niemandem hinterherrufen. . Das Rollenspiel soll diese Beschränkungen erfahrbar machen.
-
 Jeder Charakter hat Behinderungen, Einschränkungen, psychische Probleme - so wie wir alle.
 
 Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 
 * Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
-* Behinderte: Erfahrungen als Anders-Behinderter sammeln.
+* Behinderte: Erfahrungen als Anders-Behinderter sammeln und einfach Spass haben.
 
 <div class="textbox">
   So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
@@ -118,17 +154,14 @@ Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 
 ## 🎲 Spiel-Erfahrungen
 
-Die bisherige Spielerfahrung hat gezeigt, wie wirkungsvoll dieser Ansatz sein kann:
+Im monatlichen Rollenspielteff des Rollenspielvereins Freiburg habe ich dieses System / Rollenspiel mehrmals  angeboten. Die Rückmeldungen waren durchweg positiv.
 
-- Diskussionen über das **Dritte Reich** wurden innerhalb der Gruppe **reflektiert und kontrovers** geführt.
-- Besonders eindrucksvoll war die **Rekapitulation der NS-Propaganda-Strukturen** – gemeinsam mit einer Schülerin, die das Thema gerade **parallel im Schulunterricht** behandelt hatte.
-- Ein bewegender Moment: Zwei Spieler*innen mit Behinderungen freuten sich spontan und sagten lächelnd:
+Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:
 
-!!! quote "ein Zitat aus einer Spielrunde"
-    „Schau mal, wir können uns die Behinderungen selbst auswählen!“
-    <br>
-    Ein schöner Beweis dafür, dass **Selbstwirksamkeit, Sichtbarkeit und Perspektivwechsel**
-    durch Rollenspiel möglich sind.
+* Diskussionen über das 3. Reich
+* Rekapitulation des 3. Reichs und der Propaganda-Struktur. U. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
+* Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
+* Erfahrungen im Mitläufertum: hilflose und schliesslich plasmierte KI; aus purem Eigennutz vernichtet (da war selbst ich als Meister baff). Empörung der Mitstreiterin: "Wir gründen eine Weisse Rose" (zur Rettung der KI)
 
 ---
 
