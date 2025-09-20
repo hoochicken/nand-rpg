@@ -127,3 +127,13 @@ Halo (li), Nand (re)
 * 🤫 Kleines Geheimnis
     * Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde.
     * Er hat ihr heimlich ein kleines Radiomodul geschenkt, damit sie wieder zuhören kann.
+
+**10. Oberfeldwebel Brann Korvet**
+
+* Rolle: Logistikoffizier, verantwortlich für Nachschub, Reparaturpläne und die „Produktivität“ der Kadetten.
+* Aufgabe im RPG: ️ Beschützer der AKI Lyra-7s im WEL
+* Persönlichkeit: Streng, müde, nicht offen freundlich – aber pragmatisch. Er stellt Ordnung und Effizienz über Ideologie.
+* **Warum er Lyra schützt:**
+   * Er hätte beinahe einen Transport verloren, weil eine Karte fehlerhaft war. Lyra-7 projizierte spontan eine Ausweichroute – und rettete seine Einheit. Seitdem verteidigt er sie stillschweigend.
+   * Offiziell sagt er: „Billiger als zehn Schreiberlinge. Wir behalten sie.“
+   * Geheimnis: Branns Bruder wurde deportiert wegen angeblicher „KI-Sympathien“. Tief im Innern zweifelt Brann am System – aber er zeigt es nicht.
