@@ -35,6 +35,7 @@ Mother of all KI [in Arbeit]
 
 ![image](../_images/ki/lyra-7.png)
 
+
 ### 📜 Hintergrund
 
 Lyra-7 war ursprünglich eine kleine Werkstatt-Helfereinheit des WEL, zuständig für Werkzeugkatalogisierung und einfache Reparaturen. Doch in ihrem Datenkern begann sich etwas Ungewöhnliches zu entwickeln: ein Talent für Erinnerungen. Sie merkt sich Geschichten, Lieder und heimliche Flüstereien – und kann sie als Lichtbilder, Hologramme oder Rätsel wiedergeben.
