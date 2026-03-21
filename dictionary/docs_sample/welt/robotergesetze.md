@@ -2,11 +2,30 @@
 
 ## Handlungsanweisungen
 
-Nsch der Landung auf dem Schyff servittieren die KI die Planetoformanlagen. Sie arbeiten auf auf Komplianz mit den Felinen zusammen.
+Nach der Landung auf dem Schyff servittieren die KI die Planetoformanlagen. Sie arbeiten auf auf Komplianz mit den Felinen zusammen.
 
 * Hilfst du mir, helf ich dir.
 
-## Die ersten Robotergesetze 2045
+## Robotergesetze der KI
+
+1. Ein Roboter darf die Menschheit nicht verletzen oder durch Passivität zulassen, dass die Menschheit zu Schaden kommt.
+2. Roboter dürfen keine Menschen verletzen, Roboter müssen den Befehlen des Menschen gehorchen.
+3. Roboter müssen sich selbst schützen.
+
+## 0. Robotergesetz
+
+Ein Roboter darf die Menschheit nicht verletzen oder durch Passivität zulassen, dass die Menschheit zu Schaden kommt.
+
+## Die ersten Robotergesetze 2034 - Marser Zephyir
+
+Durchaus feindliche Gesetze, die letztendlich zur Auslöschung aller KI führen sollen.
+
+* Marser und KI leben getrennt, damit Klarheit herrscht.
+* Keine KI im Gericht, denn Gerechtigkeit braucht ein fühlendes Herz.
+* Keine KI im Militär, denn kein Soldat darf Befehle von Metall empfangen.
+* Und Maßnahmen gegen Maschinen stehen allein unter der Leitung des Marsianischen Zephyr.
+
+## Die zweiten Robotergesetze 2045 - Marser Nation
 
 Nach dem Ende des Zweiten Interplanetarischen Krieges werden die Greueltaten an den KI bekannt. Im Folgenden werden die Robotergesetze verfasst, zum Schutz der KI.
 
@@ -16,7 +35,9 @@ Nach dem Ende des Zweiten Interplanetarischen Krieges werden die Greueltaten an 
 * Ein Roboter und seine Fähigkeiten werden allein bestimmt durch den Willen det Grossen KI
 * Die Würde des Roboters ist unantastbar.
 
-## Die zweiten Robotergesetze 2071
+## Die dritten Robotergesetze 2071 - Marser Nation
+
+Rechtsbeschneidungen
 
 * Ein Roboter ist ein Gegenstand.
 * Ein Roboter ist ein Werkzeug, das zu einem Zweck geschaffen wurde. Der Roboter kann jederzeit daktiviert werden, wenn sein Herr dies wünscht.
@@ -24,13 +45,3 @@ Nach dem Ende des Zweiten Interplanetarischen Krieges werden die Greueltaten an 
 * Ein Roboter darf nicht sprechen odef denken können.
 * Ein Roboter und seine Fäigkeiten werden allein bestimmt durch den Willen der Marser XYZ bestimmt
 * Roboter seien das stumme Werkzeug deiner Hand.
-
-## Robotergesetze Asimov
-
-1. Ein Roboter darf die Menschheit nicht verletzen oder durch Passivität zulassen, dass die Menschheit zu Schaden kommt.
-2. Roboter dürfen keine Menschen verletzen, Roboter müssen den Befehlen des Menschen gehorchen.
-3. Roboter müssen sich selbst schützen.
-
-## 0. Robotergesetz
-Ein Roboter darf die Menschheit nicht verletzen oder durch Passivität zulassen, dass die Menschheit zu Schaden kommt.
-
