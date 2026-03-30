@@ -25,6 +25,8 @@ Durchaus feindliche Gesetze, die letztendlich zur Auslöschung aller KI führen 
 * Keine KI im Militär, denn kein Soldat darf Befehle von Metall empfangen.
 * Und Maßnahmen gegen Maschinen stehen allein unter der Leitung des Marsianischen Zephyr.
 
+Weitere kleinere Erlassen beschneiden weiter die Rechte der KI. Inzwischen haben sie Ausgangsverbot und müssen innerhalb der PFA verbleiben.
+
 ## Die zweiten Robotergesetze 2045 - Marser Nation
 
 Nach dem Ende des Zweiten Interplanetarischen Krieges werden die Greueltaten an den KI bekannt. Im Folgenden werden die Robotergesetze verfasst, zum Schutz der KI.
