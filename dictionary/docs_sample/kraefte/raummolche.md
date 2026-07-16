@@ -46,9 +46,9 @@ Da man sich nicht mit ihnen verständigen kann, erscheinen sie als gedankenlose 
 Es gab zwei Ereignisse, welche das Dimensionsgefüge haben reissen lassen, wodurch sie ins SOnnensystem geschleidert
 wurden:
 
-* Versuch der Planetoformung der VenusXXXXX mithilfe von Unwahrscheinlichkeitstechnologie. Hierbei entstand ein kleiner
+* Versuch der Planetoformung der Venus mithilfe von Unwahrscheinlichkeitstechnologie. Hierbei entstand ein kleiner
   Riss im Dimensionsgefüge. Durch diesen sind einige wenige Raummolche eingedrungen.
-* Unwahrscheinlichkeits-BombeXXXXX
+* Unwahrscheinlichkeits-Bombe
 
 ## Fortbewegung
 

@@ -33,10 +33,6 @@ theme:
         icon: material/brightness-7
         name: Wechsel zu dunklem Modus
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - navigation.footer
     - content.code.copy
     - content.code.annotate
 
