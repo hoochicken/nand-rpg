@@ -151,3 +151,54 @@ Oder einfache Beschriftungen.
 | ᛜ    | Ingwaz      | i        |
 | ᛞ    | Dagaz       | s        |
 | ᛟ    | Ōþila       | o        |
+
+## 📖 Morsecode-Tabelle
+
+Insonders KI nutzen gerne Morsezeichen; daraus lassen sich schön und einfach Rätsel kreieren :-)
+
+Es gibt **Merkwörter**:
+
+* Jede Silbe mit "O" repräsentiert ein —
+* eine Silbe einem anderen Vokal "A", "E" "I", "U" (=kein o) repräsentiert ein ·
+
+| Buchstabe | Morse   |                | Buchstabe | Morse   |                     |
+|-----------|---------|----------------|-----------|---------|---------------------|
+| A         | · —     | Atom           | N         | — ·     | Norden              |
+| B         | — · · · | Bohnensupper   | O         | — — —   | O Otto              |
+| C         | — · — · | Coburg Gotha   | P         | · — — · | Pilotohren          |
+| D         | — · ·   | Dosenbier      | Q         | — — · — | Quolsdorf bei Forst |
+| E         | ·       | Eis            | R         | · — ·   | Revolver            |
+| F         | · · — · | Frankfurt Oder | S         | · · ·   | Sausewind           |
+| G         | — — ·   | Grossmogul     | T         | —       | Tor                 |
+| H         | · · · · | Hausbesitzer   | U         | · · —   | Uhlendorf           |
+| I         | · ·     | Insel          | V         | · · · — | Ventilator          |
+| J         | · — — — | Judo Otto      | W         | · — —   | Windrotor           |
+| K         | — · —   | Kohlendorf     | X         | — · · — | Xo ist kein Wort    |
+| L         | · — · · | Limonade       | Y         | — · — — | Yo und Yoyo         |
+| M         | — —     | Motor          | Z         | — — · · | Zorromaske          |
+
+| Zahl | Morse     |
+|------|-----------|
+| 1    | · — — — — |
+| 2    | · · — — — |
+| 3    | · · · — — |
+| 4    | · · · · — |
+| 5    | · · · · · |
+| 6    | — · · · · |
+| 7    | — — · · · |
+| 8    | — — — · · |
+| 9    | — — — — · |
+| 0    | — — — — — |
+
+**Morse-Repräsentation**
+
+| Typ                              | · kurz      | — lang                    |
+|----------------------------------|-------------|---------------------------|
+| Piepen                           | kurz piepen | lang piepen               |
+| Klopfen                          | 1x klopfen  | 1x klopfen + 0.6 s wartem |
+| Klopfen (mit viel Raumlärm)      | 1x klopfen  | 2x klopfen                |
+| Klopfen auf verschiedenen Rohren | hoher Ton   | tiefer Ton                |
+
+* Pause zwischen Zeichen einer Buchstabenfolge ≈ eine halbe Sekunde
+* Pause zwischen Buchstaben ≈ 1–2 Sekunden
+* Pause zwischen Wörtern ≈ 3 Sekunden oder länger

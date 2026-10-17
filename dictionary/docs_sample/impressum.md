@@ -8,11 +8,14 @@ Dr. Mareike Riegel<br />
 ## Datenschutz
 
 Diese Website ist vollkommen statisch.
-Sie lebt keinerlei Informationen ab.
+Sie legt keinerlei Informationen ab.
 
 ## Bilder
 
+![Michael.png](_images/redaktion/Michael.png)
 * Michael Dietrich &amp; AI (AI-generierte Bilder)
+
+![Mareike_2.png](_images/redaktion/Mareike_2.png)
 * Mareike Riegel (Handzeichnungen mit Bleistift, Tinte und Kohle)
 
 
