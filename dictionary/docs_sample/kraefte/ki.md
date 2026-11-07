@@ -148,6 +148,14 @@ einer Ritze.
 **Geheimtipp**: Wenn man ihn mit einem winzigen Tropfen Plötzensekret einreibt, flackert sein "Emotionlicht" rosa und er
 wird besonders kreativ.
 
+###  Rho - feliner Arbeiter
+
+Felin gestalteter Arbeiter. Die meiste verwendete KI hinter Theken und als Bedienungen.
+
+###  Rydberg - feliner Arbeiter
+
+Felin gestalteter Arbeiter. Die meiste verwendete KI für körperliche und physikalische Arbeiten an gefährlichen Standorten.
+
 ### 🌪️ PFA – Planetoformanlage
 
 * **Zweck**: Umwandlung und Reinigung der marsianischen Atmosphäre – insbesondere Entfernung von Bromverbindungen,
